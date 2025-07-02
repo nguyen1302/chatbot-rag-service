@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  qdrant:
+    image: qdrant/qdrant
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+
+  rag-backend:
+    build:
+      context: .
+    container_name: rag-backend
+    env_file:
+      - .env
+    ports:
+      - "8001:8001"
+    depends_on:
+      - qdrant
+    environment:
+      - QDRANT_HOST=qdrant  # trỏ thẳng tới service name

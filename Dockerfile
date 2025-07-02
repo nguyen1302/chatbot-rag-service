@@ -1,28 +1,29 @@
 FROM python:3.10-slim
 
-# Set timezone & install system deps
+# 1. Set timezone & install system deps (thêm libmupdf-tools cho PyMuPDF hoạt động ổn hơn)
 ENV TZ=Asia/Ho_Chi_Minh
 RUN apt-get update && apt-get install -y \
     build-essential \
     curl \
+    libmupdf-dev \
     && rm -rf /var/lib/apt/lists/*
 
-# Create virtual env (tốt hơn cài trực tiếp vào global site-packages)
+# 2. Tạo venv riêng
 ENV VIRTUAL_ENV=/opt/venv
 RUN python -m venv $VIRTUAL_ENV
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
-# Set working dir
+# 3. Làm việc tại /app
 WORKDIR /app
 
-# Copy deps & install sớm (caching tốt hơn)
+# 4. Copy deps trước để tối ưu caching
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip \
  && pip install --no-cache-dir -r requirements.txt
 
-# Copy code
+# 5. Copy toàn bộ mã nguồn
 COPY . .
 
-# Port & startup
+# 6. Expose port + default CMD
 EXPOSE 8001
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8001"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8001", "--reload"]
