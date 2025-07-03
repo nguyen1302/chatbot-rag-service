@@ -1,8 +1,3 @@
 ### RUN
-docker compose up --build
-
-### deploy 
-docker compose up --build -d
-
-### RUN local
-uvicorn main:app --reload --port 8001
+./run-db.sh         # Khởi động Qdrant độc lập
+./run-backend.sh    # Build + run backend
