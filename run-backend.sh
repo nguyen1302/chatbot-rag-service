@@ -1,7 +1,10 @@
 #!/bin/bash
 
-echo "🔨 Building RAG backend..."
+echo "🔨 Rebuilding RAG backend image (no cache)..."
 
-docker compose up --build -d rag-backend
+docker compose build --no-cache rag-backend
+
+echo "🚀 Restarting container..."
+docker compose up -d rag-backend
 
 echo "✅ RAG backend is running on http://localhost:8001"
