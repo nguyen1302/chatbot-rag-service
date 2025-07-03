@@ -41,9 +41,16 @@ def delete_existing_by_doc_id(doc_id: str):
         )
     )
 
-def read_pdf(file_path: str) -> str:
-    with fitz.open(file_path) as doc:
-        return "".join(page.get_text() for page in doc)
+def read_file(file_path: str) -> str:
+    if file_path.endswith(".pdf"):
+        with fitz.open(file_path) as doc:
+            return "".join(page.get_text() for page in doc)
+    elif file_path.endswith(".txt"):
+        with open(file_path, "r", encoding="utf-8") as f:
+            return f.read()
+    else:
+        raise ValueError(f"Unsupported file format: {file_path}")
+
 
 def chunk_text(text: str) -> List[str]:
     splitter = RecursiveCharacterTextSplitter(
@@ -60,7 +67,7 @@ def ingest_single_file(file_path: str, document_id: str, force: bool = True):
     print(f"🚀 Ingesting: {document_id}")
     delete_existing_by_doc_id(document_id)
 
-    text = read_pdf(file_path)
+    text = read_file(file_path)
     chunks = chunk_text(text)
 
     points = []
@@ -80,7 +87,7 @@ def ingest_single_file(file_path: str, document_id: str, force: bool = True):
 
 def ingest_folder(folder_path: str, force: bool = True):
     recreate_collection_if_needed()
-    files = [f for f in os.listdir(folder_path) if f.endswith(".pdf")]
+    files = [f for f in os.listdir(folder_path) if f.endswith((".pdf", ".txt"))]
     for f in sorted(files):
         file_path = os.path.join(folder_path, f)
         doc_id = os.path.splitext(f)[0]

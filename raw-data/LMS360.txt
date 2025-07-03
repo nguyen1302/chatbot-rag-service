@@ -1,0 +1,79 @@
+A. LMS360 E-LEARNNG (lms360.edu.vn)
+I. TỔNG QUAN
+1. Giới thiệu chung 
+Hệ thống Quản lý học tập trực tuyến LMS360 e-Learning được thiết kế theo mô hình quản lý cấp Sở - Phòng - Hiệu trưởng - Giáo viên - Học sinh - Phụ huynh. Phần mềm kết nối người học với những bài giảng tương tác chuyên sâu, chất lượng thông qua các giai đoạn từ chuẩn bị bài, các hoạt động trên lớp, kiểm tra đánh giá. Giúp giáo viên xây dựng các học liệu số tương tác, xây dựng các bài kiểm tra đánh giá đa dạng. Có thể giám sát toàn bộ quá trình học tập của học sinh, tạo điều kiện thuận lợi để nhà trường tổ chức thành công mô hình dạy học trực tiếp kết hợp trực tuyến.
+Hệ thống tích hợp công cụ soạn giảng hiện đại, áp dụng phương pháp lấy người học làm trung tâm theo 6 cấp độ tư duy: Nhớ – Hiểu – Vận dụng – Phân tích – Đánh giá – Sáng tạo. Áp dụng phương pháp học tập – giảng dạy hiện đại, dựa trên mô hình học tập 3 bước, kết hợp giữa trực tiếp và trực tuyến: 
+ 
+2. Thông số kỹ thuật
+•	Yêu cầu hệ thống
+- Hệ điều hành: Windows, macOS, Linux.
+- Trình duyệt hỗ trợ: Chrome, Firefox, Safari, Edge (phiên bản mới nhất).
+- Cơ sở dữ liệu: MySQL, PostgreSQL, SQL Server.
+- Ngôn ngữ lập trình: HTML5, CSS3, JavaScript, và các framework phổ biến.
+•	Khả năng mở rộng
+- Số lượng người dùng: hỗ trợ từ vài trăm đến hàng trăm nghìn người dùng.
+- Tùy biến: Cho phép tùy chỉnh giao diện và tính năng theo nhu cầu.
+•	Hiệu suất
+- Thời gian phản hồi dưới 2 giây cho các thao tác thông thường.
+- Khả năng chịu tải hỗ trợ lên đến 10,000 người dùng truy cập đồng thời.
+- Hỗ trợ caching và load balancing để tăng hiệu suất hệ thống.
+•	Hỗ trợ đa nền tảng
+- Web-based: Truy cập qua trình duyệt trên máy tính và thiết bị di động.
+- Mobile app: Hỗ trợ ứng dụng di động trên iOS và Android.
+- Giao diện tự động điều chỉnh phù hợp với mọi kích thước màn hình.
+3. Năng lực pháp lý (Đính kèm tại phụ lục 1)
+- VP số 3291 của Sở GD&ĐT TPHCM: Xác nhận hệ thống LMS360 đã kết nối với CSDL Ngành và thống nhất với BK về việc triển khai LMS360 đến cơ sở giáo dục trên địa bàn Thành phố dựa trên nhu cầu và lựa chọn của đơn vị.
+- VP số 71 của Sở GD&ĐT TPHCM: Thống nhất với đề xuất của Bách Khoa về việc kết nối Hệ thống với Cơ sở dữ liệu Ngành Giáo dục TPHCM thông qua Trục dữ liệu.
+- VP số 179 của Sở GD&ĐT TP.HCM: Xác nhận 04 đơn vị đã đáp ứng đầy đủ các điều kiện và tiêu chuẩn để kết nối với Trục dữ liệu Ngành. Bao gồm Tập đoàn KHCN Bách Khoa.
+- Chứng nhận đăng ký quyền tác giả: Chứng nhận phần mềm LMS360 e-Learning thuộc sở hữu quyền tác giả của Công ty Bách Khoa.
+II. CHI TIẾT TÍNH NĂNG
+1. Người dùng và vai trò
+ 
+•	Có 8 vai trò tài khoản cụ thể trong hệ thống LMS 360 e-Learning: 
+-	Sở/Phòng GD&ĐT (admin Sở/Phòng): admin Sở/Phòng đóng vai trò quản lý và hỗ trợ các trường triển khai chính sách, đảm bảo chương trình giảng dạy đạt chuẩn, đồng thời tổ chức bồi dưỡng chuyên môn cho giáo viên và hỗ trợ phát triển học liệu số. Admin Sở/Phòng cũng giám sát, đánh giá chất lượng dạy và học thông qua các học liệu số do Giáo viên thực hiện, cũng như kết quả tương tác của học sinh. 
+-	Trưởng/Phó Phòng/Sở GD&ĐT và Chuyên viên Phòng/Sở GD&ĐT: Thực hiện các hoạt động chuyên môn và bồi dưỡng cho Giáo viên, Học sinh. Có trách nhiệm kiểm duyệt học liệu số trong kho kho học liệu dùng chung cấp Phong/Sở. 
+-	Nhà trường (admin trường): admin trường đóng vai trò quản lý và hỗ trợ các trường triển khai chính sách, đảm bảo chương trình giảng dạy đạt chuẩn, đồng thời tổ chức bồi dưỡng chuyên môn cho giáo viên và hỗ trợ phát triển học liệu số, đảm bảo kết quả học tập cho Học sinh.. Admin trường cũng giám sát, đánh giá chất lượng dạy và học thông qua các học liệu số do Giáo viên thực hiện, cũng như kết quả tương tác của học sinh toàn trường. 
+-	Ban giám hiệu: theo dõi tiến độ giảng dạy và học tập của toàn trường. Ban giám hiệu còn có trách nhiệm kiểm duyệt học liệu số do giáo viên các tổ chuyên môn đóng góp. 
+-	Tổ trưởng/phó chuyên môn: theo dõi tiến độ giảng dạy và học tập của tổ chuyên môn mìn phụ trách. Tổ trưởng/phó chuyên môn còn có trách nhiệm kiểm duyệt học liệu số do giáo viên trong tổ đóng góp. 
+-	Giáo viên: Giáo viên đóng vai trò chủ đạo trong việc tạo bài giảng số trên LMS360, không chỉ thiết kế nội dung hấp dẫn và tương tác để thu hút học sinh, hỗ trợ thời gian học tập trên lớp. Mỗi bài giảng góp phần vào kho học liệu dùng chung của Phòng Giáo dục, hỗ trợ cộng đồng giáo viên và lan tỏa tri thức. Qua việc này, giáo viên không chỉ truyền đạt kiến thức mà còn dẫn dắt học sinh trong hành trình học tập số.
+-	Học sinh: Trong quá trình học tập trực tuyến, học sinh đóng vai trò trung tâm và chủ động. Tham gia vào bài giảng, thảo luận và hoàn thành các nhiệm vụ học tập. Học sinh tự giác quản lý thời gian, sắp xếp kế hoạch học tập hợp lý và sử dụng thành thạo các công cụ công nghệ hỗ trợ như phần mềm học tập, nền tảng trực tuyến và ứng dụng tương tác. Sự chủ động, trách nhiệm và tinh thần học hỏi sẽ giúp các em đạt được kết quả học tập tốt nhất trong môi trường trực tuyến.
+2. Tính năng nổi bật
+ 
+-	Đăng nhập đơn giản bằng tài khoản Cơ Sở Dữ Liệu Ngành tại TPHCM. 
+-	Hệ thống quản lý học tập - báo cáo: Mô hình quản lý học tập trực tuyến Sở/Phòng - Trường học - Tổ chuyên môn - Giáo viên - Học sinh. Admin có quyền quản lý các tài khoản con theo từng Sở/Phòng/Trường; Giáo viên quản lý dữ liệu học tập của Học sinh và Học sinh tự quản lý quá trình học tập, toàn bộ đều thực hiện trực tuyến trên hệ thống LMS360. Xuất báo cáo chi tiết theo cá nhân, lớp học, môn học và theo dõi tiến độ học tập của từng Học sinh.
+-	Soạn giảng tương tác trực tiếp trên LMS360: Bài giảng số được xây dựng trực tiếp trên hệ thống LMS360 bằng bộ LCMS  công cụ soạn giảng tương tác theo từng phần/từng chương bài học. Đa dạng hình thức bài tập: Trắc nghiệm, điền từ, kéo thả, video, âm thanh, hình ảnh, trò chơi,...
+-	Chấm điểm tương tác tự động: Trong quá trình tương tác của Học sinh, điểm số sẽ được tự động ghi nhận và lưu trữ, thống kê quá trình học tập. Giáo viên - Học sinh - PHHS có thể theo dõi và kiểm tra.
+-	Quy trình kiểm duyệt học liệu: Xây dựng quy trình kiểm duyệt học liệu số từ cấp Tổ chuyên môn - Trường - Phòng - Sở. Cho phép Giáo viên chia sẻ và sử dụng học liệu được công nhận trong kho học liệu dùng chung.
+ 
+-	Phòng thí nghiệm mô phỏng: Mô hình phòng thí nghiệm mô phỏng tích hợp nhiều môn học, mô phỏng những thí nghiệm giúp Giáo viên và Học sinh sử dụng vào bài học trực tiếp hay trực tuyến.
+-	Chuyển đổi số Công tác hành chính: Chuyển đổi số công tác hành chính thông qua “Nhiệm vụ trường học” trên hệ thống LMS360. Xây dựng các nhiệm vụ chuyên môn cho Giáo viên và Học sinh cấp Trường - Phòng - Sở.
+-	Tích hợp AI trên hệ thống LMS360: 
++ Bách Khoa tích hợp Chatbot AI BKTech trực tiếp trên hệ thống LMS360, hỗ trợ giải quyết trong quá trình giảng dạy - học tập cho Giáo viên và Học sinh. 
++ Hệ thống có AI hỗ trợ cá nhân hóa quá trình học tập cho Học sinh, đề xuất khóa học phù hợp.
++ Các khóa đào tạo chuyên sâu về Trí tuệ nhân tạo để ứng dụng vào quá trình giảng dạy của Giáo viên trở nên đơn giản và mở rộng hơn; quá trình học tập của Học sinh được theo dõi và nhắc nhở liên tục. 
+-	Bảo mật dữ liệu và đảm bảo quyền tác giả: Hệ thống LMS360 e-Learning đảm bảo về: 
++ Bảo mật SSL, mã hóa dữ liệu để đảm bảo an toàn thông tin.
++ Đảm bào quyền tác giả của bài giảng trên mọi hình thức. 
++ Phân quyền người dùng rõ ràng theo từng cấp độ.
+III. Kết quả hoạt động
+1. Tình hình hoạt động
+Bách Khoa vinh dự phục vụ được các Sở Giáo dục và Đào tạo trên toàn quốc: Thành Phố Hồ Chí Minh, Hà Nội, Bà Rịa - Vũng Tàu, Đà Nẵng, Quảng Nam, Quảng Bình, Tây Ninh, Bình Dương, Đồng Tháp,...
+ 
+Có tổng 847 trường đã sử dụng hệ thống LMS360 e-Learning để xây dựng bài giảng số, trong đó, 787 trường tại thành phố Hồ Chí Minh và 60 trường ở tỉnh thành khác.... Trong đó, cụ thể:
+-	Tổng trường dùng LMS360 để xây dựng học liệu số: 290 trường tiểu học, 325 trường trung học cơ sở, 181 trung học phổ thông và 50 trường loại khác
+-	Tổng số trường đã xây dựng bài giảng số trên LMS360 là 847
+-	Tổng số học liệu số đã được xây dựng trên hệ thống LMS360 là 400.053 học liệu, Tổng dung lượng lưu trữ cho học liệu đã đạt đến 60.000 GB. 
+-	Số lượng học sinh đã học tập trên LMS360 đạt 300.000. 
+-	200.000 giáo viên đã được tập huấn chuyển đổi phương pháp giảng dạy, xây dựng thiết kế bài giảng số và ứng dụng AI. 
+-	Có 8 phòng giáo dục chọn LMS360 làm ngân hàng học liệu số dùng chung của toàn phòng. 
+2. Hoạt động chuyên môn
+- Phối hợp với Sở Giáo Dục và Đào Tạo TPHCM tập huấn môn GDĐP và môn Toán khối THCS, THPT. Triển khai nộp bài thu hoạch trên hệ thống LMS360.
+- Phối hợp với Sở Giáo Dục và Đào Tạo TPHCM thực hiện những hội thi GV/GVCN dạy giỏi cấp thành phố
+- Phối hợp với PGD Nhà Bè triển khai Hội thi Giáo viên dạy giỏi theo đề án 06 của Chính Phủ đăng nhập bằng VNeID. 
+- Thực hiện nhiệm vụ xây dựng kho học liệu dùng chung cho Phòng Giáo Dục và Đào Tạo: Quận 3, Quận 7, Quận Phú Nhuận, Quận Tân Phú, Huyện Nhà Bè, Thành phố Thủ Đức, Thành phố Thủ Dầu Một,...
+- Đồng hành với các Phòng Giáo Dục để xây dựng những hoạt động chuyên môn dành cho Giáo viên và Học sinh: hội thi “Lớn lên cùng sách” và Hội thi Vui học Tiếng Anh khối THCS cho Học sinh tại PGD Tân Phú, hội thi Dictric 3's Got Talent, hội thi An Toàn Giao Thông, hội thi Thiết kế poster chủ đề môi trường cho Học sinh PGD Quận 3, Hội thi Giáo viên thiết kế bài giảng e-Learning tại TP. Thủ Đức,... 
+- Tập huấn ứng dụng trí tuệ nhân tạo trong giảng dạy và xây dựng học liệu số và ứng dụng trên hệ thống LMS360 cho 1200 giáo viên Phòng Giáo Dục Quận 3.
+- Tập huấn chuyển đổi phương pháp giảng dạy, xây dựng thiết kế bài giảng số và ứng dụng AI cho hơn 300 Hiệu trưởng tại TP Đà Nẵng. 
+- Tập huấn cho hơn 300.000 Giáo viên chuyển đổi phương pháp giảng dạy, xây dựng thiết kế BGS và ứng dụng AI tại nhiều tỉnh thành. 
+- Và các hoạt động chuyên môn khác, etc. 
+ 

@@ -11,7 +11,7 @@ router = APIRouter()
 @router.post("/ingest")
 async def ingest_all():
     ingest_folder("raw-data", force=True)
-    return {"status": "ok", "message": "All PDFs ingested"}
+    return {"status": "ok", "message": "All PDFs or txt ingested"}
 
 @router.get("/ingest/docs")
 async def list_docs():

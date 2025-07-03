@@ -1,0 +1,45 @@
+E. HỆ THỐNG KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC (kiemdinh.lms360.edu.vn)
+I. TỔNG QUAN
+1. Giới thiệu chung 
+Hệ thống Kiểm định Chất lượng Giáo dục của Bách Khoa được thiết kế để giúp các trường học và cơ sở giáo dục thực hiện quy trình kiểm định một cách hiệu quả, đáp ứng các tiêu chuẩn chất lượng đề ra của Sở và Phòng. 
+Hệ thống Kiểm định chất lượng giáo dục là hệ thống, đáp ứng yêu cầu Chuyển đổi số về việc thực hiện các công tác báo cáo tự đánh giá hằng năm và đánh giá ngoài trong kiểm định chất lượng giáo dục theo quy định của BGD&ĐT.
+Được phối hợp và cố vấn trực tiếp từ Sở GD&ĐT TP.HCM nghiên cứu và phát triển phần mềm. Vì thế mà phần mềm mang đậm những nét đặc trưng riêng biệt phụ vụ chính cho các nghiệp vụ trong công tác kiểm định từ các cấp.
+Xây dựng cho Sở chức năng thư viện không gian lưu trữ các công văn thông tư biểu mẫu giúp các đơn vị trường có 1 kho dữ liệu thông tin, tìm kiếm sử dụng hiệu quả trong công tác kiểm định.
+Cấu trúc dữ liệu và trình tự nội dung, biểu mẫu được thiết kế theo thông tư 17,18,19 năm 2018 và công văn hướng dẫn 5932 năm 2018 (dành cho TH, THCS, THPT) và các trường liên cấp, 5942 năm 2018 (dành cho mầm non).
+Hệ thống phục vụ cho các đối tượng người dùng: 
+•	Sở Giáo Dục & Đào tạo. 
+•	Phòng Giáo Dục & Đào tạo. 
+•	Các trường từ hệ Mầm non, Tiểu học, Trung Học Cơ Sở, Trung Học Phổ Thông, Trường nhiều cấp học. 
+2. Thông số kỹ thuật
+•	Yêu cầu hệ thống
+- Hệ điều hành: Windows, macOS, Linux.
+- Trình duyệt hỗ trợ: Chrome, Firefox, Safari, Edge (phiên bản mới nhất).
+- Cơ sở dữ liệu: MySQL, PostgreSQL, SQL Server.
+- Ngôn ngữ lập trình: HTML5, CSS3, JavaScript, và các framework phổ biến.
+•	Khả năng mở rộng
+- Số lượng người dùng: hỗ trợ từ vài trăm đến hàng trăm nghìn người dùng.
+- Tùy biến: Cho phép tùy chỉnh giao diện và tính năng theo nhu cầu.
+•	Hiệu suất
+- Thời gian phản hồi dưới 2 giây cho các thao tác thông thường.
+- Khả năng chịu tải hỗ trợ lên đến 10,000 người dùng truy cập đồng thời.
+- Hỗ trợ caching và load balancing để tăng hiệu suất hệ thống.
+•	Hỗ trợ đa nền tảng
+- Web-based: Truy cập qua trình duyệt trên máy tính và thiết bị di động.
+- Mobile app: Hỗ trợ ứng dụng di động trên iOS và Android.
+- Giao diện tự động điều chỉnh phù hợp với mọi kích thước màn hình.
+II. CHI TIẾT SẢN PHẨM 
+1. Tính năng nổi bật
+- Hỗ trợ lưu trữ dữ liệu dài lâu và đơn giảm hơn so với
+- Phần mềm thân thiện, dễ dàng sử dụng khi triển khai đến người dùng.
+- Nhập liệu báo cáo kiểm định trên hệ thống: với mỗi cấp học, giao diện sẽ thiết kế báo cáo tương ứng với cấp học đó.
+- Xuất file báo cáo đã nhập trên hệ thống để in ấn.
+- Gửi báo cáo kiểm định hằng năm cho Phòng Giáo dục, Sở GD – ĐT.
+- Gửi đăng ký đánh giá ngoài.
+- Gửi thông báo đi và nhận thông báo đến từ Phòng giáo dục, Sở GD –ĐT trực tiếp trên hệ thống. 
+2. Triển khai sản phẩm
+- Kiểm định chất lượng giáo dục - có tổng 206 trường đã sử dụng hệ thống tại Thành phố Hồ Chí Minh. Trong đó, tổng trường dùng kiểm định chất lượng giáo dục gồm - 70 trường mầm non, 50 tiểu học, 30 trường trung học cơ sở, 23 trung học phổ thông. 
+- Giúp tự động hoá hoàn toàn các khâu nhập liệu, quản lí, xem báo cáo, nhận xét, đánh giá và phê duyệt trực tuyến.
+- Tiết kiệm được thời gian, nguồn lực và chi phí in ấn.
+- Dữ liệu báo cáo được lưu trữ tập trung và mãi mãi.
+- Xuất dữ liệu trực tiếp từ phần mềm chuẩn theo nghị định 30/2020/NĐ-CP.
+- Quản lý thông báo đa chiều và xem nhanh thông báo từ Phòng Giáo dục.
