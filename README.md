@@ -1,5 +1,3 @@
 ### RUN
-docker compose up --build
-
-### deploy 
-docker compose up --build -d
+./run-db.sh         # Khởi động Qdrant độc lập
+./run-backend.sh    # Build + run backend
