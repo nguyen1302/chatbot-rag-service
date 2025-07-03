@@ -1,150 +1,300 @@
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
+Tạo tài khoản quản trị cho trường như thế nào?
 Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
 Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
+Cách truy cập kho học liệu dùng chung?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Tôi không tạo được đề thi trên hệ thống kiểm tra.
 Cách dùng chatbot AI hỗ trợ giảng dạy?
-Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Học sinh có xem được kết quả kiểm tra không?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên có thể chấm điểm tự động như thế nào?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Làm sao để thêm học sinh vào lớp?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Làm sao để tạo bài giảng trên LMS360?
+Học sinh có xem được kết quả kiểm tra không?
+Phân quyền giáo viên để nhập điểm môn học.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Học sinh có xem được kết quả kiểm tra không?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Làm sao để thêm học sinh vào lớp?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Làm sao để thêm học sinh vào lớp?
+Làm sao để thêm học sinh vào lớp?
+Học sinh có xem được kết quả kiểm tra không?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Làm sao để tạo thời khóa biểu tự động?
+Phân quyền giáo viên để nhập điểm môn học.
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tạo tài khoản quản trị cho trường như thế nào?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
 Tạo tài khoản quản trị cho trường như thế nào?
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Làm sao để tạo thời khóa biểu tự động?
+Tạo tài khoản quản trị cho trường như thế nào?
 Cách dùng chatbot AI hỗ trợ giảng dạy?
 Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
-Tạo tài khoản quản trị cho trường như thế nào?
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Học sinh có xem được kết quả kiểm tra không?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
 Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
 Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Làm sao để tạo bài giảng trên LMS360?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
 Tạo tài khoản quản trị cho trường như thế nào?
+Tạo tài khoản quản trị cho trường như thế nào?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Làm sao để tạo bài giảng trên LMS360?
+Cách truy cập kho học liệu dùng chung?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Làm sao để thêm học sinh vào lớp?
+Tạo tài khoản quản trị cho trường như thế nào?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Tạo tài khoản quản trị cho trường như thế nào?
+Học sinh có xem được kết quả kiểm tra không?
+Làm sao để thêm học sinh vào lớp?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Cách truy cập kho học liệu dùng chung?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
 Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
+Làm sao để tạo thời khóa biểu tự động?
+Học sinh có xem được kết quả kiểm tra không?
+Cách truy cập kho học liệu dùng chung?
+Làm sao để thêm học sinh vào lớp?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
 Học sinh có xem được kết quả kiểm tra không?
 Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo bài giảng trên LMS360?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tạo tài khoản quản trị cho trường như thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Học sinh có xem được kết quả kiểm tra không?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Tạo tài khoản quản trị cho trường như thế nào?
+Làm sao để tạo thời khóa biểu tự động?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Học sinh có xem được kết quả kiểm tra không?
+Học sinh có xem được kết quả kiểm tra không?
 Tôi muốn báo cáo tiến độ học tập của lớp tôi.
 Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Chuyển đổi số trong công tác điểm danh thế nào?
 Làm sao để tạo thời khóa biểu tự động?
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Giáo viên có thể chấm điểm tự động như thế nào?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Làm sao để tạo bài giảng trên LMS360?
 Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Làm sao để thêm học sinh vào lớp?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Làm sao để tạo thời khóa biểu tự động?
+Học sinh có xem được kết quả kiểm tra không?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Cách truy cập kho học liệu dùng chung?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Làm sao để thêm học sinh vào lớp?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Học sinh có xem được kết quả kiểm tra không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Tạo tài khoản quản trị cho trường như thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Phân quyền giáo viên để nhập điểm môn học.
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Học sinh có xem được kết quả kiểm tra không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Làm sao để tạo bài giảng trên LMS360?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Làm sao để tạo thời khóa biểu tự động?
+Cách truy cập kho học liệu dùng chung?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Làm sao để thêm học sinh vào lớp?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Giáo viên có thể chấm điểm tự động như thế nào?
 Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
-Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
-Tôi muốn ký học bạ điện tử bằng chữ ký số.
-Tạo tài khoản quản trị cho trường như thế nào?
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
-Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
-Tạo tài khoản quản trị cho trường như thế nào?
+Làm sao để tạo thời khóa biểu tự động?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Giáo viên có thể chấm điểm tự động như thế nào?
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
 Cách dùng chatbot AI hỗ trợ giảng dạy?
-Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
-Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
 Tạo tài khoản quản trị cho trường như thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Cách truy cập kho học liệu dùng chung?
+Làm sao để tạo thời khóa biểu tự động?
+Giáo viên có thể chấm điểm tự động như thế nào?
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
 Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Giáo viên có thể chấm điểm tự động như thế nào?
 Cách dùng chatbot AI hỗ trợ giảng dạy?
-Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
-Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Học sinh có xem được kết quả kiểm tra không?
+Giáo viên có thể chấm điểm tự động như thế nào?
 Tạo tài khoản quản trị cho trường như thế nào?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Làm sao để thêm học sinh vào lớp?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tạo tài khoản quản trị cho trường như thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Làm sao để thêm học sinh vào lớp?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tạo tài khoản quản trị cho trường như thế nào?
+Làm sao để thêm học sinh vào lớp?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo thời khóa biểu tự động?
+Cách truy cập kho học liệu dùng chung?
+Học sinh có xem được kết quả kiểm tra không?
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
 Chuyển đổi số trong công tác điểm danh thế nào?
-Làm sao để tạo thời khóa biểu tự động?
 Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Học sinh có xem được kết quả kiểm tra không?
+Học sinh có xem được kết quả kiểm tra không?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Làm sao để tạo thời khóa biểu tự động?
+Học sinh có xem được kết quả kiểm tra không?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Làm sao để thêm học sinh vào lớp?
+Làm sao để thêm học sinh vào lớp?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
-Tạo tài khoản quản trị cho trường như thế nào?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
 Phân quyền giáo viên để nhập điểm môn học.
-Làm sao để tạo bài giảng trên LMS360?
-Giáo viên có thể chấm điểm tự động như thế nào?
-Học sinh có xem được kết quả kiểm tra không?
-Hệ thống có hỗ trợ AI gợi ý khóa học không?
-Cách truy cập kho học liệu dùng chung?
-Tôi muốn báo cáo tiến độ học tập của lớp tôi.
-Làm sao để thêm học sinh vào lớp?
-Tôi không tạo được đề thi trên hệ thống kiểm tra.
-Cách dùng chatbot AI hỗ trợ giảng dạy?
+Phân quyền giáo viên để nhập điểm môn học.
 Chuyển đổi số trong công tác điểm danh thế nào?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tạo tài khoản quản trị cho trường như thế nào?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Làm sao để tạo bài giảng trên LMS360?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
 Làm sao để tạo thời khóa biểu tự động?
 Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Cách truy cập kho học liệu dùng chung?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên có thể chấm điểm tự động như thế nào?
+Làm sao để thêm học sinh vào lớp?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Cách truy cập kho học liệu dùng chung?
+Học sinh có xem được kết quả kiểm tra không?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Làm sao để thêm học sinh vào lớp?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Làm sao để thêm học sinh vào lớp?
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
 Tôi muốn ký học bạ điện tử bằng chữ ký số.
 Tạo tài khoản quản trị cho trường như thế nào?
+Tạo tài khoản quản trị cho trường như thế nào?
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tạo tài khoản quản trị cho trường như thế nào?
+Làm sao để thêm học sinh vào lớp?
+Phân quyền giáo viên để nhập điểm môn học.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Phân quyền giáo viên để nhập điểm môn học.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Phân quyền giáo viên để nhập điểm môn học.
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi muốn báo cáo tiến độ học tập của lớp tôi.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Làm sao để tạo thời khóa biểu tự động?
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Làm sao để tạo thời khóa biểu tự động?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Giáo viên có thể chấm điểm tự động như thế nào?
+Giáo viên có thể chấm điểm tự động như thế nào?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Phân quyền giáo viên để nhập điểm môn học.
+Cách dùng chatbot AI hỗ trợ giảng dạy?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Học sinh có xem được kết quả kiểm tra không?
+Tạo tài khoản quản trị cho trường như thế nào?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Làm sao để thêm học sinh vào lớp?
+Phân quyền giáo viên để nhập điểm môn học.
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Học sinh có xem được kết quả kiểm tra không?
+Chuyển đổi số trong công tác điểm danh thế nào?
+Làm sao để tạo bài giảng trên LMS360?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo thời khóa biểu tự động?
+Làm sao để tạo bài giảng trên LMS360?
+Học sinh có xem được kết quả kiểm tra không?
+Tôi muốn ký học bạ điện tử bằng chữ ký số.
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Phân quyền giáo viên để nhập điểm môn học.
+Làm sao để tạo thời khóa biểu tự động?
+Tôi không tạo được đề thi trên hệ thống kiểm tra.
+Hệ thống có hỗ trợ AI gợi ý khóa học không?
+Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Phân quyền giáo viên để nhập điểm môn học.

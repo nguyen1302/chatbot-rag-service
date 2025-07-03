@@ -28,7 +28,11 @@ def call_openai_from_rag(
                 if chunk.choices:
                     delta = chunk.choices[0].delta
                     if delta.content:
+                        print(f"[Streaming chunk]: {delta.content}")  # 👈 In ra từng đoạn văn bản
                         yield delta.content
         return stream_generator()
     else:
-        return response.choices[0].message.content
+        full_response = response.choices[0].message.content
+        print(f"[Full response]: {full_response}")  # 👈 In ra toàn bộ câu trả lời nếu không stream
+        return full_response
+

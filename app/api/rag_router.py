@@ -2,6 +2,7 @@ from fastapi import APIRouter
 from app.models.rag import RAGRequest, RAGResponse
 from app.services import intent_classifier
 from app.services import prompt_builder
+from app.services import question_follow
 from app.services import openai_llm
 from app.services import count_token
 
@@ -33,20 +34,38 @@ def test_final_intent(req: RAGRequest):
     question = get_last_user_question(req.messages)
     
     # Xây dựng prompt và context từ câu hỏi
-    rag_response = prompt_builder.build_prompt_with_context(question)
+    rag_response = prompt_builder.build_prompt_with_context(question,messages=req.messages)
     prompt = rag_response.prompt
     context_chunks = rag_response.context_chunks
 
 
     # Gọi OpenAI API
-    answer = openai_llm.call_openai_from_rag(req, rag_response)
+    # answer = openai_llm.call_openai_from_rag(req, rag_response)
 
     return {
         "question": question,
         "final_prompt": prompt,
         "context_chunks": context_chunks,
-        "answer": answer if isinstance(answer, str) else "".join(answer)  # Nếu stream thì nối lại
+        # "answer": answer if isinstance(answer, str) else "".join(answer)  # Nếu stream thì nối lại
     }
+
+@router.post("/test/multi-intent")
+def test_all_user_questions(req: RAGRequest):
+    responses = []
+
+    for msg in req.messages:
+        if msg.role == "user":
+            rag_response = prompt_builder.build_prompt_with_context(msg.content, messages=req.messages)
+            # answer = openai_llm.call_openai_from_rag(req, rag_response)
+
+            responses.append({
+                "question": msg.content,
+                "final_prompt": rag_response.prompt,
+                "context_chunks": rag_response.context_chunks,
+                # "answer": answer if isinstance(answer, str) else "".join(answer)
+            })
+
+    return responses
 
 
 @router.post("/token/input")

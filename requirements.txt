@@ -31,3 +31,4 @@ tqdm==4.67.1
 
 # Data analysis
 pandas==2.2.3
+scikit-learn==1.7.0
