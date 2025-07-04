@@ -1,0 +1,71 @@
+## Lớp 1 - Môn Tiếng Việt - Kỹ năng: Kiến thức tiếng Việt
+
+### Mã định danh: 010101.0401a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Âm, vần, thanh; chữ và dấu thanh  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 nhận biết và phân biệt được các âm, vần, thanh và các dấu thanh trong tiếng Việt thông qua các ví dụ cụ thể và luyện đọc cơ bản.
+
+---
+
+### Mã định danh: 010101.0402a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Quy tắc chính tả phân biệt: c và k, g và gh, ng và ngh  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 nắm được quy tắc chính tả để phân biệt các phụ âm đầu tương tự về phát âm như c/k, g/gh, ng/ngh và áp dụng vào viết đúng từ ngữ.
+
+---
+
+### Mã định danh: 010101.0403a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Quy tắc viết hoa: viết hoa chữ cái đầu câu, viết hoa tên riêng  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 biết viết hoa đúng vị trí đầu câu và tên riêng trong bài viết hoặc câu đơn giản.
+
+---
+
+### Mã định danh: 010101.0404a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Vốn từ theo chủ điểm: từ chỉ sự vật, hoạt động, đặc điểm gần gũi  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 mở rộng vốn từ vựng thông qua các chủ điểm quen thuộc như gia đình, trường học, đồ vật, hoạt động thường ngày.
+
+---
+
+### Mã định danh: 010101.0405a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Công dụng của dấu chấm, dấu chấm hỏi: đánh dấu kết thúc câu  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 biết sử dụng dấu chấm và dấu chấm hỏi để kết thúc câu kể và câu hỏi trong các bài tập đơn giản.
+
+---
+
+### Mã định danh: 010101.0406a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Từ xưng hô thông dụng khi giao tiếp ở nhà và ở trường  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 sử dụng được các từ xưng hô phù hợp với ngữ cảnh giao tiếp ở nhà và trường học như con, mẹ, cô, bạn,...
+
+---
+
+### Mã định danh: 010101.0407a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Một số nghi thức giao tiếp thông dụng ở nhà và ở trường: chào hỏi, giới thiệu, cảm ơn, xin lỗi, xin phép  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 bước đầu thực hiện được các nghi thức giao tiếp cơ bản như chào hỏi, cảm ơn, xin lỗi, giới thiệu bản thân.
+
+---
+
+### Mã định danh: 010101.0408a
+- **Đơn vị kiến thức 1**: Kiến thức Tiếng Việt  
+- **Đơn vị kiến thức 2**: Thông tin bằng hình ảnh (phương tiện giao tiếp phi ngôn ngữ)  
+- **Yêu cầu cần đạt**: [Đang cập nhật theo CT chuẩn]  
+- **Diễn giải trong ngữ cảnh hiện tại**:  
+  Học sinh lớp 1 biết khai thác thông tin từ tranh ảnh, nét mặt, cử chỉ để hiểu nội dung giao tiếp.
