@@ -1,28 +1,28 @@
-## VI. Đánh giá môn Tiếng Việt lớp 4
+# VI. Đánh giá môn Tiếng Việt lớp 4
 
 Hoạt động đánh giá môn Tiếng Việt lớp 4 được thực hiện theo hướng phát triển năng lực, kết hợp giữa đánh giá vì sự tiến bộ và đánh giá tổng hợp. Mục tiêu là theo dõi sự phát triển toàn diện của học sinh về 4 kỹ năng ngôn ngữ, từ đó điều chỉnh hoạt động dạy – học kịp thời và hiệu quả.
 
-### Đánh giá thường xuyên
+## Đánh giá thường xuyên
 
 - Quan sát, nhận xét trực tiếp trong quá trình học tập, đặc biệt là hoạt động nói, đọc và viết.
 - Đánh giá qua bài tập, phiếu học tập, sản phẩm cá nhân hoặc nhóm.
 - Tự đánh giá và đánh giá lẫn nhau dựa trên tiêu chí rõ ràng.
 - Đặt câu hỏi mở để học sinh trình bày suy nghĩ, nhận định, cảm xúc.
 
-### Đánh giá định kỳ
+## Đánh giá định kỳ
 
 - Kiểm tra kỹ năng đọc thành tiếng, đọc hiểu giữa kỳ và cuối kỳ.
 - Kiểm tra viết chính tả, viết đoạn, viết bài văn ngắn theo yêu cầu thể loại.
 - Đánh giá kỹ năng nghe – nói thông qua các bài kể chuyện, thuyết trình, thảo luận.
 
-### Công cụ đánh giá
+## Công cụ đánh giá
 
 - Bảng kiểm, thang đo, phiếu nhận xét cá nhân.
 - Rubrics đánh giá đoạn văn/bài viết theo các tiêu chí: bố cục – từ ngữ – liên kết – cảm xúc.
 - Hồ sơ học tập cá nhân lưu trữ sản phẩm viết, đoạn kể, phần ghi chú.
 - Phiếu tự đánh giá (đơn giản) cho học sinh tự nhận xét về tiến bộ của bản thân.
 
-### Tiêu chí đánh giá
+## Tiêu chí đánh giá
 
 - Hoàn thành tốt: đạt ≥ 90% yêu cầu kỹ năng; viết, nói sáng tạo, cảm xúc, chủ động.
 - Hoàn thành: đáp ứng cơ bản yêu cầu về kiến thức, kỹ năng; còn lỗi nhỏ.

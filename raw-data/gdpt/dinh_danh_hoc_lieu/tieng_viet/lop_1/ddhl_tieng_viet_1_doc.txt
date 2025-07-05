@@ -1,6 +1,6 @@
-## Lớp 1 - Môn Tiếng Việt - Kỹ năng: Đọc
+# Lớp 1 - Môn Tiếng Việt - Kỹ năng: Đọc
 
-### Mã định danh: 010101.0101a3
+## Mã định danh: 010101.0101a3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Hỏi và trả lời được những câu hỏi đơn giản liên quan đến các chi tiết được thể hiện tường minh.  
@@ -9,7 +9,7 @@
 
 ---
 
-### Mã định danh: 010101.0101b3
+## Mã định danh: 010101.0101b3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Trả lời được các câu hỏi đơn giản về nội dung cơ bản của văn bản dựa vào gợi ý hỗ trợ.  
@@ -18,7 +18,7 @@
 
 ---
 
-### Mã định danh: 010101.0101c1
+## Mã định danh: 010101.0101c1
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Nhận biết được hình dáng, hành động của nhân vật thể hiện qua một số từ ngữ trong câu chuyện dựa vào gợi ý của giáo viên.  
@@ -27,7 +27,7 @@
 
 ---
 
-### Mã định danh: 010101.0101d1
+## Mã định danh: 010101.0101d1
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Nhận biết được lời nhân vật trong truyện dựa vào gợi ý của giáo viên.  
@@ -36,7 +36,7 @@
 
 ---
 
-### Mã định danh: 010101.0101e4
+## Mã định danh: 010101.0101e4
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Liên hệ được tranh minh hoạ với các chi tiết trong văn bản.  
@@ -45,7 +45,7 @@
 
 ---
 
-### Mã định danh: 010101.0101f5
+## Mã định danh: 010101.0101f5
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Cổ tích, ngụ ngôn, truyện ngắn, truyện tranh, đoạn văn miêu tả  
 - **Yêu cầu cần đạt**: Nêu được nhân vật yêu thích nhất và bước đầu biết giải thích vì sao.  
@@ -54,7 +54,7 @@
 
 ---
 
-### Mã định danh: 010101.0102a3
+## Mã định danh: 010101.0102a3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Hỏi và trả lời được những câu hỏi đơn giản liên quan đến các chi tiết được thể hiện tường minh.  
@@ -63,7 +63,7 @@
 
 ---
 
-### Mã định danh: 010101.0102b3
+## Mã định danh: 010101.0102b3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Trả lời được các câu hỏi đơn giản về nội dung cơ bản của văn bản dựa vào gợi ý hỗ trợ.  
@@ -72,7 +72,7 @@
 
 ---
 
-### Mã định danh: 010101.0102c1
+## Mã định danh: 010101.0102c1
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Nhận biết được hình dáng, hành động của nhân vật thể hiện qua một số từ ngữ trong câu chuyện dựa vào gợi ý của giáo viên.  
@@ -81,7 +81,7 @@
 
 ---
 
-### Mã định danh: 010101.0102d1
+## Mã định danh: 010101.0102d1
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Nhận biết được lời nhân vật trong truyện dựa vào gợi ý của giáo viên.  
@@ -90,7 +90,7 @@
 
 ---
 
-### Mã định danh: 010101.0102e4
+## Mã định danh: 010101.0102e4
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Liên hệ được tranh minh hoạ với các chi tiết trong văn bản.  
@@ -99,7 +99,7 @@
 
 ---
 
-### Mã định danh: 010101.0102f5
+## Mã định danh: 010101.0102f5
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản văn học - Đoạn thơ, bài thơ (gồm cả đồng dao)  
 - **Yêu cầu cần đạt**: Nêu được nhân vật yêu thích nhất và bước đầu biết giải thích vì sao.  
@@ -108,7 +108,7 @@
 
 ---
 
-### Mã định danh: 010101.0103a3
+## Mã định danh: 010101.0103a3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản thông tin  
 - **Yêu cầu cần đạt**: Hỏi và trả lời được những câu hỏi đơn giản về các chi tiết nổi bật trong văn bản.  
@@ -117,7 +117,7 @@
 
 ---
 
-### Mã định danh: 010101.0103b3
+## Mã định danh: 010101.0103b3
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản thông tin  
 - **Yêu cầu cần đạt**: Trả lời được câu hỏi: “Văn bản này viết về điều gì?” với sự gợi ý, hỗ trợ.  
@@ -126,7 +126,7 @@
 
 ---
 
-### Mã định danh: 010101.0103c1
+## Mã định danh: 010101.0103c1
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản thông tin  
 - **Yêu cầu cần đạt**: Nhận biết được trình tự của các sự việc trong văn bản.  
@@ -135,7 +135,7 @@
 
 ---
 
-### Mã định danh: 010101.0103d2
+## Mã định danh: 010101.0103d2
 - **Đơn vị kiến thức 1**: Đọc  
 - **Đơn vị kiến thức 2**: Văn bản thông tin  
 - **Yêu cầu cần đạt**: Hiểu nghĩa của một số tín hiệu đơn giản, gần gũi với học sinh.  

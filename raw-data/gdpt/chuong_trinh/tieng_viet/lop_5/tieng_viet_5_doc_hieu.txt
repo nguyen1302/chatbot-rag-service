@@ -1,8 +1,8 @@
-## IV. Kỹ năng Đọc hiểu Tiếng Việt lớp 5
+# IV. Kỹ năng Đọc hiểu Tiếng Việt lớp 5
 
 Kỹ năng đọc hiểu trong chương trình Tiếng Việt lớp 5 hướng đến việc hình thành tư duy phân tích, cảm thụ và phản biện cơ bản qua văn bản. Học sinh không chỉ đọc để hiểu nội dung mà còn biết rút ra bài học, nhận xét về cấu trúc, ngôn ngữ và liên hệ với bản thân.
 
-### Mục tiêu phát triển
+## Mục tiêu phát triển
 
 - Đọc trôi chảy, diễn cảm văn bản dài (200–300 tiếng) với ngữ điệu phù hợp.
 - Hiểu nội dung chính, xác định được các chi tiết quan trọng và dụng ý nghệ thuật.
@@ -10,21 +10,21 @@ Kỹ năng đọc hiểu trong chương trình Tiếng Việt lớp 5 hướng �
 - Nhận diện cấu trúc văn bản, yếu tố nghệ thuật và thông điệp truyền tải.
 - Liên hệ bài đọc với trải nghiệm cá nhân hoặc vấn đề thực tiễn.
 
-### Nội dung rèn luyện
+## Nội dung rèn luyện
 
 - Đọc hiểu các thể loại: truyện dân gian, truyện hiện đại, thơ 4 chữ, 5 chữ, thơ tự do, văn bản thông tin, hướng dẫn, nêu ý kiến.
 - Trả lời câu hỏi nhận biết, suy luận, đánh giá và liên hệ mở rộng.
 - Nhận biết và phân tích biện pháp tu từ: nhân hoá, ẩn dụ, hoán dụ, so sánh, điệp từ.
 - Tóm tắt, lập sơ đồ tư duy hoặc bảng so sánh nội dung giữa các văn bản.
 
-### Yêu cầu cụ thể
+## Yêu cầu cụ thể
 
 - Đạt tốc độ đọc khoảng 160–180 tiếng/phút.
 - Trả lời đúng các câu hỏi về nội dung, hình thức, từ ngữ, ý nghĩa văn bản.
 - Nêu được cảm nghĩ cá nhân, liên hệ thực tế hoặc rút ra thông điệp từ bài đọc.
 - Biết so sánh hai văn bản về cùng một chủ đề để rút ra điểm giống và khác.
 
-### Gợi ý hoạt động
+## Gợi ý hoạt động
 
 - Đọc một truyện và viết lại phần kết theo cách khác.
 - Đọc hai bài thơ cùng chủ đề và nêu cảm nhận riêng.

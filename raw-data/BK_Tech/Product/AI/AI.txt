@@ -1,0 +1,56 @@
+# KHO DỮ LIỆU VÀ NỀN TẢNG TÍCH HỢP TRÍ TUỆ NHÂN TẠO (AI)
+
+## I. TỔNG QUAN
+
+Trong thời đại công nghệ số đang phát triển mạnh mẽ, **Kho Dữ Liệu và Tích Hợp AI của Bách Khoa** không chỉ là một giải pháp quản lý dữ liệu thông thường, mà còn là một công cụ chiến lược mạnh mẽ giúp các trường học **nâng cao chất lượng giáo dục**, **cải thiện trải nghiệm học tập và giảng dạy**, đồng thời **tối ưu hóa mọi quy trình** từ quản lý học sinh đến phân tích kết quả học tập.
+
+Với khả năng tích hợp trí tuệ nhân tạo (AI) vào tất cả các khía cạnh của quy trình giáo dục, từ **soạn giáo án tự động**, **chấm điểm tự động**, đến **cá nhân hóa lộ trình học tập**, không chỉ giúp giảm tải công việc hành chính cho giáo viên, mà còn tăng cường khả năng giảng dạy hiệu quả, giúp mỗi học sinh nhận được sự hỗ trợ cá nhân hóa, phù hợp với năng lực và nhu cầu học tập của mình.
+
+Ngoài ra, AI còn giúp **quản lý và lưu trữ dữ liệu học tập một cách an toàn và tiện lợi**, từ đó cung cấp những thông tin cần thiết để đưa ra các quyết định giảng dạy và quản lý chính xác. **Phân tích kết quả học tập của học sinh**, từ đó giúp giáo viên có thể dễ dàng nhận diện những vấn đề học tập của học sinh và điều chỉnh phương pháp giảng dạy sao cho phù hợp.
+
+Với hệ sinh thái này, **giáo viên sẽ không chỉ đơn giản là người truyền đạt kiến thức**, mà sẽ là người dẫn dắt, hỗ trợ học sinh đạt được mục tiêu học tập thông qua các công cụ AI thông minh, từ **chatbot hỗ trợ học sinh** cho đến **phân tích học tập tự động** giúp tối ưu hóa từng phút giây giảng dạy.
+
+**Học sinh**, thay vì chỉ tiếp nhận thông tin một cách thụ động, giờ đây sẽ được học theo cách riêng của mình, nhờ vào **công nghệ cá nhân hóa** của hệ thống.
+
+---
+
+## II. CHI TIẾT SẢN PHẨM
+
+### 1. TÍNH NĂNG NỔI BẬT
+
+- **Chatbot AI BKTech**: chatbot được Bách Khoa đào tạo trực tiếp, phù hợp với chương trình đào tạo tại Việt Nam nhằm hỗ trợ chính xác hơn với đối tượng là Giáo viên – Học sinh.
+
+- **Tích hợp AI soạn giảng tự động trên hệ thống LMS360** với đầy đủ hình thức:  
+  + Trắc nghiệm  
+  + Đúng sai  
+  + Điền vào chỗ trống  
+  + Tự luận  
+  + Slide thuyết trình  
+  + Trò chơi…
+
+- **Tích hợp AI vào điểm danh chuyên cần học sinh** bằng **camera AI điểm danh tự động bằng gương mặt và gửi thông báo tự động**.
+
+- **Tích hợp các AI phân tích kết quả và thói quen học tập** nhằm đề xuất những **nội dung học tập phù hợp**.
+
+- **Cung cấp các chương trình đào tạo kỹ năng số** cho giáo viên – học sinh, **ứng dụng trí tuệ nhân tạo vào giảng dạy và học tập**.
+
+---
+
+### 2. LỢI ÍCH SẢN PHẨM
+
+- **Tối ưu hóa công tác giảng dạy và học tập**:  
+  AI giúp giáo viên tạo bài giảng nhanh chóng, cá nhân hóa nội dung học tập và tăng hiệu quả giảng dạy, từ đó cải thiện trải nghiệm học tập cho học sinh.  
+  Hệ thống tự động hóa việc tạo đề kiểm tra, chấm điểm và cung cấp phản hồi tức thì cho học sinh, giúp giáo viên tiết kiệm thời gian và công sức.
+
+- **Cải thiện chất lượng học tập của học sinh**:  
+  AI giúp cá nhân hóa lộ trình học tập cho từng học sinh, từ đó nâng cao kết quả học tập và hỗ trợ học sinh học tập hiệu quả hơn.  
+  Việc sử dụng AI trong việc phân tích tiến độ học tập giúp phát hiện sớm các vấn đề và can thiệp kịp thời, đảm bảo học sinh luôn nhận được sự hỗ trợ cần thiết.
+
+- **Giảm tải công việc cho giáo viên**:  
+  Việc sử dụng AI tự động chấm điểm và soạn giáo án tự động giúp giáo viên giảm tải khối lượng công việc hành chính, từ đó có nhiều thời gian hơn để tập trung vào việc giảng dạy và chăm sóc học sinh.
+
+- **Tăng tính chính xác và công bằng trong đánh giá**:  
+  AI giúp đảm bảo rằng quá trình đánh giá học sinh là khách quan, chính xác và minh bạch, giúp tạo ra một hệ thống kiểm tra công bằng hơn mà không bị ảnh hưởng bởi yếu tố chủ quan.
+
+- **Nâng cao hiệu quả quản lý lớp học**:  
+  Công nghệ AI điểm danh tự động và quản lý dữ liệu học tập giúp giảm thiểu sai sót và quản lý thông tin học sinh một cách chính xác và nhanh chóng, từ đó cải thiện hiệu quả quản lý lớp học và giảm thiểu công tác hành chính cho nhà trường.

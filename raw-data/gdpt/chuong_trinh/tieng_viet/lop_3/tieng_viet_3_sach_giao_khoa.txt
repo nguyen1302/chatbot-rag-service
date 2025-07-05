@@ -1,16 +1,16 @@
-## VII. Sách giáo khoa môn Tiếng Việt lớp 3 và hướng sử dụng
+# VII. Sách giáo khoa môn Tiếng Việt lớp 3 và hướng sử dụng
 
 Sách giáo khoa môn Tiếng Việt lớp 3 trong chương trình Giáo dục phổ thông 2018 được biên soạn theo định hướng phát triển phẩm chất, năng lực học sinh, lấy hoạt động học tập làm trung tâm. Các bộ sách hiện hành như “Chân trời sáng tạo”, “Kết nối tri thức với cuộc sống”, “Cánh diều”, “Vì sự bình đẳng và dân chủ trong giáo dục”, “Hướng đến tương lai”… đều tuân thủ mục tiêu, nội dung và yêu cầu cần đạt theo chương trình.
 
 Sách gồm hai tập: Tập một cho học kỳ I, tập hai cho học kỳ II. Nội dung sách được tổ chức thành các chủ điểm gắn với trải nghiệm thực tế của học sinh, như: trường học, gia đình, thiên nhiên, quê hương... Mỗi bài học tích hợp đầy đủ bốn kỹ năng: nghe, nói, đọc, viết, thông qua nhiều thể loại văn bản như truyện kể, thơ, văn bản thông tin, miêu tả, hướng dẫn… với hình thức sinh động, gần gũi.
 
-### 1. Cách sử dụng sách giáo khoa trong dạy học
+## 1. Cách sử dụng sách giáo khoa trong dạy học
 
 - Giáo viên dùng sách để tổ chức các hoạt động học tập theo tiến trình rõ ràng, linh hoạt điều chỉnh hoạt động và phương pháp theo đối tượng học sinh.
 - Học sinh sử dụng sách để luyện đọc, luyện viết, làm bài tập, quan sát tranh minh họa và thực hành các nhiệm vụ học tập theo gợi ý.
 - Học sinh được hướng dẫn khai thác sách một cách chủ động: tra cứu bài, ghi nhớ tiêu đề, tìm thông tin, luyện tập theo hướng dẫn học tập tích cực.
 
-### 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
+## 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
 
 - Giáo viên có thể kết hợp sử dụng các tài liệu bổ trợ như: sách bài tập, vở luyện viết, sách hướng dẫn học, bộ thẻ từ, tranh ảnh, bảng nhóm.
 - Tăng cường ứng dụng công nghệ: phần mềm luyện đọc, video minh họa bài học, trò chơi tương tác, bài học số… để tạo hứng thú và tăng hiệu quả học tập.

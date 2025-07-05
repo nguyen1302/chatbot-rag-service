@@ -8,7 +8,7 @@ openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def embed_question(question: str) -> List[float]:
     response = openai_client.embeddings.create(
-        model="text-embedding-3-small",
+        model="text-embedding-3-large",
         input=question
     )
     embedding = response.data[0].embedding
@@ -16,3 +16,4 @@ def embed_question(question: str) -> List[float]:
     if embedding is None:
         raise ValueError("❌ Failed to get embedding from OpenAI.")
     return embedding
+

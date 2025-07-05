@@ -1,0 +1,71 @@
+# KIỂM TRA - ĐÁNH GIÁ TRỰC TUYẾN  
+(thi.lms360.edu.vn)
+
+## I. TỔNG QUAN
+
+### 1. Giới thiệu chung
+
+Hệ thống Kiểm tra – Đánh giá trực tuyến do Bách Khoa phát triển là một giải pháp số toàn diện, hỗ trợ các trường học tổ chức thi cử, kiểm tra, đánh giá năng lực học sinh một cách an toàn, linh hoạt và chính xác.
+
+Hệ thống được xây dựng nhằm đáp ứng các yêu cầu đổi mới giáo dục và kiểm tra đánh giá theo hướng phát triển năng lực, phẩm chất người học; đồng thời hỗ trợ nhà trường giảm thiểu thủ tục hành chính, tự động hóa quy trình ra đề – chấm điểm – thống kê, nâng cao hiệu quả quản lý và giảng dạy.
+
+Hệ thống có thể hoạt động độc lập hoặc tích hợp chặt chẽ với LMS360, tạo thành một quy trình khép kín từ dạy – học – kiểm tra – thống kê. Phù hợp với cả bậc phổ thông, dễ dàng triển khai theo quy mô lớp học, khối, toàn trường hoặc toàn ngành.
+
+### 2. Thông số kỹ thuật
+
+**Yêu cầu hệ thống**
+- Hệ điều hành: Windows, macOS, Linux.
+- Trình duyệt hỗ trợ: Chrome, Firefox, Safari, Edge (phiên bản mới nhất).
+- Cơ sở dữ liệu: MySQL, PostgreSQL, SQL Server.
+- Ngôn ngữ lập trình: HTML5, CSS3, JavaScript, và các framework phổ biến.
+
+**Khả năng mở rộng**
+- Số lượng người dùng: hỗ trợ từ vài trăm đến hàng trăm nghìn người dùng.
+- Tùy biến: Cho phép tùy chỉnh giao diện và tính năng theo nhu cầu.
+
+**Hiệu suất**
+- Thời gian phản hồi dưới 2 giây cho các thao tác thông thường.
+- Khả năng chịu tải hỗ trợ lên đến 10,000 người dùng truy cập đồng thời.
+- Hỗ trợ caching và load balancing để tăng hiệu suất hệ thống.
+
+**Hỗ trợ đa nền tảng**
+- Web-based: Truy cập qua trình duyệt trên máy tính và thiết bị di động.
+- Mobile app: Hỗ trợ ứng dụng di động trên iOS và Android.
+- Giao diện tự động điều chỉnh phù hợp với mọi kích thước màn hình.
+
+---
+
+## II. CHI TIẾT SẢN PHẨM
+
+### 1. Tính năng nổi bật
+
+- **Tạo đề thi linh hoạt**: Hệ thống tự động chuyển đổi đề thi trên file Word sang dạng chuẩn LaTeX đối với tất cả các môn học.
+- **Nhiều hình thức đánh giá**: Trắc nghiệm, tự luận, điền khuyết, đúng sai, câu trả lời ngắn và mẫu đề mô phỏng cấu trúc đề thi THPT Quốc Gia năm 2025.
+- **Trộn đề tự động**: Trộn thứ tự câu hỏi, trộn đáp án, trộn theo vùng; mỗi đề gốc sẽ sinh ra 24 mã đề. Có thể phối hợp cùng lúc nhiều loại trộn đề với nhau.
+- **Ngân hàng câu hỏi phân loại**: Theo mức độ nhận thức (Bloom), chuẩn đầu ra, phân môn, khối lớp...
+- **Chấm điểm tự động**: Hệ thống chấm nhanh – chính xác, hỗ trợ phản hồi cho người học ngay sau khi nộp bài.
+- **Giám sát và chống gian lận**: Tích hợp công cụ chống sao chép đề thi, ngăn mở trình duyệt mới, không cho đăng nhập cùng lúc nhiều tài khoản; theo dõi hành trình chi tiết lúc học sinh thi; cảnh báo và báo về tài khoản quản trị khi có vi phạm.
+- **Báo cáo, thống kê chi tiết**: Theo lớp, môn, cá nhân; hỗ trợ phân tích học lực, tiến độ và chất lượng giảng dạy.
+- **Bảo mật**: Mã hóa hoàn toàn dữ liệu người dùng; mã hóa đề thi bằng AES-256, SHA256 và chỉ được giải mã tại thiết bị học sinh vào đúng thời gian mở bài; thiết lập các lớp bảo mật để hạn chế tối đa tấn công từ bên ngoài.
+- **Hạ tầng hệ thống**: Ngôn ngữ hiện đại, hạ tầng có khả năng tự mở rộng khi số người dùng tăng; đáp ứng tốt các kỳ thi trực tuyến quy mô lớn.
+
+---
+
+### 2. Lợi ích sản phẩm
+
+- **Tối ưu hóa thời gian và nhân lực trong tổ chức thi**.
+- **Loại bỏ sai sót trong chấm điểm và đánh giá**: Giám sát chặt chẽ, đảm bảo tính công bằng, minh bạch. Học sinh nhận kết quả ngay lập tức sau bài thi.
+- **Linh hoạt kiểm tra mọi lúc, mọi nơi**.
+- **Đáp ứng yêu cầu đánh giá thường xuyên, định kỳ, đánh giá quá trình**.
+- **Hỗ trợ thi thử THPT Quốc Gia 2025**: Tổ chức các kỳ thi thử dựa trên mẫu đề mô phỏng, giúp học sinh ôn luyện hiệu quả.
+
+---
+
+### 3. Năng lực triển khai
+
+- Hệ thống Kiểm tra – Đánh giá trực tuyến đã được triển khai tại **216 trường**, trong đó:
+  - 206 trường tại TP. Hồ Chí Minh
+  - 10 trường tại các tỉnh thành khác
+  - Bao gồm: 12 trường Tiểu học, 78 trường THCS, 90 trường THPT và 36 trường loại khác.
+
+- **Tháng 5/2024**: Phối hợp với Sở Giáo dục tổ chức kỳ thi **Khảo Sát 7 toàn thành phố** – Năm học 2023–2024.

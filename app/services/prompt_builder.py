@@ -25,6 +25,7 @@ def build_prompt_with_context(question: str, messages: List[ChatMessage] = None)
     if is_followup and messages:
         followup_context = get_followup_context_from_messages(messages, question)
     
+    
     # Bước 4: Xử lý theo intent
     if intent in ["internal", "hybrid"]:
         # Embed câu hỏi và truy xuất các đoạn văn bản gần nhất

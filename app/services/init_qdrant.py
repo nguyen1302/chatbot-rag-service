@@ -11,7 +11,7 @@ COLLECTION_NAME = "docs"
 
 client.recreate_collection(
     collection_name=COLLECTION_NAME,
-    vectors_config=VectorParams(size=1536, distance=Distance.COSINE)
+    vectors_config=VectorParams(size=3072, distance=Distance.COSINE)
 )
 
 print(f"Collection `{COLLECTION_NAME}` created.")

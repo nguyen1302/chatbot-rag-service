@@ -1,8 +1,8 @@
-## II. Yêu cầu cần đạt môn Tiếng Việt lớp 2
+# II. Yêu cầu cần đạt môn Tiếng Việt lớp 2
 
 Trong chương trình Tiếng Việt lớp 2, học sinh tiếp tục được rèn luyện và phát triển toàn diện bốn kỹ năng nghe, nói, đọc, viết. Các yêu cầu được thiết kế theo hướng tăng dần về mức độ, nhằm củng cố nền tảng tiếng Việt và nâng cao khả năng sử dụng ngôn ngữ trong học tập và giao tiếp.
 
-### Kỹ năng đọc
+## Kỹ năng đọc
 
 - Đọc đúng các văn bản truyện, thơ, văn bản thông tin có độ dài từ 60–110 tiếng.
 - Phát âm rõ ràng, ngắt nghỉ hơi hợp lý theo dấu câu và ngữ điệu.
@@ -10,21 +10,21 @@ Trong chương trình Tiếng Việt lớp 2, học sinh tiếp tục được r
 - Trả lời được các câu hỏi đơn giản liên quan đến nội dung bài đọc.
 - Nhận biết được thể loại văn bản cơ bản (truyện, thơ, văn bản thông tin…).
 
-### Kỹ năng viết
+## Kỹ năng viết
 
 - Viết được đoạn văn ngắn (3–7 câu) theo chủ đề quen thuộc.
 - Viết đúng chính tả, trình bày rõ ràng, sạch đẹp.
 - Biết sử dụng dấu câu phù hợp và từ nối đơn giản trong đoạn văn.
 - Biết sắp xếp các câu theo trình tự hợp lý để diễn đạt ý rõ ràng.
 
-### Kỹ năng nghe – nói
+## Kỹ năng nghe – nói
 
 - Nghe và hiểu nội dung lời nói của người khác trong các tình huống giao tiếp quen thuộc.
 - Trả lời đúng câu hỏi, biết đặt câu hỏi phù hợp với nội dung trao đổi.
 - Kể lại được câu chuyện, sự việc đã học theo trình tự.
 - Biết trình bày cảm xúc, suy nghĩ cá nhân bằng lời nói rõ ràng, mạch lạc.
 
-### Kỹ năng học tập và sử dụng SGK
+## Kỹ năng học tập và sử dụng SGK
 
 - Biết sử dụng sách giáo khoa để học đúng nội dung, tìm bài, đọc lời hướng dẫn.
 - Biết giữ gìn sách vở, đồ dùng học tập, hình thành thói quen học tập tích cực.

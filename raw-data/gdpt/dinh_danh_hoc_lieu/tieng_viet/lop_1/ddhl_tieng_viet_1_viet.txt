@@ -1,6 +1,6 @@
-## Lớp 1 - Môn Tiếng Việt - Kỹ năng: Viết
+# Lớp 1 - Môn Tiếng Việt - Kỹ năng: Viết
 
-### Mã định danh: 010101.0201a3
+## Mã định danh: 010101.0201a3
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết được câu trả lời, viết câu dưới tranh phù hợp với nội dung câu chuyện đã đọc hoặc đã nghe.  
 - **Yêu cầu cần đạt**: Biết ngồi viết đúng tư thế: ngồi thẳng lưng; hai chân đặt vuông góc với mặt đất; một tay úp đặt lên góc vở, một tay cầm bút; không tì ngực vào mép bàn; khoảng cách giữa mắt và vở khoảng 25cm; cầm bút bằng ba ngón tay (ngón cái, ngón trỏ, ngón giữa).  
@@ -9,7 +9,7 @@
 
 ---
 
-### Mã định danh: 010101.0201b3
+## Mã định danh: 010101.0201b3
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết được câu trả lời, viết câu dưới tranh phù hợp với nội dung câu chuyện đã đọc hoặc đã nghe.  
 - **Yêu cầu cần đạt**: Viết đúng chữ viết thường, chữ số (từ 0 đến 9); biết viết chữ hoa.  
@@ -18,7 +18,7 @@
 
 ---
 
-### Mã định danh: 010101.0201c6
+## Mã định danh: 010101.0201c6
 - **Đơn vị kiến thức 1**: Viết
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết được câu trả lời, viết câu dưới tranh phù hợp với nội dung câu chuyện đã đọc hoặc đã nghe.  
 - **Yêu cầu cần đạt**: Đặt dấu thanh đúng vị trí. Viết đúng quy tắc các tiếng mở đầu bằng các chữ c, k, g, gh, ng, ngh.  
@@ -27,7 +27,7 @@
 
 ---
 
-### Mã định danh: 010101.0201d3
+## Mã định danh: 010101.0201d3
 - **Đơn vị kiến thức 1**: Viết
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết được câu trả lời, viết câu dưới tranh phù hợp với nội dung câu chuyện đã đọc hoặc đã nghe.  
 - **Yêu cầu cần đạt**: Viết đúng chính tả đoạn thơ, đoạn văn có độ dài khoảng 30 – 35 chữ theo các hình thức nhìn – viết (tập chép), nghe – viết. Tốc độ viết khoảng 30 – 35 chữ trong 15 phút.  
@@ -36,7 +36,7 @@
 
 ---
 
-### Mã định danh: 010101.0201e3
+## Mã định danh: 010101.0201e3
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết được câu trả lời, viết câu dưới tranh phù hợp với nội dung câu chuyện đã đọc hoặc đã nghe.  
 - **Yêu cầu cần đạt**: Bước đầu trả lời được những câu hỏi như: Viết về ai? Viết về cái gì, việc gì?  
@@ -45,7 +45,7 @@
 
 ---
 
-### Mã định danh: 010101.0202a3
+## Mã định danh: 010101.0202a3
 - **Đơn vị kiến thức 1**: Viết 
 - **Đơn vị kiến thức 2**: Điền được vào phần thông tin còn trống, viết câu nói về hình dáng hoặc hoạt động của nhân vật dưới tranh trong câu chuyện đã học dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Biết ngồi viết đúng tư thế: ngồi thẳng lưng; hai chân đặt vuông góc với mặt đất; một tay úp đặt lên góc vở, một tay cầm bút; không tì ngực vào mép bàn; khoảng cách giữa mắt và vở khoảng 25cm; cầm bút bằng ba ngón tay (ngón cái, ngón trỏ, ngón giữa).  
@@ -54,7 +54,7 @@
 
 ---
 
-### Mã định danh: 010101.0202b3
+## Mã định danh: 010101.0202b3
 - **Đơn vị kiến thức 1**: Viết 
 - **Đơn vị kiến thức 2**: Điền được vào phần thông tin còn trống, viết câu nói về hình dáng hoặc hoạt động của nhân vật dưới tranh trong câu chuyện đã học dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Viết đúng chữ viết thường, chữ số (từ 0 đến 9); biết viết chữ hoa.  
@@ -63,7 +63,7 @@
 
 ---
 
-### Mã định danh: 010101.0202c6
+## Mã định danh: 010101.0202c6
 - **Đơn vị kiến thức 1**: Viết
 - **Đơn vị kiến thức 2**: Điền được vào phần thông tin còn trống, viết câu nói về hình dáng hoặc hoạt động của nhân vật dưới tranh trong câu chuyện đã học dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Đặt dấu thanh đúng vị trí. Viết đúng quy tắc các tiếng mở đầu bằng các chữ c, k, g, gh, ng, ngh.  
@@ -72,7 +72,7 @@
 
 ---
 
-### Mã định danh: 010101.0202d3
+## Mã định danh: 010101.0202d3
 - **Đơn vị kiến thức 1**: Viết 
 - **Đơn vị kiến thức 2**: Điền được vào phần thông tin còn trống, viết câu nói về hình dáng hoặc hoạt động của nhân vật dưới tranh trong câu chuyện đã học dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Viết đúng chính tả đoạn thơ, đoạn văn có độ dài khoảng 30 – 35 chữ theo các hình thức nhìn – viết (tập chép), nghe – viết. Tốc độ viết khoảng 30 – 35 chữ trong 15 phút.  
@@ -81,7 +81,7 @@
 
 ---
 
-### Mã định danh: 010101.0202e3
+## Mã định danh: 010101.0202e3
 - **Đơn vị kiến thức 1**: Viết 
 - **Đơn vị kiến thức 2**: Điền được vào phần thông tin còn trống, viết câu nói về hình dáng hoặc hoạt động của nhân vật dưới tranh trong câu chuyện đã học dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Bước đầu trả lời được những câu hỏi như: Viết về ai? Viết về cái gì, việc gì?  
@@ -91,7 +91,7 @@
 
 ---
 
-### Mã định danh: 010101.0203a3
+## Mã định danh: 010101.0203a3
 - **Đơn vị kiến thức 1**: Viết
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết câu trả lời hoặc viết lại câu đã nói để giới thiệu bản thân dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Biết ngồi viết đúng tư thế: ngồi thẳng lưng; hai chân đặt vuông góc với mặt đất; một tay úp đặt lên góc vở, một tay cầm bút; không tì ngực vào mép bàn; khoảng cách giữa mắt và vở khoảng 25cm; cầm bút bằng ba ngón tay (ngón cái, ngón trỏ, ngón giữa).  
@@ -100,7 +100,7 @@
 
 ---
 
-### Mã định danh: 010101.0203b3
+## Mã định danh: 010101.0203b3
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết câu trả lời hoặc viết lại câu đã nói để giới thiệu bản thân dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Viết đúng chữ viết thường, chữ số (từ 0 đến 9); biết viết chữ hoa.  
@@ -109,7 +109,7 @@
 
 ---
 
-### Mã định danh: 010101.0203c6
+## Mã định danh: 010101.0203c6
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết câu trả lời hoặc viết lại câu đã nói để giới thiệu bản thân dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Đặt dấu thanh đúng vị trí. Viết đúng quy tắc các tiếng mở đầu bằng các chữ c, k, g, gh, ng, ngh.  
@@ -118,7 +118,7 @@
 
 ---
 
-### Mã định danh: 010101.0203d3
+## Mã định danh: 010101.0203d3
 - **Đơn vị kiến thức 1**: Viết
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết câu trả lời hoặc viết lại câu đã nói để giới thiệu bản thân dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Viết đúng chính tả đoạn thơ, đoạn văn có độ dài khoảng 30 – 35 chữ theo các hình thức nhìn – viết (tập chép), nghe – viết. Tốc độ viết khoảng 30 – 35 chữ trong 15 phút.  
@@ -127,7 +127,7 @@
 
 ---
 
-### Mã định danh: 010101.0203e3
+## Mã định danh: 010101.0203e3
 - **Đơn vị kiến thức 1**: Viết  
 - **Đơn vị kiến thức 2**: Điền được phần thông tin còn trống, viết câu trả lời hoặc viết lại câu đã nói để giới thiệu bản thân dựa trên gợi ý.  
 - **Yêu cầu cần đạt**: Bước đầu trả lời được những câu hỏi như: Viết về ai? Viết về cái gì, việc gì?  

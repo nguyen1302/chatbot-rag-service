@@ -5,6 +5,7 @@ from app.services import prompt_builder
 from app.services import question_follow
 from app.services import openai_llm
 from app.services import count_token
+from app.services import embedder_qa
 
 
 router = APIRouter()
@@ -67,7 +68,6 @@ def test_all_user_questions(req: RAGRequest):
 
     return responses
 
-
 @router.post("/token/input")
 def calculate_prompt_tokens(req: RAGRequest):
     """
@@ -96,3 +96,8 @@ def calculate_prompt_tokens(req: RAGRequest):
         "context_chunks": context.context_chunks,
         "prompt_tokens": prompt_tokens
     }
+
+@router.post("/rag-test")
+def rag_test(request: RAGRequest):
+    result = embedder_qa.process_rag_request(request)
+    return result

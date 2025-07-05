@@ -1,6 +1,6 @@
-## Lớp 1 - Môn Tiếng Việt - Kỹ năng: Nói và nghe
+# Lớp 1 - Môn Tiếng Việt - Kỹ năng: Nói và nghe
 
-### Mã định danh: 010101.0301a3
+## Mã định danh: 010101.0301a3
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có
 - **Yêu cầu cần đạt**: Nói rõ ràng, thành câu. Biết nhìn vào người nghe khi nói.  
@@ -9,7 +9,7 @@
 
 ---
 
-### Mã định danh: 010101.0301b6
+## Mã định danh: 010101.0301b6
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có 
 - **Yêu cầu cần đạt**: Đặt được câu hỏi đơn giản và trả lời đúng vào nội dung câu hỏi.  
@@ -18,7 +18,7 @@
 
 ---
 
-### Mã định danh: 010101.0301c3
+## Mã định danh: 010101.0301c3
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có 
 - **Yêu cầu cần đạt**: Nói và đáp lại được lời chào hỏi, xin phép, cảm ơn, xin lỗi, phù hợp với đối tượng người nghe.  
@@ -27,7 +27,7 @@
 
 ---
 
-### Mã định danh: 010101.0301d1
+## Mã định danh: 010101.0301d1
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có 
 - **Yêu cầu cần đạt**: Biết giới thiệu ngắn về bản thân, gia đình, đồ vật yêu thích dựa trên gợi ý.  
@@ -36,7 +36,7 @@
 
 ---
 
-### Mã định danh: 010101.0301e1
+## Mã định danh: 010101.0301e1
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có
 - **Yêu cầu cần đạt**: Kể lại được một đoạn hoặc cả câu chuyện đơn giản đã đọc, xem hoặc nghe (dựa vào các tranh minh hoạ và lời gợi ý dưới tranh).  
@@ -45,7 +45,7 @@
 
 ---
 
-### Mã định danh: 010101.0301f3
+## Mã định danh: 010101.0301f3
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có
 - **Yêu cầu cần đạt**: Có thói quen và thái độ chú ý nghe người khác nói (nhìn vào người nói, có tư thế nghe phù hợp). Đặt một vài câu hỏi để hỏi lại những điều chưa rõ.  
@@ -54,7 +54,7 @@
 
 ---
 
-### Mã định danh: 010101.0301g2
+## Mã định danh: 010101.0301g2
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: Nghe hiểu thông báo  
 - **Yêu cầu cần đạt**: Nghe hiểu các thông báo, hướng dẫn, yêu cầu, nội quy trong lớp học.  
@@ -63,7 +63,7 @@
 
 ---
 
-### Mã định danh: 010101.0301h3
+## Mã định danh: 010101.0301h3
 - **Đơn vị kiến thức 1**: Nói và nghe  
 - **Đơn vị kiến thức 2**: không có
 - **Yêu cầu cần đạt**: Nghe một câu chuyện và trả lời được các câu hỏi: Ai? Cái gì? Khi nào? Ở đâu?  

@@ -1,16 +1,16 @@
-## VII. Sách giáo khoa môn Tiếng Việt lớp 4 và hướng sử dụng
+# VII. Sách giáo khoa môn Tiếng Việt lớp 4 và hướng sử dụng
 
 Sách giáo khoa môn Tiếng Việt lớp 4 trong chương trình Giáo dục phổ thông 2018 được biên soạn theo định hướng phát triển năng lực, chú trọng việc rèn luyện kỹ năng sử dụng tiếng Việt trong học tập và giao tiếp. Các bộ sách hiện hành như “Chân trời sáng tạo”, “Kết nối tri thức với cuộc sống”, “Cánh diều”, “Vì sự bình đẳng và dân chủ trong giáo dục”, “Hướng đến tương lai”… đều tuân thủ chương trình và bảo đảm tính tích hợp, phân hoá.
 
 Sách gồm hai tập: Tập một cho học kỳ I, tập hai cho học kỳ II. Mỗi bài học được thiết kế theo mạch tích hợp 4 kỹ năng: nghe, nói, đọc, viết, gắn với các chủ điểm quen thuộc với học sinh như: con người, thiên nhiên, gia đình, trường học, quê hương đất nước... Ngữ liệu trong sách được chọn lọc đa dạng về thể loại, giàu hình ảnh, phù hợp độ tuổi và khơi gợi hứng thú học tập.
 
-### 1. Cách sử dụng sách giáo khoa trong dạy học
+## 1. Cách sử dụng sách giáo khoa trong dạy học
 
 - Giáo viên sử dụng sách như tài liệu chính để tổ chức hoạt động học tập theo tiến trình rõ ràng, có thể tích hợp linh hoạt các kỹ năng.
 - Học sinh sử dụng sách để luyện đọc, luyện viết, làm bài tập, chuẩn bị bài ở nhà và tham gia các hoạt động giao tiếp.
 - Học sinh được hướng dẫn sử dụng sách chủ động: xác định mục tiêu bài học, tìm kiếm thông tin, tự luyện đọc – viết theo gợi ý.
 
-### 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
+## 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
 
 - Giáo viên có thể sử dụng thêm sách bài tập, vở luyện viết, tài liệu hướng dẫn học, phiếu học tập, bảng từ, tranh minh hoạ, sơ đồ tư duy.
 - Ứng dụng công nghệ: phần mềm luyện đọc, video kể chuyện, công cụ trình chiếu, trò chơi ngôn ngữ, học liệu số từ kho học liệu điện tử.

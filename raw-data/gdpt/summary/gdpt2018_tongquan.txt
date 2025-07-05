@@ -2,7 +2,7 @@
 
 ---
 
-## I. MỤC TIÊU CỦA CHƯƠNG TRÌNH
+# I. MỤC TIÊU CỦA CHƯƠNG TRÌNH
 
 Chương trình Giáo dục Phổ thông 2018 hướng tới phát triển phẩm chất và năng lực học sinh, thay vì chỉ truyền thụ kiến thức.
 
@@ -18,23 +18,23 @@ Chương trình Giáo dục Phổ thông 2018 hướng tới phát triển phẩ
 
 ---
 
-## II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI
+# II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI
 
-### 1. Các phẩm chất chủ yếu
+## 1. Các phẩm chất chủ yếu
 - **Yêu nước**: Tôn trọng truyền thống, sống vì cộng đồng.
 - **Nhân ái**: Biết quan tâm, giúp đỡ, sống có trách nhiệm.
 - **Chăm chỉ**: Tích cực học tập, có tinh thần cầu tiến.
 - **Trung thực**: Ngay thẳng, không gian dối.
 - **Trách nhiệm**: Tự giác, nhận lỗi, hoàn thành nhiệm vụ.
 
-### 2. Các năng lực cốt lõi
+## 2. Các năng lực cốt lõi
 
-#### a. Năng lực chung
+## a. Năng lực chung
 - Tự chủ và tự học
 - Giao tiếp và hợp tác
 - Giải quyết vấn đề và sáng tạo
 
-#### b. Năng lực đặc thù
+## b. Năng lực đặc thù
 - Ngôn ngữ (đọc, viết, nói, nghe)
 - Toán học
 - Khoa học tự nhiên và xã hội
@@ -44,23 +44,23 @@ Chương trình Giáo dục Phổ thông 2018 hướng tới phát triển phẩ
 
 ---
 
-## III. CẤU TRÚC CHƯƠNG TRÌNH
+# III. CẤU TRÚC CHƯƠNG TRÌNH
 
-### 1. Thành phần chương trình
+## 1. Thành phần chương trình
 - **Chương trình tổng thể**: Mục tiêu, định hướng, phương pháp, đánh giá.
 - **Chương trình môn học**: 27 chương trình riêng biệt theo lớp.
 
-### 2. Giai đoạn giáo dục
+## 2. Giai đoạn giáo dục
 - **Giai đoạn cơ bản (Lớp 1–9)**: Kiến thức nền tảng, năng lực cốt lõi.
 - **Giai đoạn định hướng nghề nghiệp (Lớp 10–12)**: Học phân hóa theo năng lực, sở thích.
 
-### 3. Môn học và hoạt động
+## 3. Môn học và hoạt động
 - **Môn học bắt buộc**: Toán, Ngữ văn, Ngoại ngữ, Lịch sử, Địa lý, v.v.
 - **Hoạt động giáo dục bắt buộc**: Trải nghiệm, giáo dục địa phương, hướng nghiệp.
 
 ---
 
-## IV. LỘ TRÌNH TRIỂN KHAI
+# IV. LỘ TRÌNH TRIỂN KHAI
 
 | Năm học        | Áp dụng cho lớp |
 |----------------|-----------------|
@@ -72,7 +72,7 @@ Chương trình Giáo dục Phổ thông 2018 hướng tới phát triển phẩ
 
 ---
 
-## V. NHỮNG ĐIỂM MỚI CỦA CHƯƠNG TRÌNH
+# V. NHỮNG ĐIỂM MỚI CỦA CHƯƠNG TRÌNH
 
 1. Chuyển từ tiếp cận nội dung sang tiếp cận năng lực
 2. Tăng tích hợp ở tiểu học, phân hóa ở THPT
@@ -87,13 +87,13 @@ Chương trình Giáo dục Phổ thông 2018 hướng tới phát triển phẩ
 
 ---
 
-## VI. PHƯƠNG PHÁP DẠY HỌC VÀ ĐÁNH GIÁ
+# VI. PHƯƠNG PHÁP DẠY HỌC VÀ ĐÁNH GIÁ
 
-### 1. Dạy học theo hướng phát triển năng lực
+## 1. Dạy học theo hướng phát triển năng lực
 - Giáo viên là người tổ chức – hướng dẫn – hỗ trợ
 - Dạy học theo dự án, theo vấn đề, học tập trải nghiệm
 
-### 2. Kiểm tra – Đánh giá
+## 2. Kiểm tra – Đánh giá
 - **Hình thức đánh giá:** thường xuyên, định kỳ, nhận xét, sản phẩm học tập
 - **Mục tiêu:** hỗ trợ sự tiến bộ của học sinh
 - **Ứng dụng:** giúp GV điều chỉnh dạy – HS điều chỉnh học

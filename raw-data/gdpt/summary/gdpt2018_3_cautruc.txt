@@ -1,6 +1,6 @@
-## III. CẤU TRÚC CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG
+# III. CẤU TRÚC CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG
 
-### 1. Thành phần chương trình
+## 1. Thành phần chương trình
 
 Chương trình Giáo dục Phổ thông 2018 gồm có:
 
@@ -8,7 +8,7 @@ Chương trình Giáo dục Phổ thông 2018 gồm có:
 
 - **Các chương trình môn học và hoạt động giáo dục**: Gồm 27 chương trình, được thiết kế cụ thể theo từng cấp học, từng khối lớp với mục tiêu, nội dung, phương pháp và yêu cầu cần đạt rõ ràng.
 
-### 2. Các giai đoạn giáo dục
+## 2. Các giai đoạn giáo dục
 
 Chương trình được chia làm hai giai đoạn lớn:
 
@@ -16,7 +16,7 @@ Chương trình được chia làm hai giai đoạn lớn:
 
 - **Giai đoạn giáo dục định hướng nghề nghiệp (lớp 10 đến lớp 12)**: Học sinh được lựa chọn các môn học phù hợp với năng lực, sở thích và định hướng nghề nghiệp. Các môn học trong giai đoạn này được phân hóa, tạo điều kiện cho học sinh phát triển chuyên sâu theo các lĩnh vực khác nhau.
 
-### 3. Các môn học và hoạt động giáo dục
+## 3. Các môn học và hoạt động giáo dục
 
 - **Các môn học cốt lõi**: Ngữ văn, Toán, Ngoại ngữ, Lịch sử, Địa lý, Giáo dục công dân, Khoa học tự nhiên, Tin học, Công nghệ, Giáo dục thể chất, Nghệ thuật.
 

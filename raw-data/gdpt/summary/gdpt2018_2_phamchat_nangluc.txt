@@ -1,6 +1,6 @@
-## II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI
+# II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI
 
-### 1. Các phẩm chất chủ yếu
+## 1. Các phẩm chất chủ yếu
 
 Chương trình xác định **5 phẩm chất chủ yếu** cần được hình thành và phát triển ở học sinh trong suốt quá trình học tập, gồm:
 
@@ -10,7 +10,7 @@ Chương trình xác định **5 phẩm chất chủ yếu** cần được hìn
 - **Trung thực**: Sống ngay thẳng, thật thà, dám nói lên sự thật, tôn trọng sự thật, không gian dối trong học tập và cuộc sống.
 - **Trách nhiệm**: Có ý thức thực hiện nghĩa vụ của bản thân, biết tự nhận lỗi và sửa lỗi, hoàn thành nhiệm vụ được giao.
 
-### 2. Các năng lực cốt lõi
+## 2. Các năng lực cốt lõi
 
 Năng lực của học sinh được chia thành:
 - **Năng lực chung**, gồm:
