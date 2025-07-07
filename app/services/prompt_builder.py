@@ -11,6 +11,7 @@ def build_prompt_with_context(question: str, messages: List[ChatMessage] = None)
     Tạo prompt có context dựa trên intent và follow-up context.
     """
     # Bước 1: Xác định intent
+    
     intent = classify(question)
 
     # Bước 2: Kiểm tra follow-up theo từ khóa

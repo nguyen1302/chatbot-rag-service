@@ -5,13 +5,31 @@ from app.services.ingest_service import list_document_ids
 from app.services.ingest_service import get_chunks_by_doc_id
 from app.services.ingest_service import count_chunks_by_doc_id
 from app.services.ingest_service import get_full_chunks_by_doc_id
+from fastapi import APIRouter, UploadFile, File, Query
+from fastapi.responses import JSONResponse
+import os
+from app.services.ingest_service import ingest_single_file
 
 router = APIRouter()
 
-@router.post("/ingest")
-async def ingest_all():
-    ingest_folder("raw-data", force=True)
-    return {"status": "ok", "message": "All PDFs or txt ingested"}
+@router.post("/ingest/{path:path}")
+async def ingest_path(path: str):
+    safe_path = os.path.normpath(path)
+
+    if not os.path.exists(safe_path):
+        return {"status": "error", "message": f"❌ Path không tồn tại: {safe_path}"}
+
+    if os.path.isfile(safe_path):
+        ingest_single_file(safe_path, force=True)
+        return {"status": "ok", "message": f"✅ File {safe_path} đã được ingest"}
+
+    elif os.path.isdir(safe_path):
+        ingest_folder(safe_path, force=True)
+        return {"status": "ok", "message": f"✅ Tất cả file trong thư mục {safe_path} đã được ingest"}
+
+    return {"status": "error", "message": "❌ Đường dẫn không hợp lệ"}
+
+
 
 @router.get("/ingest/docs")
 async def list_docs():

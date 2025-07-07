@@ -1,0 +1,49 @@
+
+# Tập đoàn Khoa học Công nghệ Bách Khoa và thông tin liên hệ
+
+## Giới thiệu chung
+Bách Khoa là Tập đoàn công nghệ Giáo dục, chuyên cung cấp các phần mềm phục vụ chuyển đổi số trong Giáo dục với các nền tảng chính:
+- Nền tảng quản lý
+- Nền tảng giá trị gia tăng
+- Nền tảng dạy - học - kiểm tra đánh giá
+- Nền tảng học liệu số bản quyền
+- Nền tảng đào tạo Giáo viên số
+- Nền tảng thiết bị số
+
+Website: [bachkhoa.tech](https://bachkhoa.tech)
+
+## Tầm nhìn
+Xây dựng một hệ thống giáo dục hiện đại, tiên tiến và công bằng, nơi mọi học sinh, sinh viên có cơ hội bình đẳng để phát triển toàn diện.
+
+## Sứ mệnh
+Đóng góp vào sự phát triển toàn diện của cộng đồng giáo dục Việt Nam thông qua các giải pháp công nghệ chuyển đổi số tiên tiến, linh hoạt và tích hợp.
+
+## Các hệ thống chính
+- **TEST360**: Kiểm tra đánh giá trực tuyến ([thi.lms360.edu.vn](https://thi.lms360.edu.vn))
+- **SMS360**: Quản lý trường học ([qlth.lms360.edu.vn](https://qlth.lms360.edu.vn))
+- **QAE360**: Kiểm định chất lượng giáo dục ([kiemdinh.lms360.edu.vn](https://kiemdinh.lms360.edu.vn))
+- **Thi đua khen thưởng** ([thiduakhenthuong.hcm.edu.vn](https://thiduakhenthuong.hcm.edu.vn))
+- **Đánh giá tự đánh giá** ([thidua.vn](https://thidua.vn))
+- **Học bạ số và chữ ký số**
+
+## Các hoạt động tiêu biểu
+- Tập huấn miễn phí cho giáo viên về chuyển đổi số và ứng dụng AI
+- Hợp tác cùng Sở GD&ĐT TP.HCM trong các chương trình chuyên môn
+
+## Thông tin liên hệ và hỗ trợ triển khai hệ thống
+- Mr Thắng: 091 336 5079
+- Mr Truyền: 097 1413 192
+- Hotline: 090 303 0246
+- Email: admin@bachkhoa.tech
+- Youtube: [LMS360 E-LEARNING](https://www.youtube.com/@LMS360ELEARNING-pg8ps)
+
+## Địa điểm hoạt động
+- Trụ sở chính: Số 3 Công Trường Quốc Tế, Quận 3, TP.HCM
+- Chi nhánh Hà Nội: Daeha Business Center, 360 Kim Mã, Ba Đình, Hà Nội (08 456 98 998)
+
+## Số liệu nổi bật
+- Hơn 1.500 trường học đang sử dụng sản phẩm
+- Hơn 1.000.000 học sinh trên toàn quốc
+- Hơn 100.000 GB dữ liệu được lưu trữ an toàn
+
+_(Dữ liệu được tổng hợp từ website chính thức và tài liệu của Tập đoàn Bách Khoa)_

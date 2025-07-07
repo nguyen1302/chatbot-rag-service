@@ -18,6 +18,8 @@ QDRANT_PORT = int(os.getenv("QDRANT_PORT", "6333"))
 COLLECTION_NAME = "docs"
 CHUNK_SIZE = 700
 CHUNK_OVERLAP = 50
+RAW_DATA_ROOT = "raw-data"  # cấu hình thư mục gốc cố định
+
 
 class MarkdownText(BaseModel):
     text: str
@@ -69,7 +71,12 @@ def chunk_text(text: str, section: str, subsection: str) -> List[str]:
     chunks = splitter.split_text(text)
     return [f"{section} – {subsection} – ý {i+1}\n\n{chunk.strip()}" for i, chunk in enumerate(chunks)]
 
-def ingest_single_file(file_path: str, document_id: str, force: bool = True):
+def ingest_single_file(file_path: str, document_id: str = None, force: bool = True):
+    if document_id is None:
+        # Tự động tạo doc_id từ đường dẫn tương đối với thư mục gốc "raw-data"
+        relative_path = os.path.relpath(file_path, start="raw-data")
+        document_id = os.path.splitext(relative_path)[0].replace(os.sep, "_")
+
     if not force and check_exists_by_doc_id(document_id):
         print(f"✅ Skipping {document_id} (already ingested)")
         return
@@ -106,7 +113,8 @@ def ingest_single_file(file_path: str, document_id: str, force: bool = True):
 
 def ingest_folder(folder_path: str, force: bool = True):
     recreate_collection_if_needed()
-    _ingest_recursive(folder_path, force, base_folder=folder_path)
+    _ingest_recursive(folder_path, force, base_folder=RAW_DATA_ROOT)
+
 
 
 def list_document_ids() -> List[str]:
@@ -186,7 +194,6 @@ def _ingest_recursive(current_path: str, force: bool, base_folder: str):
     if files:
         for f in sorted(files):
             file_path = os.path.join(current_path, f)
-            # Tạo doc_id từ đường dẫn tương đối, thay dấu '/' bằng '_'
             relative_path = os.path.relpath(file_path, start=base_folder)
             doc_id = os.path.splitext(relative_path)[0].replace(os.sep, "_")
             ingest_single_file(file_path, doc_id, force=force)

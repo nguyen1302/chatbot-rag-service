@@ -1,0 +1,97 @@
+# Hướng dẫn sử dụng hệ thống LMS360
+
+## Giới thiệu chung
+- **LMS 360 e-Learning** là sản phẩm của công ty Bách Khoa.
+- Phục vụ cho công tác **dạy – học – kiểm tra đánh giá**, tích hợp nhiều tính năng thuận tiện.
+- Chạy trên tên miền: `lms360.edu.vn`
+- Hoạt động trên 3 giao diện:
+  - PC web
+  - Mobile web
+  - Mobile App (chỉ dành cho học sinh)
+
+---
+
+## Cách upload file PowerPoint
+
+### 1. Dạng tài liệu
+- Tại danh sách khóa học >> Cột "Upload tài liệu" >> **Thêm nhanh** >> Chọn file >> Upload
+- Hỗ trợ: `.ppt`, `.docx`, hình ảnh,...
+
+### 2. Dạng video
+- Lưu file PowerPoint thành định dạng `.mp4` (MPEG-4)
+- Upload lên hệ thống ở phần **video tương tác**
+
+### 3. Dạng slide tương tác
+- Chuyển PowerPoint thành **hình ảnh**
+- Upload vào mục **slide bài giảng**
+- Mỗi ảnh là một slide, có thể gắn **bài tập tương tác**
+
+---
+
+## Giới hạn dung lượng
+- Tài liệu: tối đa **500MB**
+- Video tương tác: tối đa **1GB**
+- File Scorm: **Không giới hạn**
+
+---
+
+## Sử dụng bài giảng Scorm/HTML5
+- Xuất từ phần mềm: Ispring Suite / StoryLine / ...
+- Định dạng: **Scorm**, **HTML5**
+- Giải nén file và upload theo dạng tài liệu
+- Nếu là file `h5p` thì lấy đoạn code và dùng **"Thêm nhanh"** trong cột "Upload tài liệu"
+
+---
+
+## Cài đặt hiển thị bài giảng
+- Giáo viên chọn hiển thị bài giảng cho học sinh trong lớp cụ thể
+- Học sinh đăng nhập sẽ thấy bài trong menu **Khóa học**
+- Tài khoản do admin trường cấp (qua CSDL ngành)
+
+---
+
+## Đồng bộ dữ liệu với CSDL ngành TP.HCM
+- Dùng **chung tài khoản** và thay đổi mật khẩu tại trang: `truong.hcm.edu.vn`
+- Sau khi cập nhật lớp/môn dạy: **admin cần đăng nhập lại LMS360 để đồng bộ**
+
+---
+
+## Duyệt khóa học
+- **Kho học liệu Tổ chuyên môn**: duyệt bởi Tổ trưởng/Tổ phó chuyên môn
+- **Kho học liệu Trường**: duyệt bởi TTCM và BGH
+- **Kho học liệu Phòng GD**: duyệt bởi chuyên viên, Phó/Trưởng Phòng
+
+---
+
+## Một số tính năng dành cho Admin
+- Thống kê học liệu số: Menu "Kho học liệu của trường" >> Thống kê
+- Thống kê học sinh: Xuất file Excel
+- Phân quyền TTCM và BGH từ CSDL ngành
+- Quản lý điểm, xem điểm theo lớp, bài giảng
+
+---
+
+## Tạo bài giảng và kiểm tra đánh giá
+- Sử dụng các công cụ:
+  - **Tạo bài kiểm tra đánh giá**
+  - **Tạo danh sách bài tập với tương tác**
+  - **Câu đố (Bộ câu hỏi)**
+
+### Video hướng dẫn:
+1. [Tạo bài kiểm tra đánh giá](https://youtu.be/eLoiKjfGAIs?si=TYLnDlaeYm30gwnj)
+2. [Bài tập nhiều dạng tương tác](https://youtu.be/tvcRUg_ATxk?si=wcmS4Mxx5I3YYh61)
+3. [Câu đố (Bộ câu hỏi)](https://youtu.be/b2hu_5uFVhk?si=AAo_C99xvYv6ClfW)
+
+---
+
+## Một số lưu ý khi sử dụng
+- Học sinh phải **gửi câu trả lời** (nút dấu sao cuối video) để ghi nhận điểm và % hoàn thành
+- Tài liệu không có tương tác sẽ không ghi nhận % hoàn thành
+- Nếu học sinh không thấy bài giảng: có thể do bài đang ở chế độ **riêng tư**
+- Sửa lỗi font khi copy nội dung: bôi đen, nhấn nút **Tx**, lưu lại
+- Không đăng nhập đồng thời LMS360 và hệ thống thi online trên cùng một trình duyệt
+
+---
+
+## Hỗ trợ kỹ thuật
+- Hotline hỗ trợ: **090 303 0246**

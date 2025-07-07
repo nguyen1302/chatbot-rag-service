@@ -51,7 +51,7 @@ def test_all_user_questions(req: RAGRequest):
 
     for msg in req.messages:
         if msg.role == "user":
-            rag_response = prompt_builder.build_prompt_with_context(msg.content, messages=req.messages)
+            rag_response, is_followup = prompt_builder.build_prompt_with_context(msg.content, messages=req.messages)
             # answer = openai_llm.call_openai_from_rag(req, rag_response)
 
             responses.append({

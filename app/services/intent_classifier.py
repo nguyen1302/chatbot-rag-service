@@ -87,7 +87,8 @@ def detect_question_type(user_input):
     "đổi mới sáng tạo": 1, "an sinh tinh thần": 1, "ứng dụng công nghệ": 1,
     
     # === CHƯƠNG TRÌNH GIÁO DỤC 2018 - TIẾNG VIỆT === (Trọng số cao - 4-5)
-    "chương trình giáo dục phổ thông 2018": 5,"chương trình phổ thông 2018":5,
+    "chương trình giáo dục phổ thông 2018": 5,"chương trình phổ thông 2018":5, "chương trình gdpt 2018": 5,"chương trình gdpt2018": 5,
+    "gdpt2018":5,"gdpt 2018":5,
     "tiếng việt lớp 1": 4, "tiếng việt lớp 2": 4, "tiếng việt lớp 3": 4, 
     "tiếng việt lớp 4": 4, "tiếng việt lớp 5": 4, "sgk tiếng việt": 4,
     
