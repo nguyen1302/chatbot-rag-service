@@ -33,21 +33,16 @@ def handle_rag(req: RAGRequest):
 @router.post("/test/intent")
 def test_final_intent(req: RAGRequest):
     question = get_last_user_question(req.messages)
-    
+
     # Xây dựng prompt và context từ câu hỏi
-    rag_response = prompt_builder.build_prompt_with_context(question,messages=req.messages)
-    prompt = rag_response.prompt
-    context_chunks = rag_response.context_chunks
+    rag_response, is_followup = prompt_builder.build_prompt_with_context(question, messages=req.messages)
 
-
-    # Gọi OpenAI API
-    # answer = openai_llm.call_openai_from_rag(req, rag_response)
-
+    
     return {
         "question": question,
-        "final_prompt": prompt,
-        "context_chunks": context_chunks,
-        # "answer": answer if isinstance(answer, str) else "".join(answer)  # Nếu stream thì nối lại
+        "final_prompt": rag_response.prompt,          # Trả về prompt đầy đủ đã xây dựng
+        "context_chunks": rag_response.context_chunks,
+        "is_followup":is_followup  # (Tùy chọn) debug follow-up
     }
 
 @router.post("/test/multi-intent")

@@ -298,3 +298,403 @@ Tôi không tạo được đề thi trên hệ thống kiểm tra.
 Hệ thống có hỗ trợ AI gợi ý khóa học không?
 Giáo viên chủ nhiệm xem thông tin sức khỏe học sinh ở đâu?
 Phân quyền giáo viên để nhập điểm môn học.
+Giới  thiệu tổng quan về Công ty Công Nghệ Bách Khoa
+Tôi muốn hiểu thêm về Bách Khoa được không? 
+Bách Khoa là công ty thế nào? 
+Ai là người sáng lập Tập đoàn Bách Khoa? 
+Tầm nhìn và sứ mệnh của Công ty Bách Khoa là gì?
+Công ty Bách Khoa có những sản phẩm công nghệ nào ngoài LMS360?
+Ngoài LMS360, sản phẩm nào khác được phát triển bởi Bách Khoa?
+Hệ thống kiểm tra đánh giá trực tuyến là gì? 
+Hệ thống kiểm tra đánh giá trực tuyến viết tắt là gì? 
+Hệ thống kiểm tra đánh giá trực tuyến chạy trên tên miền nào? 
+Hệ thống Quản lý trường học là gì? 
+Hệ thống Quản lý trường học tên viết tắt là gì
+Hệ thống Quản lý trường học chạy trên tên miền nào?
+Hệ thống Kiểm định chất lượng giáo dục là gì? 
+Hệ thống Kiểm định chất lượng giáo dục chạy trên tên miền nào? 
+Hệ thống Kiểm định chất lượng giáo dục có tên viết tắt là gì?  
+Hệ thống thi đua khen thưởng của Sở GD&ĐT TP.HCM là gì? 
+Hệ thống thi đua khen thưởng của Sở GD&ĐT TP.HCM chạy trên tên miền nào? 
+Hệ thống đánh giá tự đánh giá là gì? 
+Hệ thống đánh giá tự đánh giá chạy trên tên miền nào? 
+Tô icos thể tham khảo chi tiết sản phẩm của Bách Khoa ở website nào? 
+Ngoài hệ thống quản lý học tập trực tuyến, Bách Khoa có hệ thống kiểm định/thi đua khen thưởng/quản lý trường học/sổ liên lạc điện tử/... không?  
+LMS360 có phải là sản phẩm duy nhất của Bách Khoa? 
+Tôi cần được tư vấn về sản phẩm của Bách Khoa thì liên hệ ai?
+Tôi cần tư vấn về sản phẩm? 
+Ai có thể tư vấn về sản phẩm?
+Làm sao để được hỗ trợ tư vấn sản phẩm? 
+Công ty Bách Khoa có cung cấp chương trình đào tạo cho người dùng không?
+Bách Khoa có đào tạo giáo viên, học sinh,... không? 
+Bách Khoa có dạy tôi sử dụng các sản phẩm không? 
+Nếu tôi có nhu cầu học thêm về công nghệ, Bách Khoa có thể hỗ trợ không ? 
+Có bao nhiêu trường học tại Việt Nam đang sử dụng sản phẩm của Công ty Bách Khoa?
+Có nhiều trường học ở Việt Nam dùng sản phẩm của Bách Khoa không? 
+Sản phẩm của Bách Khoa có được nhiều trường học ưa chuộng không? 
+Tình hình triển khai cho các trường của Bách Khoa thế nào? 
+Công ty Bách Khoa có tham gia vào lĩnh vực nghiên cứu và phát triển không?
+Bách Khoa có đầu tư về nghiên cứu và phát triển sản phẩm không? 
+Công ty Bách Khoa có cung cấp các tài liệu đào tạo miễn phí không?
+Tài liệu đào tạo miễn phí lấy ở đâu? 
+Tôi cần tài liệu hướng dẫn, lấy ở đâu? 
+Công ty Bách Khoa hoạt động từ khi nào và ở đâu?
+Bách Khoa thành lập năm bao nhiêu, trụ sở ở đâu? 
+Website của Công ty Bách Khoa là gì?
+Làm thế nào để đăng ký tham gia các khóa học của Bách Khoa?
+Đăng ký tham giá các khóa học đào tạo của Bách Khoa ở đâu? 
+Liên hệ ai để được tư vấn về cách đăng ký các khóa học của Bách Khoa? 
+Bách Khoa có hỗ trợ gì cho học sinh trong việc ôn luyện thi?
+Bách Khoa Tech chuyên cung cấp những dịch vụ nào?
+Bách Khoa Tech có trụ sở ở đâu?
+Ở TP.HCM, Bách Khoa có văn phòng không?
+Trụ sở chính của Bách Khoa đặt ở đâu? 
+Bách Khoa Tech có hỗ trợ các trường học ở các khu vực ngoài thành phố Hồ Chí Minh không?
+Tôi thuộc trường học ở khu vực ngoài thành phố Hồ Chí Minh thì Bách Khoa có hỗ trợ không?
+Tôi thuộc trường học ở khu vực ngoài thành phố Hồ Chí Minh thì liên hệ Bách Khoa thế nào? 
+Bách Khoa Tech có phát triển phần mềm riêng cho các trường học không?
+Tôi có nhu cầu phát triển phần mềm riêng cho trường, Bách Khoa có làm không? 
+Làm thế nào để trở thành đối tác của Bách Khoa Tech?
+Tôi muốn làm đối tác của Bách Khoa, liên hệ ai? 
+Ai là người tư vấn cho đối tác của Bách Khoa?
+Bách Khoa Tech có cung cấp giải pháp cho giáo dục mầm non/Tiểu học/THCS/THPT/Cao đẳng/Đại học không?
+Tại TPHCM, Bách Khoa đã phối hợp với Sở thực hiện các hoạt động nào/Bách Khoa tham gia các hoạt động giáo dục nào? 
+Bách Khoa có phối hợp với Sở GD&ĐT TP.HCM thực hiện các hoạt động giáo dục không? 
+Bách Khoa Tech có tham gia vào nghiên cứu và phát triển công nghệ mới không?
+Bách Khoa Tech có cung cấp các dịch vụ cho các tổ chức giáo dục tư nhân không?
+Tầm nhìn của Bách Khoa Tech là gì?
+Sứ mệnh của Bách Khoa Tech là gì?
+Công ty hiện có bao nhiêu nhân sự?
+Công ty hoạt động chủ yếu tại khu vực nào?
+Những tỉnh thành nào đã triển khai LMS360 của Bách Khoa?
+Bách Khoa triển khai được cho tình thành nào ngoài TP.HCM? 
+Chi nhánh của Bách Khoa ở đâu? 
+Bách Khoa có Chi Nhánh không?
+Bách Khoa Tech hỗ trợ ra sao trong việc tham mưu chiến lược chuyển đổi số cho địa phương?
+Bách Khoa có đào tạo giáo viên, học sinh,... không? 
+Hoạt động đào tạo và bồi dưỡng chuyên môn do Bách Khoa tổ chức bao gồm những nội dung nào?
+Có bao nhiêu chương trình đào tạo chuyên môn dành cho Giáo viên, học sinh,... mà Bách Khoa cung cấp? 
+Sau khi triển khai chính thức, Bách Khoa có hỗ trợ gì trong việc vận hành thực tế không?
+Trong trường hợp gặp sự cố kỹ thuật, trường học có thể liên hệ hỗ trợ như thế nào?
+Tôi gặp khó khăn khi sử dụng thì liên hệ ai? 
+Kênh chăm sóc khách hàng của Bách Khoa ở đâu? 
+Liên hệ ai sẽ được hỗ trợ về trải nghiệm sản phẩm Bách Khoa? 
+LMS360 là gì và có vai trò gì trong hệ sinh thái của Bách Khoa Tech?
+Hệ thống TEST360 hỗ trợ kiểm tra theo hình thức nào?
+SMS360 có phải là sổ liên lạc điện tử không?
+Điểm danh bằng AI của Bách Khoa hoạt động thế nào?
+Điểm danh bằng AI camera AI là sao? 
+Có bao nhiêu học sinh đang sử dụng LMS360?
+Bách Khoa đã luu trữ bao nhiêu dung lượng đến thời điểm hiện tại? 
+Dung lượng lưu trữ hệ thống của hệ sinh thái Bách Khoa là bao nhiêu?
+Việc báo cáo chuyên cần có được thực hiện online trên hệ sinh thái của Bách Khoa không?
+Bách Khoa có công nghệ xin phép online không? 
+Học bạ số của Bách Khoa có gì khác biệt?
+Học bạ số do Bách Khoa xây dựng có công nghệ đặc biệt gì?
+Ai có thể tham gia khóa đào tạo của Bách Khoa?
+Khóa đào tạo thiết kế bài giảng E-learning tập trung vào kỹ năng gì?
+Khóa học ứng dụng AI tập trung vào những nội dung gì? 
+Bách Khoa có cung cấp thiết bị phần cứng không?
+Học liệu số của Bách Khoa được chia theo tiêu chuẩn nào, đối với khối phổ thông?
+AI trong hệ sinh thái LMS của Bách Khoa đảm nhiệm vai trò gì?
+Nhận diện khuôn mặt dùng AI có độ chính xác bao nhiêu?
+Trợ lý AI có thể hiểu giọng nói không?
+Tôi có thể ra lệnh cho trợ lý AI bằng giọng nói không? 
+Có thể voice cho ChatAI không? 
+TEST360 hỗ trợ các loại đề thi nào?
+Tôi có thể làm được những dạng bài nào trên TEST360?
+Thi trực tuyến của Bách Khoa cho phéo những dạng đề thi nào ? 
+Bách Khoa có chống gian lận trong thi trực tuyến không?
+Thi trên TEST360 có chống gian lận không? 
+Bách Khoa có hỗ trợ khảo sát năng lực ngoại ngữ không?
+Bách Khoa có cung cấp phòng thí nghiệm mô phỏng không?
+Trường học thông minh gồm những không gian nào?
+Phòng studio dùng để làm gì?
+Có thể tích hợp LMS360 với hệ thống quản lý hiện có không?
+Trường nhỏ có thể triển khai toàn bộ hệ sinh thái không?
+Phụ huynh có thể xem kết quả học tập của con mình không?
+Tại sao LMS360 được ưu tiên triển khai tại nhiều tỉnh thành?
+Hệ thống lưu trữ đám mây của Bách Khoa có thể mở rộng không?
+Tổ chuyên môn trong trường có thể dùng LMS để sinh hoạt không?
+Ban Giám hiệu có thể theo dõi toàn trường trên một giao diện không?
+Bách Khoa có cấp tài khoản thử nghiệm cho người mới không?
+Tôi muốn có tài khoản dùng thử được không? 
+LMS360 là gì
+Upload file Power Point lên bằng những cách nào?
+Giới hạn khi upload file tài liệu?
+Cách đăng tải bài giảng xuất từ Ispring Suit lên hệ thống LMS360?
+Làm sao để tải về file bài giảng và up lên hệ thống?
+Cách cho học sinh vào xem bài học trên LMS360? 
+Cách đổi mật khẩu trên trang LMS360?
+Là TTCM nhưng đăng nhập vào hệ thống thì không có phần duyệt bài?
+Sau khi duyệt bài thì khóa học không mất đi trong menu duyệt học liệu số?
+Quy trình duyệt học liệu số của TTCM và BGH?
+Duyệt bài đưa lên kho học liệu số của Tổ chuyên môn sẽ do ai là người duyệt. 
+Duyệt bài đưa lên kho học liệu số của Trường sẽ do ai là người duyệt. 
+Duyệt bài đưa lên kho học liệu số của Phòng giáo dục sẽ do ai là người duyệt. 
+Xoá tên các Giáo Viên đã nghỉ hưu, chuyển trường, thỉnh giảng, thai sản,... và các Nhân Viên không phân công chuyên môn trên trang LMS360.
+Trường hợp Học sinh chuyển lớp nhưng đăng nhập vào bài vẫn ở lớp cũ/Trên trang LMS360, dữ liệu của Giáo Viên và Học Sinh chưa có.
+Thống kê số bài giảng theo tháng, sang tháng sau thống kê bị mất bài/ Thiếu bài  
+Xuất thống kê Giáo Viên chưa tạo bài giảng nào và Giáo Viên đã soạn bài giảng (bao gồm tên GV, tên bài giảng, mức học liệu, môn, ngày tạo) trên LMS360.
+Xuất thống kê Học sinh chưa sử dụng/ lần truy cập gần nhất của Học sinh.
+Admin đã phân quyền duyệt cho Giáo Viên nhưng bị mất.
+Hướng dẫn phân quyền duyệt cho TTCM/BGH/Admin muốn xoá chức vụ của Giáo Viên.
+Đồng bộ tài khoản CSDL ngành
+Đã chuyển từ trạng thái riêng tư sang trạng thái cho học sinh của lớp để HS làm bài, nhưng mà sao chỗ khóa học vẫn chưa thấy được chia sẻ?
+Hoàn thành câu hỏi tương tác video nhưng không hiện điểm
+Để hiển thị % hoàn thành khóa học
+Học sinh đã xem và tải tài liệu về nhưng vẫn không hiện % hoàn thành khoá học
+Cách kiểm tra điểm tự luận trên tài khoản Học sinh
+Học sinh không đăng nhập được vào tài khoản hoặc sai mật khẩu ?
+Học sinh không vào xem khóa học được?
+Cách nộp bài tự luận trên tài khoản Học sinh?
+Cách xem lại điểm trắc nghiệm trên tài khoản Học sinh?
+Học sinh xem trên điện thoại bài có 2 trang xem được 1 trang?
+Xin tài khoản đăng nhập và mật khẩu của học sinh
+Trường hợp muốn xóa HS khỏi hệ thống LMS360
+Làm sao tạo được đa dạng bài tập trong một bài giảng?
+Giáo viên tạo bài tập tự luận thì Học sinh nộp bài thế nào?
+Copy link video từ Youtube lên hệ thống nhưng hiện Unknown?
+Sau khi hoàn thành bài, điểm có được thống kê theo lớp không? 
+Làm câu hỏi tương tác video nhưng không hiện điểm và tỷ lệ hoàn thành?
+Bộ đề nhiều câu hỏi, GV muốn học làm số ít câu trong số nhiều câu hỏi đó. Bên LMS360 có chức năng đó không
+Học sinh không làm hết bài tập tương tác tại sao vẫn được 10 điểm?
+Cách cho học sinh vào xem bài học
+Giáo viên muốn xem học sinh tương tác trên môn học của mình.
+Sau khi hoàn thành bài, điểm có được thống kê theo lớp không?
+Làm câu hỏi tương tác video nhưng không hiện điểm trắc nghiệm.
+Khi GV muốn tải bài giảng mà GV đã up lên trên LMS360
+Nhập đáp án rồi, Học sinh viết đúng từ như đáp án đã cài, nhưng vẫn bị tính sai
+Màn hình báo liên hệ hotline để được mở quyền quản lý tài khoản
+công cụ Chọn từ phù hợp là gì? 
+Công cụ Chọn từ phù hợp thao tác thế nào? 
+Công cụ chọn từ phù hợp có cú pháp nhập bài giảng như thế nào?
+công cụ Điền vào chỗ trống là gì?
+công cụ Điền vào chỗ trống thao tác thế nào?
+Công cụ Điền vào chỗ trống có cú pháp nhập bài giảng như thế nào? 
+Trắc nghiệm một đáp án là gì ?
+Trắc nghiệm một đáp án thao tác thế nào?
+Trắc nghiệm một đáp án có cú pháp nhập bài giảng như thế nào? 
+công cụ Trắc nghiệm nhiều đáp án là gì?
+công cụ Trắc nghiệm nhiều đáp án thao tác thế nào?
+công cụ Trắc nghiệm nhiều đáp án có cú pháp nhập bài giảng như thế nào ?
+công cụ Kéo và thả từ là gì?
+công cụ Kéo và thả từ thao tác thế nào?
+công cụ Kéo và thả từ có cú pháp nhập bài giảng như thế nào?
+công cụ Game kéo thả nội dung là gì? 
+công cụ Game kéo thả nội dung thao tác thế nào?
+công cụ Game kéo thả nội dung có cú pháp nhập bài giảng như thế nào ?
+công cụ Bài tập tự luận là gì?
+công cụ Bài tập tự luận thao tác thế nào ?
+Công cụ Bài tập tự luận có cú pháp nhập bài giảng như thế nào? 
+công cụ Câu hỏi Đúng/Sai là gì ?
+công cụ Câu hỏi Đúng/Sai thao tác thế nào?
+công cụ Câu hỏi Đúng/Sai có cú pháp nhập bài giảng như thế nào? 
+công cụ Game nối hình ảnh là gì? 
+công cụ Game nối hình ảnh thao tác thế nào?
+công cụ Game nối hình ảnh có cú pháp nhập bài giảng như thế nào? 
+công cụ Bài tập tính nhanh là gì ?
+công cụ Bài tập tính nhanh thao tác thế nào?
+công cụ Bài tập tính nhanh có cú pháp nhập bài giảng như thế nào? 
+công cụ Game nối các chữ cái?
+công cụ Game nối các chữ cái thao tác thế nào?
+công cụ Game nối các chữ cái có cú pháp nhập bài giảng như thế nào?
+công cụ Game ô chữ kỳ là gì ?
+công cụ Game ô chữ kỳ thao tác như thế nào? 
+công cụ Game ô chữ kỳ có cú pháp nhập bài giảng như thế nào? 
+công cụ Game trí nhớ là gì?
+công cụ Game trí nhớ thao tác thế nào?
+công cụ Game trí nhớ có cú pháp nhập bài giảng như thế nào?
+công cụ Những điểm truy cập hình ảnh là gì? 
+công cụ Những điểm truy cập hình ảnh thao tác thế nào?
+công cụ Những điểm truy cập hình ảnh có cú pháp nhập bài giảng như thế nào?
+công cụ Accordion là gì ?
+công cụ Accordion thao tác thế nào?
+công cụ Accordion có cú pháp nhập bài giảng như thế nào ?
+công cụ Thẻ hội thoại là gì? 
+công cụ Thẻ hội thoại thao tác như thế nào?
+công cụ Thẻ hội thoại cú pháp nhập bài giảng như thế nào?
+công cụ Công cụ tài liệu là gì? 
+công cụ Công cụ tài liệu thao tác như thế nào?
+công cụ Công cụ tài liệu cú pháp nhập bài giảng như thế nào? 
+công cụ Thanh trượt hình ảnh là gì?
+công cụ Thanh trượt hình ảnh thao tác thế nào?
+công cụ Thanh trượt hình ảnh cú pháp nhập bài giảng như thế nào?
+công cụ Bộ nhúng nội tuyến là gì? 
+công cụ Bộ nhúng nội tuyến thao tác thế nào?
+công cụ Bộ nhúng nội tuyến cú pháp nhập bài giảng như thế nào? 
+công cụ Audio là gì?
+công cụ Audio thao tác thế nào?
+công cụ Audio cú pháp nhập giảng như thế nào?
+công cụ Mốc thời gian là gì? 
+công cụ Mốc thời gian thao tác thế nào?
+công cụ Mốc thời gian cú pháp nhập giảng như thế nào? 
+công cụ Nói bộ từ là gì?
+công cụ Nói bộ từ thao tác thế nào?
+công cụ Nói bộ từ cú pháp nhập giảng như thế nào? 
+công cụ Tìm nhiều điểm phát sóng là gì?
+công cụ Tìm nhiều điểm phát sóng thao tác thế nào?
+công cụ Tìm nhiều điểm phát sóng cú pháp nhập giảng như thế nào? 
+công cụ Nói các từ là gì?
+công cụ Nói các từ thao tác thế nào? 
+công cụ Nói các từ cú pháp nhập giảng như thế nào?
+công cụ Tìm điểm phát sóng là gì?
+công cụ Tìm điểm phát sóng thao tác thế nào? 
+công cụ Tìm điểm phát sóng cú pháp nhập giảng như thế nào? 
+công cụ Sắp xếp hình ảnh theo thứ tự là gì? 
+công cụ Sắp xếp hình ảnh theo thứ tự thao tác như thế nào ?
+công cụ Sắp xếp hình ảnh theo thứ tự cú pháp nhập giảng như thế nào? 
+công cụ Vị trí kết hợp hình ảnh là gì?
+công cụ Vị trí kết hợp hình ảnh thao tác như thế nào? 
+công cụ Vị trí kết hợp hình ảnh cú pháp nhập giảng như thế nào? 
+công cụ Máy ghi âm là gì?
+công cụ Máy ghi âm thao tác như thế nào? 
+công cụ Máy ghi âm cú pháp nhập giảng như thế nào? 
+công cụ Agamotto là gì?
+công cụ Agamotto thao tác thế nào?
+công cụ Agamotto cú pháp nhập giảng như thế nào? 
+công cụ Chính tả là gì?
+công cụ Chính tả?
+công cụ Chính tả?
+công cụ Đoán câu trả lời là gì?
+công cụ Đoán câu trả lời ?
+công cụ Đoán câu trả lời ?
+công cụ Ảnh ghép là gì?
+công cụ Ảnh ghép?
+công cụ Ảnh ghép?
+công cụ Kịch bản phân nhánh là gì?
+công cụ Kịch bản phân nhánh?
+công cụ Kịch bản phân nhánh?
+công cụ Câu đố về tính cách là gì?
+công cụ Câu đố về tính cách?
+công cụ Câu đố về tính cách?
+công cụ Bảng câu hỏi là gì?
+công cụ Bảng câu hỏi?
+công cụ Bảng câu hỏi?
+công cụ Chuyến tham quan ảo là gì?
+công cụ Chuyến tham quan ảo?
+công cụ Chuyến tham quan ảo?
+công cụ Biểu đồ là gì
+công cụ Biểu đồ ?
+công cụ Biểu đồ ?
+công cụ KewAr Code là gì?
+công cụ KewAr Code?
+công cụ KewAr Code?
+công cụ Lịch ra đời là gì?
+công cụ Lịch ra đời?
+công cụ Lịch ra đời?
+Sắp xếp các đoạn văn là gì?
+Sắp xếp các đoạn văn?
+Sắp xếp các đoạn văn?
+công cụ Lựa chọn hình ảnh là gì?
+công cụ Lựa chọn hình ảnh?
+công cụ Lựa chọn hình ảnh?
+công cụ Cornell Notes là gì?
+công cụ Cornell Notes?
+công cụ Cornell Notes?
+Tạo bài giảng bằng công cụ Chọn từ phù hợp thao tác thế nào?
+công cụ Điền vào chỗ trống thao tác thế nào?
+Trắc nghiệm một đáp án thao tác thế nào?
+công cụ Trắc nghiệm nhiều đáp án thao tác thế nào?
+công cụ Kéo và thả từ thao tác thế nào?
+công cụ Game kéo thả nội dung thao tác thế nào?
+công cụ Bài tập tự luận thao tác thế nào?
+công cụ Câu hỏi Đúng/Sai thao tác thế nào?
+công cụ Game nối hình ảnh thao tác thế nào?
+công cụ Bài tập tính nhanh thao tác thế nào?
+công cụ Game nối các chữ cái thao tác thế nào?
+công cụ Game ô chữ kỳ diệu thao tác thế nào?
+công cụ Game trí nhớ thao tác thế nào?
+công cụ Những điểm truy cập hình ảnh thao tác thế nào?
+công cụ Accordion thao tác thế nào?
+công cụ Thẻ hội thoại thao tác thế nào?
+công cụ Công cụ tài liệu thao tác thế nào?
+công cụ Thanh trượt hình ảnh thao tác thế nào?
+công cụ Bộ nhúng khung nội tuyến thao tác thế nào?
+công cụ Audio thao tác thế nào?
+công cụ Mốc thời gian thao tác thế nào?
+công cụ Nói bộ từ thao tác thế nào?
+công cụ Tìm nhiều điểm phát sóng thao tác thế nào?
+công cụ Nói các từ thao tác thế nào? 
+công cụ Tìm điểm phát sóng thao tác thế nào? 
+công cụ Sắp xếp theo trình tự hình ảnh thao tác thế nào?
+công cụ Vị trí kết hợp hình ảnh thao tác thế nào?
+công cụ Máy ghi âm thao tác thế nào?
+công cụ Agamotto thao tác thế nào?
+công cụ Chính tả thao tác thế nào?
+công cụ Đoán câu trả lời thao tác thế nào?
+công cụ Ảnh ghép thao tác thế nào?
+công cụ Kịch bản phân nhánh thao tác thế nào?
+công cụ Câu đố về tính cách thao tác thế nào?
+công cụ Bảng câu hỏi thao tác thế nào?
+công cụ Chuyến tham quan ảo thao tác thế nào?
+công cụ Biểu đồ thao tác thế nào?
+công cụ KewAr Code thao tác thế nào?
+công cụ Lịch ra đời thao tác thế nào?
+công cụ Lựa chọn hình ảnh  thao tác thế nào?
+Sắp xếp các đoạn văn thao tác thế nào?
+công cụ Cornell Notes thao tác thế nào?
+Chức năng menu "Quản lý học sinh" 
+Chức năng menu "Sở GD&ĐT TP.HCM" 
+Chức năng menu "Phòng GD&ĐT" 
+Chức năng menu "Đào tạo Giáo viên số" 
+Chức năng menu "Khóa học Cộng đồng giáo viên TP.HCM" 
+Chức năng menu "Thí nghiệm mô phỏng" 
+Chức năng menu "Nhiệm vụ trường học" 
+Chức năng menu "Thống kê" 
+Chức năng menu "Duyệt học liệu số" 
+Chức năng menu "Kho học liệu số" 
+Chức năng menu "Cá nhân" 
+Chức năng menu "Hỗ trợ" 
+Chức năng menu "Câu hỏi thường gặp" 
+Tài khoản admin gồm những menu nào? 
+Tài khoản Giáo viên gồm những menu nào? 
+Tài khoản Giáo viên là Tổ trưởng chuyên môn/Tổ phó chuyên môn gồm những menu nào? 
+Tài khoản Giáo viên là Hiệu trưởng/Phó hiệu trưởng gồm những menu nào? 
+Tài khoản Học sinh gồm những menu nào? 
+công cụ Vị trí kết hợp hình ảnh có cú pháp nhập bài giảng như thế nào?
+công cụ Máy ghi âm có cú pháp nhập bài giảng như thế nào?
+công cụ Agamotto có cú pháp nhập bài giảng như thế nào?
+công cụ Chính tả có cú pháp nhập bài giảng như thế nào?
+công cụ Đoán câu trả lời có cú pháp nhập bài giảng như thế nào?
+công cụ Ảnh ghép có cú pháp nhập bài giảng như thế nào?
+công cụ Kịch bản phân nhánh có cú pháp nhập bài giảng như thế nào?
+công cụ Câu đố về tính cách có cú pháp nhập bài giảng như thế nào?
+công cụ Bảng câu hỏi có cú pháp nhập bài giảng như thế nào?
+công cụ Chuyến tham quan ảo có cú pháp nhập bài giảng như thế nào?
+công cụ Biểu đồ có cú pháp nhập bài giảng như thế nào?
+công cụ KewAr Code có cú pháp nhập bài giảng như thế nào?
+công cụ Lịch ra đời có cú pháp nhập bài giảng như thế nào?
+công cụ Lựa chọn hình ảnh có cú pháp nhập bài giảng như thế nào?
+Sắp xếp các đoạn văn có cú pháp nhập bài giảng như thế nào?
+công cụ Cornell Notes có cú pháp nhập bài giảng như thế nào?
+Kiểm tra đánh giá trực tuyến là gì? 
+Có mấy loại người dùng trên hệ thống kiểm tra đánh giá trực tuyến
+Chức năng menu "Quản lý" 
+Chức năng menu "Chấm bài thi tự luận" 
+Chức năng menu "Xử lý tình huống thi" 
+Chức năng menu "Quản lý đề thi" 
+Cách đưa đề thi trên hệ thống kiểm tra đánh giá trực tuyến 
+Đề lỗi không tìm ra cách sửa/lỗi sai ở đâu
+Học sinh không thấy bài thi
+HS không vào được bài thi trên hệ thống
+Trộn đề không được
+Làm cách nào để biết đề của mình bị lỗi định dạng
+Một số lỗi thường gặp khi đưa đề lên hệ thống thi trực tuyến. 
+Chuyển đề thi cho Học sinh trên hệ thống thi trực tuyến và cài đặt thời gian xem đáp án thì đáp án có được bảo mật hay không? 
+Quản lý trường học là gì? 
+Có mấy loại người dùng trên hệ thống Quản lý trường học
+Chức năng menu "Trang chủ" 
+Chức năng menu "Lịch giảng dạy" 
+Chức năng menu "Thời khóa biểu" 
+Chức năng menu "Sổ liên lạc điện tử" 
+Chức năng menu "Thông báo" 
+Chức năng menu "Quản lý" 
+Chức năng menu "Điểm danh thông minh" 
+Chức năng menu "Hồ sơ lưu trữ" 
+Chức năng menu "Thống kê" 
+Chức năng menu "Hỗ trợ" 
+Quy trình đồng bộ dữ liệu tài khoản từ CSDL Ngành
+Thông tin tài khoản đăng nhập
+PHHS cần chỉnh sửa thông tin số điện thoại trên Quản lý trường học
+Giáo viên không nhập điểm được
