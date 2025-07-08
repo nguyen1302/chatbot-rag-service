@@ -1,4 +1,4 @@
-from app.services.intent_classifier import classify, check_question_followup, embed_question, retrieve_top_chunks
+from app.services.intent_classifier import classify, check_question_followup, check_feedback_followup
 from typing import Tuple, List
 from app.models.rag import RAGResponse, ChatMessage, RAGRequest
 from app.services import embedder_qa
@@ -48,3 +48,20 @@ def is_followup_key(
 
     return False, []
 
+def is_followup_key_feedback(
+    question: str,
+    messages: List[ChatMessage]
+) -> Tuple[bool, str]:
+    """
+    Chỉ kiểm tra follow-up theo từ khóa. Trả về (is_followup_by_keyword, followup_context_str)
+    """
+    is_keyword_followup = check_feedback_followup(question)
+
+    if is_keyword_followup:
+        for i in range(len(messages) - 1, 0, -1):
+            if messages[i - 1].role == "user" and messages[i].role == "assistant":
+                recent_qa = f"Q: {messages[i - 1].content} A: {messages[i].content}"
+                return True, recent_qa
+        return True, ""  # fallback nếu không tìm được cặp Q-A
+
+    return False, ""

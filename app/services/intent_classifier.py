@@ -236,4 +236,24 @@ def check_question_followup(question):
     
     return has_follow_up
 
+def check_feedback_followup(question: str) -> bool:
+    """
+    Kiểm tra xem câu hỏi hiện tại có phải là một phản hồi tiêu cực hoặc góp ý sửa câu trả lời trước không.
+    Trả về True nếu có, ngược lại False.
+    """
+    feedback_indicators = [
+        # Từ khóa thể hiện phản hồi tiêu cực
+        "sai rồi", "chưa đúng", "không đúng", "không phải", "trả lời sai", "trả lời chưa chính xác", 
+        "chưa chính xác", "không chính xác", "trả lời nhầm", "trả lời lệch", "giải thích sai", "viết nhầm",
+
+        # Từ thể hiện nghi ngờ, yêu cầu làm lại
+        "bạn chắc không", "bạn nhầm rồi", "kiểm tra lại", "xem lại đi", "sai dữ kiện", 
+        "lỗi logic", "không đúng đề", "sai context", "không đúng ngữ cảnh",
+
+        # Hỏi lại bằng kiểu nghi vấn phản bác
+        "thật vậy sao", "chắc không", "có đúng vậy không", "bạn có nhầm gì không"
+    ]
+
+    return any(keyword in question.lower() for keyword in feedback_indicators)
+
 

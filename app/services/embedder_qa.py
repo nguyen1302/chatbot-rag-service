@@ -5,9 +5,9 @@ import os
 from app.models.rag import RAGRequest
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-from underthesea import word_tokenize
 from collections import Counter
 from dotenv import load_dotenv
+from pyvi import ViTokenizer
 load_dotenv()
 
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -20,8 +20,8 @@ def get_embedding(text: str) -> List[float]:
     return response.data[0].embedding
 
 def extract_keywords(text: str, top_k: int = 5) -> str:
-    tokens = word_tokenize(text, format="text").lower().split()
-    stop_words = set(["là", "của", "và", "có", "cho", "này", "để", "khi", "vì", "những", "các", "tôi", "bạn", "rằng"])  # mở rộng nếu muốn
+    tokens = ViTokenizer.tokenize(text).lower().split()
+    stop_words = set(["là", "của", "và", "có", "cho", "này", "để", "khi", "vì", "những", "các", "tôi", "bạn", "rằng"])
     filtered = [word for word in tokens if word not in stop_words and len(word) > 2]
     most_common = [word for word, _ in Counter(filtered).most_common(top_k)]
     return " ".join(most_common)
