@@ -1,21 +1,32 @@
-# VI. HÌNH THỨC ĐÁNH GIÁ MÔN TIẾNG VIỆT LỚP 1
+# V. Đánh giá môn Tiếng Việt lớp 1
 
-Đánh giá trong môn Tiếng Việt lớp 1 theo định hướng phát triển phẩm chất và năng lực học sinh, tập trung vào việc theo dõi quá trình tiến bộ thay vì chỉ kiểm tra kết quả cuối cùng. Việc đánh giá được thực hiện kết hợp giữa đánh giá thường xuyên và đánh giá định kỳ, đảm bảo khách quan, toàn diện và phù hợp với đặc điểm tâm lý lứa tuổi học sinh lớp 1.
+Đánh giá trong môn Tiếng Việt lớp 1 nhằm theo dõi sự tiến bộ của học sinh trong quá trình hình thành và phát triển năng lực ngôn ngữ, từ đó điều chỉnh dạy học phù hợp, khuyến khích học sinh học tập tích cực, tự tin và hiệu quả.
 
-## 1. Đánh giá thường xuyên
+## 1. Nguyên tắc đánh giá
+- Đảm bảo tính toàn diện: đánh giá đủ 4 kỹ năng nghe – nói – đọc – viết.
+- Đảm bảo tính liên tục, thường xuyên và vì sự tiến bộ của học sinh.
+- Kết hợp đánh giá định tính và định lượng, định kỳ và thường xuyên.
+- Đề cao đánh giá bằng nhận xét, khuyến khích tự đánh giá, đánh giá lẫn nhau.
 
-Đánh giá thường xuyên được thực hiện trong quá trình dạy học thông qua quan sát, nhận xét, trò chuyện, đặt câu hỏi, chấm sản phẩm học tập. Giáo viên theo dõi sự tiến bộ từng ngày của học sinh trong việc đọc, viết, nghe và nói, từ đó kịp thời điều chỉnh hoạt động dạy học.
+## 2. Đánh giá thường xuyên
+- Quan sát quá trình học tập, luyện tập, tham gia hoạt động của học sinh.
+- Nhận xét sản phẩm học tập: bài nói, bài viết, bài đọc, vở luyện viết.
+- Kiểm tra nhanh kỹ năng đọc thành tiếng, nghe hiểu, trả lời miệng.
+- Tổ chức hoạt động nhóm, trò chơi ngôn ngữ để đánh giá kỹ năng thực hành.
 
-Ví dụ: giáo viên nghe học sinh đọc và nhận xét về tốc độ, phát âm, ngắt nghỉ; quan sát bài viết để nhận xét về chữ viết, lỗi chính tả; nghe học sinh kể chuyện hoặc trả lời câu hỏi để đánh giá khả năng diễn đạt.
+## 3. Đánh giá định kỳ
+- Tổ chức các bài kiểm tra định kỳ theo kế hoạch (giữa kỳ, cuối kỳ).
+- Nội dung kiểm tra tập trung vào: 
+  - Kỹ năng đọc thành tiếng và đọc hiểu.
+  - Kỹ năng viết chính tả và viết câu/đoạn.
+  - Kỹ năng nghe và trả lời miệng.
+- Hình thức kiểm tra có thể: đọc to, viết chính tả, trắc nghiệm ngắn, vấn đáp.
 
-## 2. Đánh giá định kỳ
+## 4. Hình thức và công cụ đánh giá đa dạng
+- Quan sát – nhận xét – bảng kiểm – hồ sơ học tập – bài làm của học sinh.
+- Đánh giá cá nhân kết hợp đánh giá cặp đôi, nhóm.
+- Sử dụng phiếu đánh giá, rubrics, công cụ học liệu số (nếu có điều kiện).
 
-Đánh giá định kỳ được tổ chức theo kế hoạch của nhà trường vào các thời điểm cụ thể trong năm học (giữa học kỳ, cuối học kỳ). Hình thức đánh giá có thể là bài đọc to, bài đọc hiểu, bài viết chính tả hoặc tập làm văn đơn giản.
-
-Các tiêu chí đánh giá tập trung vào mức độ đạt được các yêu cầu cần đạt đã quy định trong chương trình, ví dụ: tốc độ đọc, độ chính xác khi viết, khả năng trả lời câu hỏi sau khi đọc văn bản, mức độ sử dụng từ ngữ và cấu trúc câu phù hợp trong bài viết hoặc lời nói.
-
-## 3. Đánh giá bằng nhận xét
-
-Thay vì cho điểm số, phần lớn hoạt động đánh giá ở lớp 1 được thực hiện bằng nhận xét. Giáo viên đưa ra lời khen, góp ý cụ thể để học sinh biết mình đã làm tốt điều gì và cần cải thiện điều gì. Nhận xét cũng là cách giúp phụ huynh nắm rõ quá trình học tập của con em mình.
-
-Đánh giá trong môn Tiếng Việt lớp 1 không nhằm so sánh giữa các học sinh mà tập trung vào sự tiến bộ của từng em, giúp các em tự tin, yêu thích học tập và phát triển năng lực ngôn ngữ một cách tự nhiên.
+## 5. Vai trò của giáo viên và học sinh trong đánh giá
+- Giáo viên: theo dõi sự tiến bộ, hướng dẫn điều chỉnh, động viên tích cực.
+- Học sinh: được hướng dẫn **tự đánh giá và đánh giá bạn**, rèn năng lực phản hồi và hợp tác.

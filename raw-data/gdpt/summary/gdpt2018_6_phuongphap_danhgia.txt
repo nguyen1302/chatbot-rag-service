@@ -1,21 +1,45 @@
-# VI. PHƯƠNG PHÁP DẠY HỌC VÀ KIỂM TRA ĐÁNH GIÁ
+# VI. PHƯƠNG PHÁP DẠY HỌC VÀ KIỂM TRA ĐÁNH GIÁ *(phương pháp dạy học, đổi mới đánh giá, kiểm tra năng lực)*
 
-## 1. Phương pháp dạy học
+## 1. Phương pháp dạy học *(dạy học phát triển năng lực, phương pháp học tích cực)*
 
-Chương trình yêu cầu đổi mới phương pháp dạy học theo hướng phát triển năng lực học sinh. Giáo viên không còn là người truyền đạt kiến thức một chiều mà trở thành người tổ chức, hướng dẫn và hỗ trợ học sinh trong quá trình học tập.
+Chương trình Giáo dục Phổ thông (GDPT) 2018 yêu cầu **đổi mới phương pháp dạy học theo hướng phát triển năng lực học sinh**. Giáo viên không chỉ truyền đạt kiến thức mà đóng vai trò là **người tổ chức, hướng dẫn và hỗ trợ học sinh trong quá trình học tập** *(vai trò giáo viên đổi mới)*.
 
-Dạy học được tổ chức theo hướng phát huy tính tích cực, chủ động, sáng tạo và năng lực tự học của học sinh. Các phương pháp như học qua dự án, học qua trải nghiệm, học qua giải quyết vấn đề, thảo luận nhóm, đóng vai, mô phỏng tình huống… được khuyến khích áp dụng. Giáo viên tổ chức các hoạt động học để học sinh khám phá, chiếm lĩnh kiến thức thay vì chỉ tiếp thu thụ động.
+Việc dạy học được tổ chức theo hướng **phát huy tính tích cực, chủ động, sáng tạo và năng lực tự học của học sinh** *(học sinh chủ động)*. Một số phương pháp được khuyến khích áp dụng bao gồm:
+- **Học qua dự án**
+- **Học qua trải nghiệm**
+- **Giải quyết vấn đề**
+- **Thảo luận nhóm**
+- **Đóng vai, mô phỏng tình huống**
 
-Học sinh được tạo cơ hội vận dụng kiến thức vào thực tế, liên hệ cuộc sống và trải nghiệm trong môi trường học tập mở, linh hoạt, kết hợp giữa học trong lớp, ngoài lớp và trực tuyến.
+Giáo viên cần thiết kế các hoạt động học tập để học sinh **tự khám phá, chiếm lĩnh kiến thức**, thay vì tiếp thu một chiều *(học tập khám phá)*.
 
-## 2. Kiểm tra và đánh giá
+Học sinh được tạo cơ hội **vận dụng kiến thức vào thực tế**, liên hệ với cuộc sống và trải nghiệm trong môi trường học tập **mở, linh hoạt**, bao gồm học **trong lớp, ngoài lớp và trực tuyến** *(học tập kết hợp, blended learning)*.
 
-Đánh giá trong chương trình mới không chỉ nhằm xác định kết quả học tập mà còn là công cụ hỗ trợ quá trình học tập và phát triển của học sinh.
+## 2. Kiểm tra và đánh giá *(đánh giá năng lực, đổi mới kiểm tra)*
 
-Có hai hình thức đánh giá chính:
+Đánh giá trong chương trình GDPT 2018 không chỉ nhằm xác định kết quả học tập mà còn đóng vai trò là **công cụ hỗ trợ quá trình học tập và phát triển học sinh** *(đánh giá vì sự tiến bộ)*.
 
-- **Đánh giá thường xuyên**: thực hiện trong quá trình học để thu thập thông tin phản hồi giúp điều chỉnh hoạt động dạy và học. Hình thức đánh giá có thể là nhận xét, hỏi đáp, viết ngắn, bài tập, sản phẩm học tập, quan sát...
+### Hai hình thức đánh giá chính:
 
-- **Đánh giá định kỳ**: được thực hiện tại thời điểm cụ thể nhằm tổng hợp kết quả học tập. Đánh giá định kỳ gồm kiểm tra viết, vấn đáp, thực hành, sản phẩm học tập có hướng dẫn rõ ràng về tiêu chí chấm điểm.
+- **Đánh giá thường xuyên** *(formative assessment)*:  
+  Thực hiện trong quá trình học nhằm thu thập thông tin phản hồi giúp **điều chỉnh dạy – học**. Hình thức có thể bao gồm:
+  - Nhận xét
+  - Hỏi đáp
+  - Bài viết ngắn
+  - Bài tập, sản phẩm học tập
+  - Quan sát, phản hồi nhóm
 
-Đánh giá theo hướng phát triển năng lực nhằm phát hiện và bồi dưỡng điểm mạnh của học sinh, đồng thời hỗ trợ cải thiện những mặt còn hạn chế. Kết quả đánh giá là căn cứ để giáo viên điều chỉnh dạy học, học sinh tự điều chỉnh cách học và phụ huynh đồng hành cùng con.
+- **Đánh giá định kỳ** *(summative assessment)*:  
+  Thực hiện tại thời điểm nhất định để tổng hợp kết quả học tập. Có thể bao gồm:
+  - Kiểm tra viết
+  - Vấn đáp
+  - Thực hành
+  - Sản phẩm học tập  
+  Các bài đánh giá định kỳ có **tiêu chí chấm rõ ràng** để đảm bảo công bằng và khách quan.
+
+Đánh giá theo hướng phát triển năng lực giúp:
+- **Phát hiện, bồi dưỡng điểm mạnh của học sinh**
+- **Hỗ trợ cải thiện các mặt còn hạn chế**
+- **Giáo viên điều chỉnh phương pháp dạy học**
+- **Học sinh điều chỉnh cách học**
+- **Phụ huynh đồng hành cùng con hiệu quả hơn** *(phối hợp nhà trường – gia đình)*

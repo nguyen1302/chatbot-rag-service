@@ -16,4 +16,3 @@ def embed_question(question: str) -> List[float]:
     if embedding is None:
         raise ValueError("❌ Failed to get embedding from OpenAI.")
     return embedding
-

@@ -1,31 +1,34 @@
-# II. Yêu cầu cần đạt môn Tiếng Việt lớp 2
+# III. Yêu cầu cần đạt môn Tiếng Việt lớp 2
 
-Trong chương trình Tiếng Việt lớp 2, học sinh tiếp tục được rèn luyện và phát triển toàn diện bốn kỹ năng nghe, nói, đọc, viết. Các yêu cầu được thiết kế theo hướng tăng dần về mức độ, nhằm củng cố nền tảng tiếng Việt và nâng cao khả năng sử dụng ngôn ngữ trong học tập và giao tiếp.
+Sau khi hoàn thành chương trình môn Tiếng Việt lớp 2, học sinh cần đạt được các yêu cầu về kiến thức, kỹ năng và thái độ như sau:
 
-## Kỹ năng đọc
+## 1. Nghe – Nói
+- **Nghe hiểu** nội dung các câu chuyện, đoạn đối thoại, thông tin đơn giản.
+- **Trả lời được câu hỏi** liên quan đến nội dung đã nghe.
+- **Kể lại chuyện** theo tranh, theo gợi ý hoặc trí tưởng tượng.
+- **Phát biểu ý kiến rõ ràng**, biết lắng nghe, phản hồi trong giao tiếp học đường.
 
-- Đọc đúng các văn bản truyện, thơ, văn bản thông tin có độ dài từ 60–110 tiếng.
-- Phát âm rõ ràng, ngắt nghỉ hơi hợp lý theo dấu câu và ngữ điệu.
-- Hiểu nội dung chính, xác định nhân vật, sự kiện và chi tiết tiêu biểu trong văn bản.
-- Trả lời được các câu hỏi đơn giản liên quan đến nội dung bài đọc.
-- Nhận biết được thể loại văn bản cơ bản (truyện, thơ, văn bản thông tin…).
+## 2. Đọc
+- Đọc đúng tiếng, từ, câu, đoạn văn dài; **tốc độ khoảng 70–90 tiếng/phút**.
+- Biết ngắt nghỉ đúng, đọc có ngữ điệu phù hợp với nội dung và thể loại văn bản.
+- **Hiểu nội dung chính** và các chi tiết tiêu biểu trong văn bản.
+- **Trả lời được câu hỏi** về nhân vật, sự kiện, ý nghĩa của bài đọc.
+- Bước đầu biết **liên hệ nội dung với bản thân**, nhận xét đơn giản về nhân vật.
 
-## Kỹ năng viết
+## 3. Viết
+- Viết đúng và đẹp chữ cái, từ, câu, đoạn văn ngắn theo mẫu hoặc gợi ý.
+- **Viết chính tả đoạn 3–5 câu**, đúng quy tắc viết hoa, chính tả, dấu câu.
+- **Viết đoạn văn 5–7 câu** theo chủ đề quen thuộc: kể, tả, bày tỏ cảm xúc.
+- Bài viết trình bày sạch, rõ ràng, đúng dòng kẻ và khoảng cách chữ.
 
-- Viết được đoạn văn ngắn (3–7 câu) theo chủ đề quen thuộc.
-- Viết đúng chính tả, trình bày rõ ràng, sạch đẹp.
-- Biết sử dụng dấu câu phù hợp và từ nối đơn giản trong đoạn văn.
-- Biết sắp xếp các câu theo trình tự hợp lý để diễn đạt ý rõ ràng.
+## 4. Luyện từ và câu
+- Biết **nhận biết – sử dụng từ ngữ theo chủ đề** trong tình huống cụ thể.
+- **Phân biệt và sử dụng được một số từ loại cơ bản**: danh từ, động từ, tính từ.
+- **Đặt được câu kể, câu hỏi, câu cảm đơn giản**.
+- Sử dụng đúng **dấu chấm, dấu hỏi, dấu chấm than, dấu phẩy, dấu hai chấm**.
+- Bước đầu biết **liên kết câu trong đoạn văn** bằng từ ngữ nối hoặc lặp từ.
 
-## Kỹ năng nghe – nói
-
-- Nghe và hiểu nội dung lời nói của người khác trong các tình huống giao tiếp quen thuộc.
-- Trả lời đúng câu hỏi, biết đặt câu hỏi phù hợp với nội dung trao đổi.
-- Kể lại được câu chuyện, sự việc đã học theo trình tự.
-- Biết trình bày cảm xúc, suy nghĩ cá nhân bằng lời nói rõ ràng, mạch lạc.
-
-## Kỹ năng học tập và sử dụng SGK
-
-- Biết sử dụng sách giáo khoa để học đúng nội dung, tìm bài, đọc lời hướng dẫn.
-- Biết giữ gìn sách vở, đồ dùng học tập, hình thành thói quen học tập tích cực.
-- Biết quan sát tranh minh họa, tự học theo gợi ý trong sách và bài tập.
+## 5. Thái độ học tập và sử dụng tiếng Việt
+- Có **thói quen sử dụng tiếng Việt rõ ràng, lịch sự** trong học tập và giao tiếp.
+- **Yêu thích kể chuyện, đọc sách, viết văn**, tham gia tích cực vào hoạt động nhóm.
+- Tự tin trình bày suy nghĩ, cảm xúc bằng lời nói và bài viết.

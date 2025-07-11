@@ -1,16 +1,36 @@
-# VII. SÁCH GIÁO KHOA MÔN TIẾNG VIỆT LỚP 1 VÀ HƯỚNG SỬ DỤNG
+# VI. Sách giáo khoa môn Tiếng Việt lớp 1 và hướng sử dụng
 
-Sách giáo khoa môn Tiếng Việt lớp 1 trong chương trình Giáo dục phổ thông 2018 được thiết kế theo định hướng phát triển năng lực, lấy hoạt động học của học sinh làm trung tâm. Các bộ sách hiện hành như “Chân trời sáng tạo”, “Kết nối tri thức với cuộc sống”, “Cánh diều”, “Vì sự bình đẳng và dân chủ trong giáo dục”, “Hướng đến tương lai”… đều tuân thủ cấu trúc chương trình và mục tiêu giáo dục đã đề ra.
+## 1. Các bộ sách giáo khoa hiện hành
 
-Cấu trúc sách gồm hai tập: Tập một chủ yếu là giai đoạn học vần, tập hai là giai đoạn luyện đọc – viết – nghe – nói. Mỗi bài học được tổ chức theo tiến trình hoạt động rõ ràng, giúp học sinh dễ tiếp cận và rèn luyện kĩ năng ngôn ngữ thông qua tình huống thực tiễn, ngữ liệu gần gũi.
+Giáo viên có thể lựa chọn sử dụng một trong bốn bộ sách giáo khoa được Bộ Giáo dục và Đào tạo phê duyệt, cụ thể như sau:
 
-## 1. Cách sử dụng sách giáo khoa trong dạy học
+- **Cánh Diều** – Nhà xuất bản Đại học Sư phạm TP. Hồ Chí Minh
+- **Kết nối tri thức với cuộc sống** – Nhà xuất bản Giáo dục Việt Nam
+- **Chân Trời Sáng Tạo** – Nhà xuất bản Giáo dục Việt Nam
 
-- Giáo viên sử dụng sách như một công cụ tổ chức các hoạt động học tập cho học sinh, linh hoạt điều chỉnh nội dung và phương pháp dạy phù hợp với trình độ lớp học.
-- Học sinh sử dụng sách để đọc bài, luyện viết, nghe theo chỉ dẫn và làm bài tập. Các em cần được hướng dẫn sử dụng sách một cách chủ động, biết tra cứu mục lục, ghi nhớ tiêu đề bài học và thực hành theo gợi ý.
+Tất cả các bộ sách đều bám sát chương trình GDPT 2018 và tuân thủ các mục tiêu, cấu trúc, phương pháp và yêu cầu cần đạt của môn Tiếng Việt lớp 1.
 
-## 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
+## 2. Hướng sử dụng sách giáo khoa hiệu quả
 
-Ngoài sách giáo khoa, giáo viên có thể sử dụng thêm sách bài tập Tiếng Việt, sách hướng dẫn học, bộ thẻ chữ, bảng cài, phần mềm học chữ, video minh họa bài đọc và bài viết mẫu để tăng tính trực quan, hấp dẫn và hiệu quả dạy học.
+### a) Tiến trình tiết học
+- Tổ chức dạy học theo quy trình:  
+  **Khởi động → Hình thành kiến thức mới → Luyện tập → Vận dụng – mở rộng**
+- Lựa chọn linh hoạt các hoạt động, ngữ liệu và trò chơi ngôn ngữ phù hợp với trình độ học sinh.
 
-Việc phối hợp sách giáo khoa với các công cụ dạy học số và phương pháp tích cực sẽ giúp học sinh lớp 1 tiếp thu tiếng Việt một cách tự nhiên, hứng thú và hiệu quả hơn, từ đó xây dựng nền tảng ngôn ngữ vững chắc cho những năm học tiếp theo.
+### b) Kết hợp học liệu bổ trợ
+- Sử dụng vở bài tập, phiếu học tập, tranh ảnh, bảng chữ cái rời, thẻ từ, tài liệu phụ huynh…
+- Khai thác học liệu số: video kể chuyện, phần mềm học vần, ứng dụng luyện viết chữ đẹp…
+
+### c) Cá nhân hóa hoạt động học
+- Giao nhiệm vụ khác nhau cho học sinh theo mức độ tiếp thu.
+- Khuyến khích học sinh yếu luyện đọc – viết thêm, học sinh khá giỏi mở rộng vốn từ, kể chuyện sáng tạo…
+
+### d) Kết hợp với phụ huynh
+- Hướng dẫn phụ huynh đọc sách cùng con mỗi ngày.
+- Trao đổi định kỳ về tình hình học tiếng Việt của học sinh.
+- Tạo động lực cho học sinh học tập thông qua sản phẩm chữ viết, sưu tầm từ hay, kể chuyện với gia đình.
+
+## 3. Lưu ý trong triển khai chương trình
+- Giáo viên cần khai thác sách linh hoạt, sáng tạo, tránh dạy học rập khuôn, máy móc.
+- Cần chú trọng đến **thực hành ngôn ngữ**, không quá thiên về lý thuyết.
+- Đảm bảo học sinh được **nghe – nói – đọc – viết mỗi ngày**, có tiến bộ rõ rệt theo từng giai đoạn.

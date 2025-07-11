@@ -1,0 +1,21 @@
+# I. Mục tiêu chương trình môn Toán lớp 6
+
+Chương trình môn Toán lớp 6 nhằm hình thành và phát triển cho học sinh những phẩm chất và năng lực cần thiết, đặc biệt là năng lực toán học, tạo nền tảng cho việc học Toán ở các lớp trên cũng như trong đời sống.
+
+## 1. Hình thành và phát triển năng lực toán học
+- Nhận biết, hiểu và sử dụng các khái niệm, quy tắc, thuật ngữ và biểu tượng toán học trong các mạch kiến thức: số học, đại số, hình học, thống kê và xác suất.
+- Biết vận dụng kiến thức và kỹ năng toán học để giải quyết các vấn đề trong học tập và trong thực tiễn.
+- Phát triển tư duy logic, tư duy phản biện, khả năng lập luận và diễn đạt toán học.
+
+## 2. Rèn luyện phẩm chất và kỹ năng học tập
+- Hình thành phẩm chất trung thực, chăm chỉ, trách nhiệm, cẩn thận và kiên trì trong học tập môn Toán.
+- Rèn kỹ năng tự học, làm việc nhóm, hợp tác và trình bày vấn đề rõ ràng.
+- Có thái độ tích cực với việc học Toán, hiểu vai trò của Toán học trong cuộc sống.
+
+## 3. Tăng cường kết nối thực tiễn
+- Tạo cơ hội cho học sinh sử dụng Toán học để giải quyết các tình huống thực tế.
+- Phát triển năng lực vận dụng linh hoạt công cụ toán học và công nghệ trong học tập và cuộc sống.
+
+## 4. Góp phần thực hiện mục tiêu giáo dục phổ thông
+- Góp phần phát triển toàn diện phẩm chất và năng lực học sinh theo định hướng chương trình GDPT 2018.
+- Tạo nền tảng kiến thức và năng lực cần thiết để tiếp tục học tốt các môn khoa học khác.

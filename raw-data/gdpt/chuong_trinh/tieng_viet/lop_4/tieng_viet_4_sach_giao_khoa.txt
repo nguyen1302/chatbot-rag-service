@@ -1,19 +1,40 @@
-# VII. Sách giáo khoa môn Tiếng Việt lớp 4 và hướng sử dụng
+# VI. Sách giáo khoa môn Tiếng Việt lớp 4 và hướng sử dụng
 
-Sách giáo khoa môn Tiếng Việt lớp 4 trong chương trình Giáo dục phổ thông 2018 được biên soạn theo định hướng phát triển năng lực, chú trọng việc rèn luyện kỹ năng sử dụng tiếng Việt trong học tập và giao tiếp. Các bộ sách hiện hành như “Chân trời sáng tạo”, “Kết nối tri thức với cuộc sống”, “Cánh diều”, “Vì sự bình đẳng và dân chủ trong giáo dục”, “Hướng đến tương lai”… đều tuân thủ chương trình và bảo đảm tính tích hợp, phân hoá.
+## 1. Các bộ sách giáo khoa được sử dụng
+Môn Tiếng Việt lớp 4 thuộc chương trình GDPT 2018 hiện có trong 4 bộ sách do Bộ GD&ĐT phê duyệt:
+- **Kết nối tri thức với cuộc sống**
+- **Chân trời sáng tạo**
+- **Cánh Diều**
 
-Sách gồm hai tập: Tập một cho học kỳ I, tập hai cho học kỳ II. Mỗi bài học được thiết kế theo mạch tích hợp 4 kỹ năng: nghe, nói, đọc, viết, gắn với các chủ điểm quen thuộc với học sinh như: con người, thiên nhiên, gia đình, trường học, quê hương đất nước... Ngữ liệu trong sách được chọn lọc đa dạng về thể loại, giàu hình ảnh, phù hợp độ tuổi và khơi gợi hứng thú học tập.
 
-## 1. Cách sử dụng sách giáo khoa trong dạy học
+Mỗi bộ sách đều đảm bảo chuẩn kiến thức, kỹ năng và mục tiêu phát triển năng lực ngôn ngữ theo chương trình, nhưng có đặc điểm riêng về cấu trúc bài học, ngữ liệu, cách tiếp cận.
 
-- Giáo viên sử dụng sách như tài liệu chính để tổ chức hoạt động học tập theo tiến trình rõ ràng, có thể tích hợp linh hoạt các kỹ năng.
-- Học sinh sử dụng sách để luyện đọc, luyện viết, làm bài tập, chuẩn bị bài ở nhà và tham gia các hoạt động giao tiếp.
-- Học sinh được hướng dẫn sử dụng sách chủ động: xác định mục tiêu bài học, tìm kiếm thông tin, tự luyện đọc – viết theo gợi ý.
+## 2. Cấu trúc sách giáo khoa Tiếng Việt lớp 4
+- Gồm 2 tập: **Tập 1** (học kỳ I) và **Tập 2** (học kỳ II).
+- Chia theo **chủ điểm học tập** hoặc **mạch nội dung**, mỗi chủ điểm kéo dài 2–3 tuần.
+- Trong mỗi chủ điểm có các bài:
+  - Bài đọc hiểu chính (truyện, thơ, văn miêu tả, văn bản thông tin,...)
+  - Bài luyện tập kỹ năng: nghe – nói, viết, luyện từ và câu, chính tả
+  - Bài mở rộng và vận dụng (viết sáng tạo, thảo luận, dự án,...)
 
-## 2. Vai trò hỗ trợ từ tài liệu bổ trợ và thiết bị dạy học
+## 3. Hướng sử dụng hiệu quả
 
-- Giáo viên có thể sử dụng thêm sách bài tập, vở luyện viết, tài liệu hướng dẫn học, phiếu học tập, bảng từ, tranh minh hoạ, sơ đồ tư duy.
-- Ứng dụng công nghệ: phần mềm luyện đọc, video kể chuyện, công cụ trình chiếu, trò chơi ngôn ngữ, học liệu số từ kho học liệu điện tử.
-- Tăng cường kết hợp phương pháp dạy học tích cực: học qua dự án nhỏ, học theo trạm, học qua trải nghiệm thực tế, làm sổ tay Tiếng Việt cá nhân.
+### a. Đối với giáo viên
+- Linh hoạt lựa chọn bài dạy, hoạt động phù hợp với trình độ lớp học.
+- Sử dụng kết hợp học liệu số, tranh ảnh, sơ đồ tư duy để minh họa.
+- Tổ chức đa dạng hoạt động cá nhân – nhóm – cả lớp nhằm phát triển kỹ năng thực hành ngôn ngữ.
 
-Việc sử dụng sách giáo khoa kết hợp linh hoạt với học liệu bổ trợ và công nghệ sẽ giúp học sinh lớp 4 phát triển toàn diện năng lực ngôn ngữ, yêu thích tiếng Việt và sử dụng tiếng Việt hiệu quả trong học tập và đời sống.
+### b. Đối với học sinh
+- Chủ động đọc trước bài, luyện đọc – viết hằng ngày.
+- Tham gia đầy đủ các hoạt động nghe – nói – thảo luận – kể chuyện.
+- Thực hiện bài tập chính tả, từ vựng, ngữ pháp và viết đoạn văn theo hướng dẫn.
+
+### c. Đối với phụ huynh
+- Hỗ trợ con luyện đọc, kể chuyện, ôn bài ở nhà.
+- Khuyến khích con viết nhật ký, đọc sách, kể lại nội dung đã học.
+- Theo dõi và phối hợp cùng giáo viên qua vở bài tập, nhận xét sản phẩm học tập.
+
+## 4. Tài liệu hỗ trợ bổ sung
+- Vở bài tập Tiếng Việt, sách tham khảo, phiếu học tập kèm theo từng bộ SGK.
+- Học liệu điện tử từ NXB: video, bài tập trực tuyến, phần mềm luyện đọc – viết.
+- Thư viện lớp học, website học tập, sách đọc mở rộng theo chủ đề.

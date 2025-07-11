@@ -1,0 +1,32 @@
+# II. Cấu trúc nội dung môn Toán lớp 10
+
+Nội dung chương trình môn Toán lớp 10 được tổ chức theo 5 chủ đề lớn (chuyên đề), bao gồm các mạch kiến thức cốt lõi và liên kết chặt chẽ với thực tiễn:
+
+## 1. Đại số
+- Tập hợp, mệnh đề, biến cố, logic toán học cơ bản.
+- Hàm số và đồ thị (bậc nhất, bậc hai…).
+- Phương trình, bất phương trình và hệ phương trình.
+- Các phép biến đổi đại số.
+
+## 2. Hình học
+- Véc-tơ và ứng dụng.
+- Hệ trục tọa độ trong mặt phẳng.
+- Phép tịnh tiến, quay, đối xứng, dời hình.
+- Quan hệ hình học trong không gian.
+
+## 3. Thống kê và Xác suất
+- Thu thập và xử lý số liệu.
+- Tính các đại lượng đặc trưng: trung bình, trung vị, mốt, phương sai.
+- Biến cố và xác suất cơ bản.
+- Áp dụng xác suất trong dự đoán và ra quyết định.
+
+## 4. Tư duy logic và Toán rời rạc
+- Logic mệnh đề, lập luận suy diễn và quy nạp.
+- Tập hợp, ánh xạ, quan hệ.
+- Sơ đồ Ven, nguyên lý cộng – nhân.
+- Hoán vị, chỉnh hợp, tổ hợp.
+
+## 5. Ứng dụng Toán học vào thực tiễn
+- Mô hình hóa các tình huống thực tế bằng công cụ toán học.
+- Giải quyết các bài toán thực tế trong các lĩnh vực: tài chính cá nhân, kỹ thuật, dữ liệu, v.v.
+- Giới thiệu các công cụ hỗ trợ học Toán: phần mềm vẽ đồ thị, bảng tính, máy tính cầm tay, Python cơ bản.

@@ -1,0 +1,34 @@
+# II. Cấu trúc nội dung môn Ngữ văn lớp 6
+
+Chương trình Ngữ văn lớp 6 được thiết kế theo định hướng phát triển năng lực ngôn ngữ và văn học cho học sinh, với ba mạch nội dung lớn:
+
+## 1. Đọc hiểu văn bản
+- Bao gồm các thể loại: **văn học dân gian, văn học trung đại, văn học hiện đại**, và **văn bản thông tin**.
+- Giúp học sinh rèn kỹ năng:
+  - Đọc đúng – hiểu đúng – biết đặt câu hỏi – biết phản hồi.
+  - Nhận diện đặc điểm thể loại, nội dung, nghệ thuật và giá trị nhân văn.
+  - Cảm thụ văn học, kết nối với trải nghiệm cá nhân và bối cảnh xã hội.
+
+## 2. Viết
+- Học sinh được rèn luyện viết các kiểu văn bản cơ bản như:
+  - **Tự sự, miêu tả, biểu cảm, thuyết minh, nghị luận đơn giản**.
+- Quy trình viết được chú trọng:
+  - Tìm ý → Dàn ý → Viết bản thô → Chỉnh sửa → Hoàn chỉnh.
+- Khuyến khích học sinh viết sáng tạo, trình bày ý tưởng mạch lạc, có cảm xúc và suy nghĩ cá nhân.
+
+## 3. Nói và nghe
+- Rèn luyện kỹ năng **nghe tích cực, hiểu nội dung – cảm xúc của người nói**.
+- Thực hành kỹ năng **nói trước lớp, thuyết trình, tranh luận, kể chuyện**, trình bày ý kiến cá nhân.
+- Tăng cường hợp tác trong giao tiếp, lắng nghe phản hồi và điều chỉnh cách nói phù hợp với ngữ cảnh.
+
+## 4. Tiếng Việt
+- Cung cấp kiến thức nền tảng về:
+  - **Từ loại, câu, dấu câu, biện pháp tu từ, phong cách ngôn ngữ**.
+- Hướng dẫn học sinh sử dụng tiếng Việt chính xác, hiệu quả trong nói và viết.
+- Gắn lý thuyết tiếng Việt với thực hành đọc – viết – nói – nghe.
+
+## 5. Hoạt động mở rộng và liên hệ
+- Tổ chức hoạt động:
+  - **Viết nhật ký, viết thư, làm dự án, thuyết trình nhóm, đóng vai nhân vật**.
+- Liên hệ văn bản với thực tế cuộc sống, đạo đức, văn hóa địa phương.
+- Khuyến khích học sinh bày tỏ suy nghĩ cá nhân và vận dụng kiến thức văn học vào đời sống.

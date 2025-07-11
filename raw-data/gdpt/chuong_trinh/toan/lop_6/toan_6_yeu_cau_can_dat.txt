@@ -1,0 +1,36 @@
+# III. Yêu cầu cần đạt môn Toán lớp 6
+
+Học sinh lớp 6 cần đạt được những yêu cầu cụ thể về kiến thức, kỹ năng và năng lực toán học ở từng mạch nội dung như sau:
+
+## 1. Số học
+- Nhận biết và biểu diễn các tập hợp số: số tự nhiên, số nguyên, phân số, số thập phân.
+- Thực hiện được các phép tính cộng, trừ, nhân, chia và hiểu tính chất của chúng.
+- Vận dụng các quy tắc chia hết, ước – bội, ước chung lớn nhất, bội chung nhỏ nhất để giải quyết bài toán.
+- Tính toán hợp lý, ước lượng kết quả phù hợp với thực tế.
+
+## 2. Đại số
+- Hiểu và vận dụng được các biểu thức số, biểu thức chứa biến, công thức đơn giản.
+- Tính giá trị biểu thức, thay số vào biểu thức, rút gọn biểu thức đơn giản.
+- Giải được phương trình bậc nhất một ẩn với các bước rõ ràng.
+- Vận dụng kiến thức về biểu thức và phương trình để giải bài toán có lời văn.
+
+## 3. Hình học và đo lường
+- Nhận biết các yếu tố hình học cơ bản: điểm, đoạn thẳng, đường thẳng, góc, đường tròn.
+- Sử dụng dụng cụ hình học để vẽ và đo chính xác.
+- Tính được chu vi, diện tích các hình đơn giản: hình vuông, hình chữ nhật, hình tam giác.
+- Phân biệt các vị trí tương đối trong hình học: song song, vuông góc, đối xứng trục.
+
+## 4. Thống kê
+- Thu thập, phân loại và biểu diễn dữ liệu bằng bảng thống kê, biểu đồ cột.
+- Tính được số trung bình cộng.
+- Đưa ra nhận xét, so sánh, rút ra kết luận từ các bảng số liệu hoặc biểu đồ.
+
+## 5. Xác suất
+- Nhận biết các hiện tượng ngẫu nhiên trong thực tế.
+- Mô tả được không gian mẫu gồm các kết quả có thể xảy ra.
+- Biết cách đánh giá sơ bộ khả năng xảy ra của một biến cố đơn giản (bằng từ ngữ: chắc chắn, có thể, không thể).
+
+## 6. Năng lực chung và phẩm chất
+- Phát triển năng lực giao tiếp toán học: trình bày lời giải rõ ràng, có lập luận.
+- Biết hợp tác, chia sẻ trong giải toán nhóm, biết phản biện và tiếp thu ý kiến.
+- Có tính trung thực, cẩn thận, kiên trì trong học tập môn Toán.

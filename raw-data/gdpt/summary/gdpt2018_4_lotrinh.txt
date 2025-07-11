@@ -1,28 +1,34 @@
-# IV. LỘ TRÌNH TRIỂN KHAI CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG 2018
+# IV. LỘ TRÌNH TRIỂN KHAI CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG (GDPT) 2018 *(lộ trình triển khai GDPT, thời gian áp dụng chương trình mới)*
 
-Chương trình Giáo dục phổ thông 2018 được áp dụng theo hình thức cuốn chiếu, bắt đầu từ năm học 2020–2021. Việc triển khai theo lộ trình được Bộ Giáo dục và Đào tạo tính toán kỹ lưỡng nhằm đảm bảo tính khả thi và hiệu quả trong thực tiễn. Mỗi năm học, chương trình mới được áp dụng cho một số khối lớp nhất định, bắt đầu từ lớp 1 và tiến dần lên các lớp cao hơn.
+Chương trình Giáo dục Phổ thông (GDPT) 2018 được triển khai theo hình thức cuốn chiếu, bắt đầu từ năm học 2020–2021. Việc triển khai theo từng năm được Bộ Giáo dục và Đào tạo tính toán kỹ lưỡng nhằm đảm bảo tính khả thi, phù hợp với thực tiễn tại địa phương và năng lực triển khai của nhà trường *(triển khai từng bước, áp dụng theo lớp)*.
 
-## Lộ trình cụ thể
+## Lộ trình cụ thể *(thời điểm triển khai theo lớp)*
 
-| Năm học        | Áp dụng cho lớp             |
-|----------------|-----------------------------|
-| 2020–2021      | Lớp 1                       |
-| 2021–2022      | Lớp 2, Lớp 6                |
-| 2022–2023      | Lớp 3, Lớp 7, Lớp 10        |
-| 2023–2024      | Lớp 4, Lớp 8, Lớp 11        |
-| 2024–2025      | Lớp 5, Lớp 9, Lớp 12        |
+- **Năm học 2020–2021**: Áp dụng cho lớp 1  
+- **Năm học 2021–2022**: Áp dụng cho lớp 2 và lớp 6  
+- **Năm học 2022–2023**: Áp dụng cho lớp 3, lớp 7 và lớp 10  
+- **Năm học 2023–2024**: Áp dụng cho lớp 4, lớp 8 và lớp 11  
+- **Năm học 2024–2025**: Áp dụng cho lớp 5, lớp 9 và lớp 12
 
-## Mục tiêu triển khai theo giai đoạn
+## Mục tiêu triển khai theo giai đoạn *(mục tiêu lộ trình, giai đoạn chuyển tiếp)*
 
-Lộ trình triển khai theo từng khối lớp nhằm giúp các địa phương, cơ sở giáo dục và giáo viên có đủ thời gian để chuẩn bị về mọi mặt, bao gồm:
+Việc triển khai theo từng khối lớp nhằm:
+- Đảm bảo **giáo viên và cán bộ quản lý** được tập huấn đầy đủ *(nâng cao năng lực triển khai)*
+- Kịp thời **biên soạn, phát hành, lựa chọn sách giáo khoa** phù hợp với đặc thù địa phương *(SGK mới, linh hoạt địa phương)*
+- Đầu tư, nâng cấp **cơ sở vật chất, thiết bị dạy học** phù hợp với yêu cầu chương trình mới *(hạ tầng trường lớp)*
+- Điều chỉnh **kế hoạch giảng dạy theo định hướng năng lực** *(chương trình mới, phân phối thời khóa biểu)*
 
-- Tập huấn đội ngũ giáo viên và cán bộ quản lý giáo dục.
-- Biên soạn, phát hành và lựa chọn sách giáo khoa phù hợp với từng địa phương.
-- Đầu tư, nâng cấp cơ sở vật chất, trang thiết bị dạy học.
-- Điều chỉnh chương trình đào tạo, phân phối chương trình theo hướng tiếp cận năng lực.
+Việc thực hiện từng bước giúp hệ thống giáo dục:
+- Tránh **quá tải**, hạn chế thay đổi đồng loạt
+- Cho phép **rút kinh nghiệm** sau mỗi năm triển khai
+- Tối ưu hóa **tính thích ứng và sự đồng thuận** của giáo viên, phụ huynh và nhà trường
 
-Việc triển khai từng bước giúp hệ thống giáo dục không bị quá tải, tránh áp lực đồng loạt thay đổi, đồng thời cho phép rút kinh nghiệm sau từng năm để tiếp tục hoàn thiện trong quá trình mở rộng sang các lớp sau.
+## Vai trò của địa phương *(trách nhiệm địa phương, hỗ trợ triển khai)*
 
-## Vai trò của địa phương
+Các địa phương có vai trò quan trọng trong triển khai chương trình GDPT 2018. Cụ thể:
+- **Xây dựng kế hoạch triển khai cụ thể theo từng năm học**
+- **Xác định rõ trách nhiệm của các bên liên quan** *(Sở GDĐT, Phòng GDĐT, nhà trường, giáo viên)*
+- **Phối hợp chặt chẽ giữa nhà trường – phụ huynh – cộng đồng**
+- **Tạo điều kiện học tập thuận lợi nhất cho học sinh trong môi trường đổi mới giáo dục**
 
-Bên cạnh đó, các địa phương cần chủ động xây dựng kế hoạch thực hiện chương trình, xác định rõ trách nhiệm của các bên liên quan, phối hợp chặt chẽ giữa nhà trường – phụ huynh – cộng đồng nhằm tạo điều kiện thuận lợi nhất cho học sinh được học tập trong môi trường đổi mới.
+Việc phối hợp hiệu quả giữa Trung ương và địa phương là yếu tố then chốt để đảm bảo chất lượng triển khai chương trình GDPT 2018.

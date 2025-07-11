@@ -1,29 +1,31 @@
-# VI. Hình thức đánh giá môn Tiếng Việt lớp 2
+# V. Đánh giá môn Tiếng Việt lớp 2
 
-Hình thức đánh giá môn Tiếng Việt lớp 2 được thực hiện thường xuyên và định kỳ, theo định hướng phát triển năng lực và phẩm chất học sinh. Hoạt động đánh giá nhằm ghi nhận sự tiến bộ, điều chỉnh quá trình dạy – học, và giúp học sinh phát triển toàn diện các kỹ năng nghe, nói, đọc, viết.
+Đánh giá trong môn Tiếng Việt lớp 2 nhằm ghi nhận sự tiến bộ của học sinh trong quá trình phát triển năng lực ngôn ngữ, từ đó điều chỉnh hoạt động dạy học phù hợp và khích lệ tinh thần học tập.
 
-## Đánh giá thường xuyên
+## 1. Nguyên tắc đánh giá
+- Đảm bảo đánh giá **toàn diện 4 kỹ năng**: nghe, nói, đọc, viết.
+- Kết hợp **đánh giá thường xuyên và đánh giá định kỳ**, đánh giá của giáo viên, tự đánh giá và đánh giá lẫn nhau.
+- Đánh giá **vì sự tiến bộ của học sinh**, phù hợp với từng đối tượng, không gây áp lực.
 
-- Quan sát, nhận xét trong các hoạt động học tập hằng ngày.
-- Đánh giá qua sản phẩm học tập: bài viết, đoạn kể chuyện, thảo luận nhóm.
-- Giao nhiệm vụ học tập và kiểm tra mức độ hoàn thành.
-- Tự đánh giá và đánh giá lẫn nhau trong các hoạt động nhóm.
+## 2. Đánh giá thường xuyên
+- Quan sát thái độ học tập, khả năng tham gia hoạt động nghe – nói – đọc – viết.
+- Nhận xét bài làm, bài viết, phần trình bày miệng, sự tham gia thảo luận.
+- Ghi nhận sự tiến bộ, hỗ trợ học sinh yếu, động viên học sinh khá giỏi mở rộng khả năng sử dụng ngôn ngữ.
 
-## Đánh giá định kỳ
+## 3. Đánh giá định kỳ
+- Thực hiện vào giữa kỳ và cuối kỳ học.
+- Nội dung đánh giá gồm:
+  - **Đọc thành tiếng và đọc hiểu**: kiểm tra tốc độ đọc, độ chính xác, khả năng hiểu văn bản.
+  - **Viết chính tả và viết đoạn**: đánh giá kỹ năng viết đúng – đủ – rõ ràng.
+  - **Nghe và nói**: thông qua kể chuyện, trả lời câu hỏi, trình bày cảm nghĩ.
+- Hình thức kiểm tra có thể là: đọc bài, viết chính tả, làm bài trắc nghiệm, viết đoạn, trình bày miệng.
 
-- Kiểm tra đọc thành tiếng, đọc hiểu vào giữa và cuối mỗi học kỳ.
-- Kiểm tra viết chính tả, viết đoạn văn theo yêu cầu.
-- Đánh giá khả năng nghe – nói thông qua kể chuyện, trả lời câu hỏi, giao tiếp tình huống.
+## 4. Hình thức và công cụ đánh giá
+- Nhận xét định tính: sử dụng lời nhận xét trực tiếp, bảng kiểm, thang đo năng lực.
+- Sản phẩm học tập: bài viết, bài kể chuyện, vở luyện viết, đoạn văn, tranh minh họa.
+- Hồ sơ học tập: theo dõi quá trình học của học sinh qua các sản phẩm tiêu biểu.
+- Tổ chức trò chơi, dự án nhỏ, thi đọc – kể – viết để kiểm tra kỹ năng tích hợp.
 
-## Công cụ đánh giá
-
-- Bảng kiểm, thang đo, rubrics đánh giá theo tiêu chí rõ ràng.
-- Phiếu nhận xét năng lực theo từng kỹ năng cụ thể.
-- Hồ sơ học tập cá nhân: lưu lại sản phẩm tiêu biểu và quá trình tiến bộ.
-
-## Tiêu chí đánh giá
-
-- Hoàn thành yêu cầu nếu học sinh đạt được khoảng 90–100% nội dung kỹ năng.
-- Có tiến bộ rõ rệt nếu học sinh cải thiện kỹ năng qua thời gian học tập.
-- Phát hiện sớm khó khăn để có biện pháp hỗ trợ phù hợp, không gây áp lực.
-
+## 5. Vai trò của giáo viên và học sinh trong đánh giá
+- **Giáo viên**: thiết kế hoạt động đánh giá phù hợp, hỗ trợ học sinh yếu, khích lệ sự tiến bộ của từng em.
+- **Học sinh**: được hướng dẫn tự nhận xét bài làm của mình, đánh giá bạn, biết lắng nghe phản hồi và điều chỉnh hành vi học tập.

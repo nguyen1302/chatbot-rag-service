@@ -61,7 +61,7 @@ def detect_question_type(user_input):
     # === SẢN PHẨM & HỆ THỐNG CHÍNH === (Trọng số cao - 4-5)
     "lms360": 5, "qlth": 5, "sms360": 5, "hệ sinh thái": 4, 
     "kiểm định chất lượng": 4, "thi đua khen thưởng": 4, "bách khoa": 4,
-    "hệ thống kiểm định": 4, "chuyển đổi số": 4, "giải pháp số hóa": 4,
+    "hệ thống kiểm định": 4, "chuyển đổi số": 4, "giải pháp số hóa": 4,"bktech":4,
     
     # === TÍNH NĂNG SẢN PHẨM === (Trọng số trung bình - 3)
     "học liệu số": 3, "chữ ký số": 3, "kho học liệu": 3, "ngân hàng học liệu": 3,
@@ -99,7 +99,7 @@ def detect_question_type(user_input):
     "ngữ âm tiếng việt": 3, "ngữ pháp tiếng việt": 3, "bố cục bài văn": 3,
     "viết bài văn": 3, "viết đoạn văn": 3, "phân tích văn bản": 3,
     "tư duy phản biện": 3, "cảm thụ văn học": 3, "nghị luận đơn giản": 3,
-    "thuyết trình": 3, "giao tiếp nhóm": 3, "thảo luận nhóm": 3,
+    "thuyết trình": 3, "giao tiếp nhóm": 3, "thảo luận nhóm": 3, "học tốt":3,
     
     # === ĐÁNH GIÁ & KIỂM TRA === (Trọng số thấp - 2)
     "đánh giá thường xuyên": 2, "đánh giá định kỳ": 2, "đánh giá bằng nhận xét": 2,
@@ -134,7 +134,7 @@ def detect_question_type(user_input):
     "bài học lớp 4": 1, "bài học lớp 5": 1, "giảng dạy tiếng việt": 1,
     "phát triển năng lực ngôn ngữ": 1, "rèn luyện tiếng việt": 1, "tự học tiếng việt": 1,
     "kỹ năng giao tiếp": 1, "thuyết trình ngắn": 1, "giao tiếp học đường": 1,
-    "hoạt động nhóm": 1, "vốn sống học sinh": 1, "giới thiệu môn học": 1,
+    "hoạt động nhóm": 1, "vốn sống học sinh": 1, "giới thiệu môn học": 1, "toán":2,
     "luyện tập tiếng việt": 1, "trình bày cảm nghĩ": 1, "trình bày quan điểm": 1,
     "viết báo cáo": 1, "viết thư": 1, "trình bày logic": 1, "ar": 1, "vr": 1,
     "blockchain": 1, "giải quyết vấn đề": 1, "miêu tả": 1, "giới thiệu": 1,
@@ -177,7 +177,7 @@ def detect_question_type(user_input):
     "thời tiết": 2, "quốc gia": 2, "tổng thống": 2, "thế giới": 2,
     "định nghĩa": 2, "giải thích": 2, "kiến thức chung": 2, "giải toán": 2,
     "cách giải": 2, "trực quan": 2, "đồ thị": 2, "chu vi": 2, "diện tích": 2,
-    "năng lượng": 2, "động năng": 2, "thế năng": 2, "thống kê": 2,
+    "năng lượng": 2, "động năng": 2, "thế năng": 2, "thống kê": 2,"phần mềm nào":2,
     
     # === THUẬT NGỮ TOÁN HỌC === (Trọng số thấp - 1)
     "pt": 1, "bậc": 1, "căn": 1, "tính": 1, "ứng dụng": 1,
@@ -185,15 +185,22 @@ def detect_question_type(user_input):
     }
 
 
-    # Tính điểm trọng số
-    internal_score = sum(weight for keyword, weight in internal_keywords.items() 
-                         if keyword in user_input_lower)
-    external_score = sum(weight for keyword, weight in external_keywords.items() 
-                         if keyword in user_input_lower)
+    # Hệ số phụ thuộc
+    w_internal = 0.6
+    w_external = 0.4
 
-    print(f"🔍 Phân tích: Internal_score={internal_score}, External_score={external_score}")
-    
-    # Logic quyết định ý định
+    # Tính tổng điểm dựa trên từ khóa và trọng số
+    internal_raw_score = sum(weight for keyword, weight in internal_keywords.items() if keyword in user_input_lower)
+    external_raw_score = sum(weight for keyword, weight in external_keywords.items() if keyword in user_input_lower)
+
+    # Áp dụng hệ số phụ thuộc
+    internal_score = w_internal * internal_raw_score
+    external_score = w_external * external_raw_score
+
+    print(f"🔍 Phân tích điểm thô: Internal={internal_raw_score}, External={external_raw_score}")
+    print(f"⚖️ Sau khi áp dụng hệ số: Internal_score={internal_score:.2f}, External_score={external_score:.2f}")
+
+    # Logic phân loại dựa trên điểm đã điều chỉnh
     if internal_score >= 2 and external_score >= 2:
         return "hybrid"
     elif internal_score >= 1 and external_score >= 3:
@@ -210,7 +217,7 @@ def check_question_followup(question):
     follow_up_indicators = [
         # Đại từ chỉ định
         "nó", "này", "đó", "chúng", "cái này", "cái đó", "việc này", "việc đó",
-        "trường hợp này", "trường hợp đó", "hệ thống này", "hệ thống đó", "họ", "sản phẩm này", "ứng dụng này",
+        "trường hợp này", "trường hợp đó", "hệ thống này", "hệ thống đó", "họ ", "sản phẩm này", "ứng dụng này",
 
         # Hỏi về tính năng/đặc điểm/chi tiết
         "làm gì", "dùng để làm gì", "có tác dụng gì", "dùng như thế nào", "có chức năng gì",

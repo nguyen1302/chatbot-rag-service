@@ -1,0 +1,25 @@
+# VI. Sách giáo khoa môn Toán lớp 10 và hướng sử dụng
+
+## 1. Các bộ sách giáo khoa hiện hành
+Hiện nay, chương trình Toán lớp 10 được triển khai thông qua một số bộ sách được Bộ GD&ĐT phê duyệt, phổ biến nhất gồm:
+
+### a. Bộ sách "Kết nối tri thức với cuộc sống"
+- Cấu trúc theo các chuyên đề rõ ràng, bám sát chương trình GDPT 2018.
+- Tích hợp thực tiễn và ứng dụng toán học.
+- Có bài tập phân hóa theo mức độ từ cơ bản đến nâng cao.
+
+### b. Bộ sách "Chân trời sáng tạo"
+- Thiết kế sinh động, gần gũi với học sinh.
+- Có lồng ghép hoạt động khám phá, thực hành, dự án.
+- Chú trọng phát triển năng lực qua các tình huống thực tế.
+
+### c. Bộ sách "Cánh diều"
+- Nhấn mạnh kỹ năng thực hành và giải quyết vấn đề.
+- Có phần “Em có biết” mở rộng kiến thức toán học thú vị.
+- Phân bố bài học hợp lý, phù hợp nhiều đối tượng học sinh.
+
+## 2. Hướng sử dụng sách hiệu quả
+- Giáo viên nên khai thác **hoạt động khởi động – khám phá – luyện tập – vận dụng** có trong mỗi bài học để phát triển năng lực cho học sinh.
+- Tận dụng phần **mở rộng, dự án, câu hỏi thực tiễn** để rèn khả năng mô hình hóa, lập luận, và giao tiếp toán học.
+- Kết hợp SGK với **sách bài tập, phần mềm trực tuyến, công cụ công nghệ** để tăng tính trực quan và hiệu quả học tập.
+- Điều chỉnh nội dung, tiến độ phù hợp với trình độ học sinh, đặc thù vùng miền, và điều kiện cơ sở vật chất của nhà trường.

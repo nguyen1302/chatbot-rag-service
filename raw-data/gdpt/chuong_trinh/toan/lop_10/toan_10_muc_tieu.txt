@@ -1,0 +1,19 @@
+# I. Mục tiêu chương trình môn Toán lớp 10
+
+Chương trình môn Toán lớp 10 nhằm giúp học sinh:
+
+## 1. Phát triển năng lực toán học
+- Hình thành và phát triển các năng lực toán học như: tư duy và lập luận, giải quyết vấn đề, mô hình hóa toán học, sử dụng công cụ toán học, giao tiếp toán học.
+- Sử dụng các kiến thức, kỹ năng toán học để giải quyết các vấn đề trong học tập và đời sống thực tiễn.
+
+## 2. Hình thành phẩm chất chủ yếu
+- Nuôi dưỡng các phẩm chất như: trung thực, kiên trì, cẩn thận, trách nhiệm trong học tập và giải quyết vấn đề.
+- Xây dựng thói quen làm việc có kế hoạch, suy nghĩ logic và phản biện.
+
+## 3. Chuẩn bị cho định hướng nghề nghiệp
+- Cung cấp kiến thức và kỹ năng toán học nền tảng cho các môn học và hoạt động nghề nghiệp sau này.
+- Tạo tiền đề cho việc học các môn khoa học tự nhiên, công nghệ, kỹ thuật hoặc các lĩnh vực có sử dụng tư duy toán học.
+
+## 4. Tăng cường gắn kết với thực tiễn
+- Liên hệ, vận dụng kiến thức toán học vào các lĩnh vực khác như kinh tế, kỹ thuật, đời sống, khoa học dữ liệu…
+- Phát triển tư duy trừu tượng và khả năng giải thích các hiện tượng thực tiễn bằng ngôn ngữ toán học.

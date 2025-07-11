@@ -1,0 +1,35 @@
+# II. Cấu trúc nội dung môn Toán lớp 6
+
+Nội dung chương trình Toán lớp 6 được tổ chức theo 5 mạch kiến thức chính, đảm bảo sự cân đối giữa lý thuyết và ứng dụng thực tế:
+
+## 1. Số học
+- Tập hợp số tự nhiên, số nguyên, phân số, số thập phân, tỉ số – phần trăm.
+- Thực hiện các phép tính và các tính chất liên quan (cộng, trừ, nhân, chia).
+- Ước – bội, bội chung nhỏ nhất, ước chung lớn nhất.
+- Tính toán hợp lý và ước lượng kết quả.
+
+## 2. Đại số
+- Biểu thức số, biểu thức chữ và công thức.
+- Tính giá trị biểu thức, rút gọn, thay thế.
+- Tính chất của phép cộng và phép nhân trong đại số.
+- Giải và biện luận phương trình đơn giản một ẩn.
+
+## 3. Hình học và đo lường
+- Các hình hình học phẳng: điểm, đoạn thẳng, đường thẳng, góc.
+- Vẽ hình bằng thước, compa; đo và tính độ dài, diện tích, góc.
+- Tính chu vi, diện tích một số hình đơn giản: hình vuông, chữ nhật, tam giác.
+- Nhận biết đối xứng, song song, vuông góc trong hình học cơ bản.
+
+## 4. Thống kê
+- Thu thập, phân loại và trình bày dữ liệu bằng bảng và biểu đồ.
+- Tính số trung bình cộng.
+- Nhận xét và phân tích dữ liệu đơn giản.
+
+## 5. Xác suất
+- Nhận biết các hiện tượng ngẫu nhiên.
+- Mô tả các kết quả có thể xảy ra.
+- Biết xác định khả năng xảy ra của một biến cố đơn giản (dưới dạng định tính và định lượng sơ bộ).
+
+## 6. Giải quyết vấn đề thực tiễn
+- Lồng ghép vào các chủ đề trên.
+- Vận dụng kiến thức đã học để giải bài toán thực tế: tính toán trong mua bán, đo đạc, chia sẻ, sắp xếp, ước lượng,...

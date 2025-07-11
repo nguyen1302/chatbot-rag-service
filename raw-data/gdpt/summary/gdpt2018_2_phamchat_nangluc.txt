@@ -1,29 +1,34 @@
-# II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI
+# II. PHẨM CHẤT VÀ NĂNG LỰC CỐT LÕI *(phẩm chất năng lực học sinh)*
 
-## 1. Các phẩm chất chủ yếu
+## 1. Các phẩm chất chủ yếu *(đạo đức học sinh, phát triển toàn diện)*
 
-Chương trình xác định **5 phẩm chất chủ yếu** cần được hình thành và phát triển ở học sinh trong suốt quá trình học tập, gồm:
+Chương trình Giáo dục Phổ thông (GDPT) 2018 xác định **5 phẩm chất chủ yếu** cần được hình thành và phát triển ở học sinh trong suốt quá trình học tập, gồm:
 
-- **Yêu nước**: Có nhận thức, tình cảm và hành vi đúng đắn với đất nước, tôn trọng truyền thống dân tộc, sẵn sàng đóng góp cho cộng đồng và xã hội.
-- **Nhân ái**: Biết quan tâm, chia sẻ, cảm thông, giúp đỡ người khác, tôn trọng sự khác biệt, sống có trách nhiệm với bản thân và cộng đồng.
-- **Chăm chỉ**: Có ý thức, thái độ tích cực, kiên trì vượt khó trong học tập và lao động, có tinh thần cầu tiến.
-- **Trung thực**: Sống ngay thẳng, thật thà, dám nói lên sự thật, tôn trọng sự thật, không gian dối trong học tập và cuộc sống.
-- **Trách nhiệm**: Có ý thức thực hiện nghĩa vụ của bản thân, biết tự nhận lỗi và sửa lỗi, hoàn thành nhiệm vụ được giao.
+- **Yêu nước** *(tình yêu Tổ quốc, truyền thống dân tộc)*: Có nhận thức, tình cảm và hành vi đúng đắn với đất nước; tôn trọng truyền thống dân tộc; sẵn sàng đóng góp cho cộng đồng và xã hội.
 
-## 2. Các năng lực cốt lõi
+- **Nhân ái** *(lòng nhân ái, sự chia sẻ)*: Biết quan tâm, cảm thông, giúp đỡ người khác; tôn trọng sự khác biệt; sống có trách nhiệm với bản thân và cộng đồng.
 
-Năng lực của học sinh được chia thành:
-- **Năng lực chung**, gồm:
-  - Năng lực tự chủ và tự học
-  - Năng lực giao tiếp và hợp tác
-  - Năng lực giải quyết vấn đề và sáng tạo
+- **Chăm chỉ** *(kiên trì, tinh thần cầu tiến)*: Có ý thức, thái độ tích cực trong học tập và lao động; biết nỗ lực vượt khó; luôn cố gắng để tiến bộ.
 
-- **Năng lực đặc thù**, gồm:
-  - Năng lực ngôn ngữ (đọc, viết, nói, nghe)
-  - Năng lực toán học
-  - Năng lực tìm hiểu tự nhiên và xã hội
-  - Năng lực công nghệ và tin học
-  - Năng lực thẩm mỹ
-  - Năng lực thể chất
+- **Trung thực** *(thật thà, tôn trọng sự thật)*: Sống ngay thẳng, không gian dối; dám nói và bảo vệ sự thật trong học tập và cuộc sống.
 
-Các năng lực này được phát triển thông qua các **môn học, hoạt động giáo dục và trải nghiệm** trong suốt quá trình học từ lớp 1 đến lớp 12.
+- **Trách nhiệm** *(ý thức nghĩa vụ, tinh thần tự giác)*: Biết thực hiện nhiệm vụ của bản thân; có tinh thần tự nhận lỗi và sửa lỗi; hoàn thành công việc được giao.
+
+## 2. Các năng lực cốt lõi *(năng lực học sinh, năng lực phát triển cá nhân)*
+
+Năng lực của học sinh trong chương trình GDPT 2018 được chia thành:
+
+### **Năng lực chung** *(kỹ năng thiết yếu)*:
+- **Tự chủ và tự học** *(tự học, tự lập, tự quản lý bản thân)*
+- **Giao tiếp và hợp tác** *(kỹ năng giao tiếp, làm việc nhóm)*
+- **Giải quyết vấn đề và sáng tạo** *(tư duy phản biện, sáng tạo)*
+
+### **Năng lực đặc thù** *(năng lực theo môn học)*:
+- **Ngôn ngữ** *(đọc, viết, nói, nghe; tiếng Việt, ngoại ngữ)*
+- **Toán học** *(tư duy logic, tính toán)*
+- **Tìm hiểu tự nhiên và xã hội** *(khoa học, lịch sử, địa lý, xã hội học)*
+- **Công nghệ và tin học** *(CNTT, kỹ năng số, ứng dụng công nghệ)*
+- **Thẩm mỹ** *(nghệ thuật, cảm thụ, sáng tạo hình ảnh/âm nhạc)*
+- **Thể chất** *(vận động, sức khỏe, thể dục thể thao)*
+
+Các năng lực trên được phát triển thông qua **môn học, hoạt động giáo dục và trải nghiệm** *(học tập thực tiễn, hoạt động rèn luyện kỹ năng)* từ lớp 1 đến lớp 12.

@@ -1,0 +1,34 @@
+# II. Cấu trúc nội dung môn Giáo dục Công dân (GDCD) lớp 6
+
+Chương trình môn Giáo dục Công dân (GDCD) lớp 6 được xây dựng theo các chủ đề gắn với đời sống học sinh, giúp các em từng bước hình thành nhân cách và hành vi đạo đức đúng đắn.
+
+## 1. Chủ đề 1: Tự chăm sóc bản thân
+- Nhận biết giá trị bản thân.
+- Rèn luyện thói quen tốt trong học tập, sinh hoạt, vệ sinh cá nhân.
+- Biết bảo vệ sức khỏe thể chất và tinh thần.
+
+## 2. Chủ đề 2: Quan hệ với gia đình
+- Hiểu vai trò và trách nhiệm của từng thành viên trong gia đình.
+- Biết chia sẻ, giúp đỡ, lễ phép, kính trọng ông bà, cha mẹ.
+- Rèn luyện hành vi ứng xử đúng mực trong gia đình.
+
+## 3. Chủ đề 3: Quan hệ với bạn bè
+- Hiểu và thể hiện tình bạn tốt.
+- Biết hợp tác, tôn trọng sự khác biệt, giải quyết xung đột tích cực.
+- Biết phòng tránh và xử lý bắt nạt học đường.
+
+## 4. Chủ đề 4: Quan hệ với thầy cô và người lớn
+- Biết thể hiện thái độ tôn trọng, lễ phép, vâng lời thầy cô.
+- Thực hiện đúng nội quy, quy định của trường lớp.
+
+## 5. Chủ đề 5: Ứng xử nơi công cộng
+- Hiểu và tuân thủ các quy tắc ứng xử nơi công cộng.
+- Biết giữ gìn tài sản công, bảo vệ môi trường.
+
+## 6. Chủ đề 6: Quyền và bổn phận của học sinh
+- Nhận biết quyền, bổn phận của học sinh theo quy định pháp luật.
+- Biết bảo vệ bản thân và lên tiếng trước hành vi xâm hại.
+
+## 7. Chủ đề 7: Trách nhiệm công dân với cộng đồng
+- Hiểu vai trò của công dân trong xã hội.
+- Tham gia các hoạt động tập thể, cộng đồng phù hợp với lứa tuổi.

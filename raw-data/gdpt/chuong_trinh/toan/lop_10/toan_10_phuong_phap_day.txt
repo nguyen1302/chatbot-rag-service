@@ -1,0 +1,24 @@
+# IV. Phát triển năng lực toán học lớp 10
+
+Chương trình môn Toán lớp 10 chú trọng phát triển 5 năng lực toán học cốt lõi sau:
+
+## 1. Năng lực tư duy và lập luận toán học
+- Nhận biết, phân tích và đánh giá các mệnh đề, lập luận, chứng minh trong toán học.
+- Biết trình bày suy luận logic, mạch lạc khi giải bài toán hoặc phản biện.
+
+## 2. Năng lực giải quyết vấn đề toán học
+- Nhận diện và đặt bài toán từ tình huống thực tế hoặc trong học tập.
+- Lựa chọn và áp dụng kiến thức, công cụ toán học phù hợp để giải quyết vấn đề.
+
+## 3. Năng lực mô hình hóa toán học
+- Chuyển tình huống thực tiễn thành mô hình toán học: biểu thức, phương trình, bảng biểu, đồ thị…
+- Giải thích kết quả và kiểm tra tính hợp lý trong bối cảnh thực tế.
+
+## 4. Năng lực giao tiếp toán học
+- Diễn đạt ý tưởng, lập luận bằng ngôn ngữ toán học (ký hiệu, công thức, đồ thị…).
+- Trình bày bài giải rõ ràng, logic, có minh họa khi cần thiết.
+- Biết trao đổi, thảo luận, phản hồi trong học toán.
+
+## 5. Năng lực sử dụng công cụ và phương tiện học toán
+- Sử dụng thành thạo máy tính bỏ túi, phần mềm vẽ đồ thị, bảng tính Excel hoặc Python cơ bản.
+- Khai thác tài liệu số (video, kho bài tập, ứng dụng học toán trực tuyến) để hỗ trợ học tập.

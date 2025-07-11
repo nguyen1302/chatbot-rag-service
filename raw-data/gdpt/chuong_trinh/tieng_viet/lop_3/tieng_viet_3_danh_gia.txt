@@ -1,28 +1,32 @@
-# VI. Đánh giá môn Tiếng Việt lớp 3
+# V. Đánh giá môn Tiếng Việt lớp 3
 
-Hoạt động đánh giá môn Tiếng Việt lớp 3 nhằm ghi nhận sự tiến bộ của học sinh trong quá trình học tập, đồng thời hỗ trợ giáo viên điều chỉnh hoạt động dạy học cho phù hợp. Việc đánh giá được thực hiện theo hướng phát triển phẩm chất, năng lực và đảm bảo sự công bằng, không gây áp lực cho học sinh.
+Việc đánh giá môn Tiếng Việt lớp 3 được thực hiện theo định hướng phát triển phẩm chất, năng lực của học sinh, bảo đảm tính toàn diện, công bằng, liên tục và kịp thời.
 
-## Đánh giá thường xuyên
+## 1. Mục tiêu đánh giá
+- Đo lường mức độ đạt được về kỹ năng nghe – nói – đọc – viết và kiến thức tiếng Việt của học sinh.
+- Góp phần điều chỉnh hoạt động dạy học, hỗ trợ học sinh tiến bộ, phát triển năng lực ngôn ngữ.
+- Khuyến khích học sinh tự học, tự đánh giá và phát triển tinh thần trách nhiệm trong học tập.
 
-- Quan sát, nhận xét thái độ học tập, sự tham gia vào các hoạt động ngôn ngữ.
-- Kiểm tra kỹ năng nghe, nói, đọc, viết thông qua các bài tập, bài luyện tập, sản phẩm học tập.
-- Đánh giá qua hoạt động nhóm, hỏi – đáp, kể chuyện, trình bày ý kiến.
-- Khuyến khích học sinh tự đánh giá và đánh giá lẫn nhau dựa trên tiêu chí cụ thể.
+## 2. Hình thức đánh giá
 
-## Đánh giá định kỳ
+### a) Đánh giá thường xuyên
+- Thực hiện trong quá trình học tập qua quan sát, hỏi – đáp, thảo luận, sản phẩm học tập.
+- Giáo viên ghi nhận sự tiến bộ từng ngày trong kỹ năng đọc, viết, trình bày miệng, chính tả, kể chuyện,…
+- Sử dụng phiếu đánh giá, nhận xét trực tiếp, bảng kiểm để theo dõi.
 
-- Kiểm tra kỹ năng đọc thành tiếng và đọc hiểu (giữa kỳ, cuối kỳ).
-- Kiểm tra kỹ năng viết: chính tả, viết đoạn văn, viết bài văn theo yêu cầu.
-- Đánh giá kỹ năng nghe – nói qua các hoạt động kể chuyện, trình bày, giao tiếp theo tình huống.
+### b) Đánh giá định kỳ
+- Tổ chức vào cuối học kỳ và cuối năm học, với các bài kiểm tra về:
+  - **Đọc hiểu**: đọc thầm và trả lời câu hỏi.
+  - **Nghe – nói**: kể lại, trình bày, trả lời câu hỏi.
+  - **Viết**: viết đoạn hoặc bài văn ngắn, viết chính tả.
+- Đảm bảo đánh giá được cả kiến thức và kỹ năng, khả năng vận dụng vào thực tiễn.
 
-## Công cụ đánh giá
+## 3. Công cụ đánh giá
+- Bảng kiểm, thang đo mức độ hoàn thành.
+- Hồ sơ học tập (portfolio), phiếu đánh giá sản phẩm.
+- Bài kiểm tra viết, đọc – hiểu, ghi âm bài kể hoặc trình bày.
 
-- Bảng kiểm, thang đo, rubrics mô tả các mức độ đạt được của từng kỹ năng.
-- Phiếu nhận xét, hồ sơ học tập cá nhân, sản phẩm bài viết, bài trình bày.
-- Câu hỏi mở, nhiệm vụ học tập tích hợp để đánh giá năng lực thực tế của học sinh.
-
-## Tiêu chí đánh giá
-
-- Hoàn thành tốt: đạt trên 90% yêu cầu về kỹ năng, thể hiện rõ sự sáng tạo, chủ động.
-- Hoàn thành: đáp ứng cơ bản các yêu cầu, có tiến bộ rõ rệt theo thời gian.
-- Chưa hoàn thành: còn sai sót nhiều, cần được hỗ trợ thêm để phát triển kỹ năng.
+## 4. Phản hồi và điều chỉnh
+- Giáo viên đưa ra nhận xét chi tiết, gợi ý cách sửa sai và định hướng tiến bộ.
+- Học sinh được khuyến khích **tự đánh giá** và **đánh giá lẫn nhau**, tăng cường năng lực phản hồi, cộng tác.
+- Kết hợp với phụ huynh trong việc theo dõi và hỗ trợ học sinh tiến bộ qua từng giai đoạn học.

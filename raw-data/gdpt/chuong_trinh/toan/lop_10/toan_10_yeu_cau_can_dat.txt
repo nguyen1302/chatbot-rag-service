@@ -1,0 +1,24 @@
+# III. Yêu cầu cần đạt môn Toán lớp 10
+
+Sau khi hoàn thành chương trình Toán lớp 10, học sinh cần đạt được những yêu cầu sau:
+
+## 1. Kiến thức
+- Nắm vững kiến thức cơ bản về hàm số, phương trình – bất phương trình, logic mệnh đề và tổ hợp, véc-tơ và hệ tọa độ.
+- Hiểu bản chất và biết vận dụng các khái niệm: xác suất, biến cố, đại lượng thống kê.
+- Biết sử dụng ngôn ngữ, ký hiệu và biểu đồ toán học để biểu diễn và giải thích các khái niệm, quy trình.
+
+## 2. Kỹ năng
+- Biết giải và biện luận các phương trình, bất phương trình, hệ phương trình bằng nhiều phương pháp.
+- Thành thạo kỹ năng vẽ đồ thị, xác định miền xác định và khảo sát hàm số bậc nhất, bậc hai.
+- Vận dụng phép biến đổi hình học để giải bài toán hình trong mặt phẳng tọa độ.
+- Phân tích dữ liệu thống kê đơn giản, tính xác suất của biến cố và giải thích kết quả.
+
+## 3. Năng lực
+- Phát triển tư duy logic và năng lực lập luận toán học thông qua các hoạt động chứng minh và giải bài toán.
+- Biết mô hình hóa các tình huống thực tiễn thành bài toán toán học và giải quyết hợp lý.
+- Sử dụng hiệu quả các công cụ học tập (máy tính cầm tay, phần mềm, bảng tính…) để hỗ trợ giải toán và khám phá kiến thức mới.
+
+## 4. Thái độ học tập
+- Thể hiện tinh thần hợp tác, kiên trì, cẩn thận, chính xác trong học toán.
+- Có thái độ tích cực trong việc sử dụng toán học để giải quyết vấn đề thực tiễn.
+- Yêu thích môn Toán, chủ động học tập, tự học và khám phá các mối liên hệ trong và ngoài môn học.
