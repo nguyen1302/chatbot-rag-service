@@ -1,5 +1,4 @@
-# KIỂM TRA - ĐÁNH GIÁ TRỰC TUYẾN  
-(thi.lms360.edu.vn)
+# KIỂM TRA - ĐÁNH GIÁ TRỰC TUYẾN  (thi.lms360.edu.vn)
 
 ## I. TỔNG QUAN
 

@@ -1,35 +1,59 @@
-# GIỚI THIỆU TỔNG QUAN  
-CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA
+**GIỚI THIỆU TỔNG QUAN
 
-Công ty Cổ phần Tập đoàn Khoa học Công nghệ Bách Khoa (gọi tắt là Bách Khoa) được thành lập từ năm 2019, dưới sự dẫn dắt của ông Huỳnh Quốc Thắng (Chủ tịch HĐQT). Với hơn 14 năm kinh nghiệm trong lĩnh vực giáo dục và đào tạo, ông Thắng cùng các cộng sự đã không ngừng nghiên cứu, phát triển các sản phẩm công nghệ phục vụ chiến lược chuyển đổi số của ngành giáo dục Việt Nam.
+**CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA**
 
-Bách Khoa hướng đến một hệ thống giáo dục hiện đại, tiên tiến và công bằng, nơi mọi học sinh, sinh viên đều có cơ hội phát triển toàn diện. Chúng tôi tin rằng việc ứng dụng công nghệ tiên tiến sẽ giúp tạo nên môi trường học tập linh hoạt, sáng tạo và bắt kịp xu hướng toàn cầu.
+Bách Khoa được thành lập từ năm 2019, bởi sự dẫn dắt của Ông Huỳnh Quốc Thắng (Chủ tịch HĐQT). Với kinh nghiệm hơn 14 năm hoạt động trong lĩnh vực Giáo dục và Đào tạo, Ông Thắng cùng các cộng sự đã có thời gian nghiên cứu, tìm hiểu và phát triển các sản phẩm công nghệ để phụng sự cho chiến lược phát triển của Giáo dục Nước nhà trong kỷ nguyên chuyển đổi số. Bách Khoa mong muốn cùng với ngành Giáo dục hướng đến một hệ thống giáo dục hiện đại, tiên tiến và công bằng, nơi mà mọi học sinh, sinh viên có cơ hội bình đẳng để phát triển toàn diện bằng cách áp dụng công nghệ tiên tiến nhất để tạo ra một môi trường học tập linh hoạt, sáng tạo và phản ánh xu hướng toàn cầu.
 
----
+1. **Tầm nhìn**
 
-## I. TẦM NHÌN
+Tầm nhìn của Bách Khoa là xây dựng một hệ thống giáo dục hiện đại, tiên tiến và công bằng, nơi mà mọi học sinh, sinh viên có cơ hội bình đẳng để phát triển toàn diện. Chúng tôi nhìn thấy một Việt Nam với thế hệ trẻ được trang bị những kỹ năng cần thiết để tự tin đối mặt với những thách thức của thế giới ngày nay và tương lai.
 
-Bách Khoa đặt mục tiêu trở thành đơn vị tiên phong trong việc xây dựng một hệ thống giáo dục hiện đại, bình đẳng và có khả năng hội nhập quốc tế. Chúng tôi mong muốn thế hệ trẻ Việt Nam được trang bị đầy đủ kỹ năng và tư duy để tự tin trước những thách thức trong tương lai.
+1. Giáo dục hiện đại
 
-- **Giáo dục hiện đại**: Ứng dụng công nghệ để tạo ra môi trường học tập linh hoạt, sáng tạo, cập nhật xu thế toàn cầu.  
-- **Tích hợp công nghệ**: Số hóa toàn diện hoạt động dạy và học, kết hợp học trực tuyến, học liệu số và các hình thức tương tác đa chiều.  
-- **Bình đẳng và tiếp cận**: Cam kết tạo cơ hội học tập cho mọi học sinh, sinh viên, không phân biệt điều kiện kinh tế hay vùng miền.  
-- **Hỗ trợ hệ thống giáo dục toàn cầu**: Thúc đẩy chuyển đổi số, chia sẻ tri thức và hợp tác quốc tế để xây dựng mô hình giáo dục tiên tiến.  
-- **Đổi mới liên tục**: Luôn đi đầu trong việc nghiên cứu, ứng dụng các công nghệ mới như AI, AR/VR, blockchain vào giáo dục.
+Áp dụng công nghệ tiên tiến để tạo ra môi trường học tập linh hoạt, sáng tạo, bắt kịp xu hướng toàn cầu.
 
----
+1. Tích Hợp Công Nghệ
 
-## II. SỨ MỆNH
+Số hóa giáo dục kết hợp với học trực tuyến, học liệu số và các hình thức tương tác giúp tối ưu hóa trải nghiệm giảng dạy và học tập.
 
-Bách Khoa nỗ lực đóng góp vào sự phát triển toàn diện của cộng đồng giáo dục Việt Nam và thế giới, thông qua việc xây dựng nền tảng giáo dục số thông minh, hỗ trợ đổi mới phương pháp giảng dạy, nâng cao năng lực công nghệ và đảm bảo an sinh tinh thần cho người học.
+1. Bình Đẳng & Tiếp Cận
 
-- **Phát triển nền tảng giáo dục thông minh**: Xây dựng công cụ hỗ trợ giáo viên quản lý lớp học, thiết kế nội dung và đồng hành cùng học sinh phát triển toàn diện.  
-- **Đào tạo & hỗ trợ giáo viên, giảng viên**: Cung cấp chương trình cập nhật kiến thức, kỹ năng giảng dạy và công nghệ mới nhất.  
-- **Nâng cao kỹ năng công nghệ**: Khuyến khích sáng tạo, tư duy công nghệ và cá nhân hóa quá trình học tập.  
-- **Tạo nền tảng học tập đa dạng**: Thúc đẩy mô hình Blended Learning kết hợp dạy học trực tuyến và trực tiếp.  
-- **Đổi mới đánh giá & đo lường**: Áp dụng đánh giá đa chiều, tập trung phát triển tư duy phản biện, giải quyết vấn đề.  
-- **Chú trọng an sinh tinh thần**: Nuôi dưỡng nhân cách, xây dựng tinh thần học tập tích cực và bền vững.
+Cam kết mang lại cơ hội học tập bình đẳng cho mọi học sinh, sinh viên, không phân biệt điều kiện kinh tế hay địa lý.
 
----
+1. Hỗ Trợ Hệ Thống Giáo Dục Toàn Cầu
 
-Thông qua tầm nhìn và sứ mệnh này, Bách Khoa mong muốn trở thành đối tác chiến lược đáng tin cậy của ngành giáo dục Việt Nam trên hành trình chuyển đổi số và phát triển bền vững. Chúng tôi sẵn sàng hợp tác cùng các trường học, tổ chức giáo dục và cộng đồng để kiến tạo một tương lai giáo dục chất lượng và nhân văn hơn cho Việt Nam.
+Thúc đẩy chuyển đổi số trong giáo dục, chia sẻ tri thức và hợp tác quốc tế để phát triển mô hình tiên tiến.
+
+1. Đổi Mới Liên Tục
+
+Luôn tiên phong trong nghiên cứu và ứng dụng công nghệ như AI, thực tế ảo AR/VR, blockchain,... để nâng tầm giáo dục.
+
+1. **Sứ mệnh**
+
+Chúng tôi đóng góp vào sự phát triển toàn diện của cộng đồng giáo dục Việt Nam và Thế giới.
+
+1. Phát Triển Nền Tảng Giáo Dục Thông Minh
+
+Phát triển nền tảng số hỗ trợ giáo viên, giảng viên quản lý lớp học, xây dựng nội dung và đồng hành cùng học sinh, sinh viên phát triển toàn diện kỹ năng.
+
+1. Đào Tạo & Hỗ Trợ Giáo Viên, Giảng Viên
+
+Cung cấp chương trình đào tạo và hỗ trợ liên tục, giúp giáo viên, giảng viên cập nhật xu hướng giáo dục mới nhất.
+
+1. Nâng Cao Kỹ Năng Công Nghệ
+
+Phát triển giải pháp giáo dục cá nhân hóa, khuyến khích sáng tạo và rèn luyện kỹ năng số.
+
+1. Tạo Nền Tảng Học Tập Đa Dạng
+
+Chuyển đổi phương pháp giảng dạy từ truyền thống sang phương pháp giảng dạy hiện đại theo mô hình Blended Learning (trực tuyến kết hợp trực tiếp).
+
+1. Đổi Mới Đánh Giá & Đo Lường
+
+Áp dụng phương pháp đánh giá đa chiều, tập trung vào sáng tạo, tư duy phản biện và giải quyết vấn đề.
+
+1. Chú Trọng An Sinh Tinh Thần
+
+Giáo dục không chỉ giúp thành công trong công việc mà còn nuôi dưỡng tâm hồn và phát triển nhân cách.
+
+Thông qua tầm nhìn và sứ mệnh này, Bách Khoa hy vọng có thể là một đối tác đáng tin cậy, đồng hành với Ngành giáo dục Việt Nam trên con đường chuyển đổi số và phát triển bền vững. Chúng tôi mong muốn hợp tác chặt chẽ với các bên liên quan như trường học, tổ chức giáo dục, và cộng đồng để cùng nhau định hình một tương lai giáo dục tốt đẹp hơn cho Việt Nam.
